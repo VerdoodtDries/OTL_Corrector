@@ -1,0 +1,30 @@
+{
+    "auth_options" : [
+        {
+            "type" : "JWT",
+            "environment": "prd",
+            "client_id" : "8778c991-5b9d-418d-b38b-28b8fe7c3f06",
+            "key_path" : "C:\\Users\\DriesVerdoodtNordend\\OneDrive - Nordend\\projects\\AWV\\webkeys_AWV_API\\PRD\\private_key.json"
+        }
+    ],
+    "databases" : {
+         "prd" : {
+             "database" : "infra_db",
+             "host": "localhost",
+             "port": "5432",
+             "user": "postgres",
+             "password": "grespost"
+         },
+        "unittest" : {
+             "database" : "unittest",
+             "host": "localhost",
+             "port": "5432",
+             "user": "unittest",
+             "password": "unittest"
+         }
+    },
+     "time" : {
+         "start" : "06:00:00",
+         "end" : "23:50:00"
+     }
+}
