@@ -1,24 +1,12 @@
 import otlmow_model.OtlmowModel
-from shapely import LineString, Polygon
-import geopandas as gpd
 import requests
 
-# Roep een functie aan om de Token op te halen
-# input: client_id, environment,
-# output: token
+# Get the token
 
-# Test Geopandas function remove_repeated_points()
-s = gpd.GeoSeries([
-       LineString([(0, 0), (0, 0), (1, 0)]),
-       Polygon([(0, 0), (0, 0.5), (0, 1), (0.5, 1), (0,0)]),
-    ],)
-print(s)
-
-s = s.remove_repeated_points(tolerance=0.0)
-print(s)
 
 # Haal een asset op m.b.v. de API
 # Kopieer dezelfde methode (API Call) als in FME, maar dan in Python.
+
 
 # base_url = 'services.apps.mow.vlaanderen.be/eminfra/core/api'
 base_url = 'services.apps-tei.mow.vlaanderen.be/eminfra/core/api'
@@ -44,12 +32,6 @@ def otlassetssearch(token: str, base_url: str, size: int, filters: str):
 
 # Function call
 otlassetssearch(token=K_fOOntM61KUd7X8GVGqqvZ8GVuXcTKLZ8LTiGBnDQ4, base_url, size, filters)
-
-
-# Verbeter het asset. Vb. Verwijder dubbele opeenvolgende punten
-# https://geopandas.org/en/latest/docs/reference/api/geopandas.GeoSeries.remove_repeated_points.html
-
-
 
 # Bewaar dit asset in het OTLMOW-model
 # Converteer het asset naar het JSON-bestandsformaat voor DAVIE aanlevering

@@ -4,25 +4,29 @@
             "type" : "JWT",
             "environment": "aim",
             "client_id" : "8c6f8e7a-2443-4a8e-8eb5-4d4bdf22c3ef",
-            "key_path" : "C:\\Users\\DriesVerdoodtNordend\\OneDrive - Nordend\\projects\\AWV\\resources\\AIM\\private_key.json"
+            "key_path" : "C:\\Users\\DriesVerdoodtNordend\\OneDrive - Nordend\\projects\\AWV\\resources\\AIM\\private_key.json",
+            "environment_url": "services-aim.apps-dev.mow.vlaanderen.be"
         },
         {
             "type" : "JWT",
             "environment": "dev",
             "client_id" : "8c6f8e7a-2443-4a8e-8eb5-4d4bdf22c3ef",
-            "key_path" : "C:\\Users\\DriesVerdoodtNordend\\OneDrive - Nordend\\projects\\AWV\\resources\\DEV\\private_key.json"
+            "key_path" : "C:\\Users\\DriesVerdoodtNordend\\OneDrive - Nordend\\projects\\AWV\\resources\\DEV\\private_key.json",
+            "environment_url": "services.apps-dev.mow.vlaanderen.be"
         },
         {
             "type" : "JWT",
             "environment": "prd",
             "client_id" : "8778c991-5b9d-418d-b38b-28b8fe7c3f06",
-            "key_path" : "C:\\Users\\DriesVerdoodtNordend\\OneDrive - Nordend\\projects\\AWV\\resources\\PRD\\private_key.json"
+            "key_path" : "C:\\Users\\DriesVerdoodtNordend\\OneDrive - Nordend\\projects\\AWV\\resources\\PRD\\private_key.json",
+            "environment_url": "services.apps.mow.vlaanderen.be"
         },
         {
             "type" : "JWT",
             "environment": "t&i",
             "client_id" : "9b9e892b-0e7a-4f25-9163-f0fbaf91e382",
-            "key_path" : "C:\\Users\\DriesVerdoodtNordend\\OneDrive - Nordend\\projects\\AWV\\resources\\T&I\\private_key.json"
+            "key_path" : "C:\\Users\\DriesVerdoodtNordend\\OneDrive - Nordend\\projects\\AWV\\resources\\T&I\\private_key.json",
+            "environment_url": "services.apps-tei.mow.vlaanderen.be"
         }
     ],
     "databases" : {

@@ -1,4 +1,5 @@
 import geopandas as gpd
+from shapely import LineString, Polygon
 
 # Verbeter het asset. Vb. Verwijder dubbele opeenvolgende punten
 # https://geopandas.org/en/latest/docs/reference/api/geopandas.GeoSeries.remove_repeated_points.html
