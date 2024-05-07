@@ -12,6 +12,8 @@ class AWV_Token:
         self.jwk_private_key_file = self.readfromsettings('key_path')
         self.client_id = self.readfromsettings('client_id')
         self.environment_url = self.readfromsettings('environment_url')
+        self.iat = round(time.time())
+        self.exp = self.iat + 600
         self.signed_jwt = self.generate_jwt(self.client_id, self.jwk_private_key_file)
         self.access_token = self.get_token(self.signed_jwt, self.client_id)
 
@@ -42,11 +44,9 @@ class AWV_Token:
             private_key = jwk_from_dict(json_data)
             # print(f"private key is aangemaakt: {private_key}")
         # print("Aanmaken van een jwt token")
-        current_time_in_seconds = round(time.time())
-        expiry_time_in_seconds = current_time_in_seconds + 599
         claims = {
-            "exp": expiry_time_in_seconds,
-            "iat": current_time_in_seconds,
+            "exp": self.exp,
+            "iat": self.iat,
             # dit is een random token om replay attacks te vermijden
             "jti": str(uuid.uuid4()),
             "iss": client_id,

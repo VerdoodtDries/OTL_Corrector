@@ -17,7 +17,7 @@ def otlassetssearch(token: str, base_url: str, filters: str, size: int = 1000):
         f"https://{base_url}/eminfra/core/api/otl/assets/search",
         params={"size": size, "filters": filters},
         headers={"Authorization": f"Bearer {token}"},
-#        data=bytes,
+        #data=bytes,
         timeout=15,
     )
 
