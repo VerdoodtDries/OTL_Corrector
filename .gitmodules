@@ -1,0 +1,3 @@
+[submodule "AWVInfraPostGISSyncer"]
+	path = AWVInfraPostGISSyncer
+	url = https://github.com/davidvlaminck/AWVInfraPostGISSyncer.git
