@@ -1,3 +1,4 @@
 [submodule "AWVInfraPostGISSyncer"]
 	path = AWVInfraPostGISSyncer
 	url = https://github.com/davidvlaminck/AWVInfraPostGISSyncer.git
+	branch = refactor_different_feeds
