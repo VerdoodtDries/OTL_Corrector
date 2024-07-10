@@ -1,0 +1,805 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "5c867a14-ec7a-4036-bb8b-df88a4d0af7d",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#SchampkantStd",
+                "assetId.identificator": "5c867a14-ec7a-4036-bb8b-df88a4d0af7d",
+                "notitie": "SchampkantStd gebaseerd op KantstrookAfw",
+                "toestand": "verwijderd",
+                "type": "varkensrug-of-biggenrug"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241473.307577,
+                    190056.33368,
+                    66.733,
+                    241474.156423,
+                    190056.86232,
+                    66.733
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        241473.307577,
+                        190056.33368,
+                        66.733
+                    ],
+                    [
+                        241474.156423,
+                        190056.86232,
+                        66.733
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "ee9cf473-a217-443e-b39f-b5ec682eee4c",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#SchampkantStd",
+                "assetId.identificator": "ee9cf473-a217-443e-b39f-b5ec682eee4c",
+                "notitie": "SchampkantStd gebaseerd op KantstrookAfw",
+                "toestand": "verwijderd",
+                "type": "varkensrug-of-biggenrug"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241490.329577,
+                    190066.80268,
+                    66.179,
+                    241491.178423,
+                    190067.33132,
+                    66.179
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        241490.329577,
+                        190066.80268,
+                        66.179
+                    ],
+                    [
+                        241491.178423,
+                        190067.33132,
+                        66.179
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "bb742c96-c8a8-49d1-8361-7c77580b050a",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#SchampkantStd",
+                "assetId.identificator": "bb742c96-c8a8-49d1-8361-7c77580b050a",
+                "notitie": "SchampkantStd gebaseerd op KantstrookAfw",
+                "toestand": "verwijderd",
+                "type": "varkensrug-of-biggenrug"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241486.910577,
+                    190064.72168,
+                    66.297,
+                    241487.759423,
+                    190065.25032,
+                    66.297
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        241486.910577,
+                        190064.72168,
+                        66.297
+                    ],
+                    [
+                        241487.759423,
+                        190065.25032,
+                        66.297
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "143af3ea-e1c9-4dae-bbc2-8453e4353f1b",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#SchampkantStd",
+                "assetId.identificator": "143af3ea-e1c9-4dae-bbc2-8453e4353f1b",
+                "notitie": "SchampkantStd gebaseerd op KantstrookAfw",
+                "toestand": "verwijderd",
+                "type": "varkensrug-of-biggenrug"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241476.733577,
+                    190058.48968,
+                    66.622,
+                    241477.582423,
+                    190059.01832,
+                    66.622
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        241476.733577,
+                        190058.48968,
+                        66.622
+                    ],
+                    [
+                        241477.582423,
+                        190059.01832,
+                        66.622
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "b374244d-9581-4c69-be69-fddbac71afc9",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#SchampkantStd",
+                "assetId.identificator": "b374244d-9581-4c69-be69-fddbac71afc9",
+                "notitie": "SchampkantStd gebaseerd op KantstrookAfw",
+                "toestand": "verwijderd",
+                "type": "varkensrug-of-biggenrug"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241466.580577,
+                    190052.12968,
+                    66.986,
+                    241467.429423,
+                    190052.65832,
+                    66.986
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        241466.580577,
+                        190052.12968,
+                        66.986
+                    ],
+                    [
+                        241467.429423,
+                        190052.65832,
+                        66.986
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "703b62e1-51d0-43bd-8196-6bd2fa82f6b2",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#SchampkantStd",
+                "assetId.identificator": "703b62e1-51d0-43bd-8196-6bd2fa82f6b2",
+                "notitie": "SchampkantStd gebaseerd op KantstrookAfw",
+                "toestand": "verwijderd",
+                "type": "varkensrug-of-biggenrug"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241463.167577,
+                    190049.99168,
+                    67.11,
+                    241464.016423,
+                    190050.52032,
+                    67.11
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        241463.167577,
+                        190049.99168,
+                        67.11
+                    ],
+                    [
+                        241464.016423,
+                        190050.52032,
+                        67.11
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "4c9b3252-e3cf-4828-9ba0-7651e82334b4",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#SchampkantStd",
+                "assetId.identificator": "4c9b3252-e3cf-4828-9ba0-7651e82334b4",
+                "notitie": "SchampkantStd gebaseerd op KantstrookAfw",
+                "toestand": "verwijderd",
+                "type": "varkensrug-of-biggenrug"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241488.612577,
+                    190065.76268,
+                    66.244,
+                    241489.461423,
+                    190066.29132,
+                    66.244
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        241488.612577,
+                        190065.76268,
+                        66.244
+                    ],
+                    [
+                        241489.461423,
+                        190066.29132,
+                        66.244
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "d8bd0ce1-8ba4-48ee-b7a1-d7acc5afd6eb",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#SchampkantStd",
+                "assetId.identificator": "d8bd0ce1-8ba4-48ee-b7a1-d7acc5afd6eb",
+                "notitie": "SchampkantStd gebaseerd op KantstrookAfw",
+                "toestand": "verwijderd",
+                "type": "varkensrug-of-biggenrug"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241471.636577,
+                    190055.26668,
+                    66.801,
+                    241472.485423,
+                    190055.79532,
+                    66.801
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        241471.636577,
+                        190055.26668,
+                        66.801
+                    ],
+                    [
+                        241472.485423,
+                        190055.79532,
+                        66.801
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "4a3315b8-29cc-42c0-82f4-de51903349bd",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#SchampkantStd",
+                "assetId.identificator": "4a3315b8-29cc-42c0-82f4-de51903349bd",
+                "notitie": "SchampkantStd gebaseerd op KantstrookAfw",
+                "toestand": "verwijderd",
+                "type": "varkensrug-of-biggenrug"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241469.969577,
+                    190054.22968,
+                    66.867,
+                    241470.818423,
+                    190054.75832,
+                    66.867
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        241469.969577,
+                        190054.22968,
+                        66.867
+                    ],
+                    [
+                        241470.818423,
+                        190054.75832,
+                        66.867
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "9b270b12-e2f0-4b0f-9311-b15302d10a21",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#SchampkantStd",
+                "assetId.identificator": "9b270b12-e2f0-4b0f-9311-b15302d10a21",
+                "notitie": "SchampkantStd gebaseerd op KantstrookAfw",
+                "toestand": "verwijderd",
+                "type": "varkensrug-of-biggenrug"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241478.425577,
+                    190059.50168,
+                    66.59,
+                    241479.274423,
+                    190060.03032,
+                    66.59
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        241478.425577,
+                        190059.50168,
+                        66.59
+                    ],
+                    [
+                        241479.274423,
+                        190060.03032,
+                        66.59
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "ab51c35b-5396-4689-8b6b-2b52a4103e4f",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#SchampkantStd",
+                "assetId.identificator": "ab51c35b-5396-4689-8b6b-2b52a4103e4f",
+                "notitie": "SchampkantStd gebaseerd op KantstrookAfw",
+                "toestand": "verwijderd",
+                "type": "varkensrug-of-biggenrug"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241461.469577,
+                    190048.94568,
+                    67.175,
+                    241462.318423,
+                    190049.47432,
+                    67.175
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        241461.469577,
+                        190048.94568,
+                        67.175
+                    ],
+                    [
+                        241462.318423,
+                        190049.47432,
+                        67.175
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "5cc7b70b-4950-463d-99f9-3172d466c83a",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#SchampkantStd",
+                "assetId.identificator": "5cc7b70b-4950-463d-99f9-3172d466c83a",
+                "notitie": "SchampkantStd gebaseerd op KantstrookAfw",
+                "toestand": "verwijderd",
+                "type": "varkensrug-of-biggenrug"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241475.059577,
+                    190057.37668,
+                    66.675,
+                    241475.908423,
+                    190057.90532,
+                    66.675
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        241475.059577,
+                        190057.37668,
+                        66.675
+                    ],
+                    [
+                        241475.908423,
+                        190057.90532,
+                        66.675
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "0c8b9308-da38-4db0-a096-03b5d27e61e9",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#SchampkantStd",
+                "assetId.identificator": "0c8b9308-da38-4db0-a096-03b5d27e61e9",
+                "notitie": "SchampkantStd gebaseerd op KantstrookAfw",
+                "toestand": "verwijderd",
+                "type": "varkensrug-of-biggenrug"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241481.821577,
+                    190061.59568,
+                    66.483,
+                    241482.670423,
+                    190062.12432,
+                    66.483
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        241481.821577,
+                        190061.59568,
+                        66.483
+                    ],
+                    [
+                        241482.670423,
+                        190062.12432,
+                        66.483
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "2e9b2a04-daff-48f5-b580-50c065eb3831",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#SchampkantStd",
+                "assetId.identificator": "2e9b2a04-daff-48f5-b580-50c065eb3831",
+                "notitie": "SchampkantStd gebaseerd op KantstrookAfw",
+                "toestand": "verwijderd",
+                "type": "varkensrug-of-biggenrug"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241483.541577,
+                    190062.62668,
+                    66.428,
+                    241484.390423,
+                    190063.15532,
+                    66.428
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        241483.541577,
+                        190062.62668,
+                        66.428
+                    ],
+                    [
+                        241484.390423,
+                        190063.15532,
+                        66.428
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "538216f4-b94a-4989-8da3-032825eb41dc",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#SchampkantStd",
+                "assetId.identificator": "538216f4-b94a-4989-8da3-032825eb41dc",
+                "notitie": "SchampkantStd gebaseerd op KantstrookAfw",
+                "toestand": "verwijderd",
+                "type": "varkensrug-of-biggenrug"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241480.109577,
+                    190060.53268,
+                    66.525,
+                    241480.958423,
+                    190061.06132,
+                    66.525
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        241480.109577,
+                        190060.53268,
+                        66.525
+                    ],
+                    [
+                        241480.958423,
+                        190061.06132,
+                        66.525
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "6579cf4c-6f9c-4d07-b7dc-f0f00857880e",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#SchampkantStd",
+                "assetId.identificator": "6579cf4c-6f9c-4d07-b7dc-f0f00857880e",
+                "notitie": "SchampkantStd gebaseerd op KantstrookAfw",
+                "toestand": "verwijderd",
+                "type": "varkensrug-of-biggenrug"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241459.770577,
+                    190047.87868,
+                    67.232,
+                    241460.619423,
+                    190048.40732,
+                    67.232
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        241459.770577,
+                        190047.87868,
+                        67.232
+                    ],
+                    [
+                        241460.619423,
+                        190048.40732,
+                        67.232
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "a84d908a-be45-4461-8603-b593f2309c1f",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#SchampkantStd",
+                "assetId.identificator": "a84d908a-be45-4461-8603-b593f2309c1f",
+                "notitie": "SchampkantStd gebaseerd op KantstrookAfw",
+                "toestand": "verwijderd",
+                "type": "varkensrug-of-biggenrug"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241464.850577,
+                    190051.06168,
+                    67.053,
+                    241465.699423,
+                    190051.59032,
+                    67.053
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        241464.850577,
+                        190051.06168,
+                        67.053
+                    ],
+                    [
+                        241465.699423,
+                        190051.59032,
+                        67.053
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "0603cd84-21ec-46a0-86a7-b0c578a784cf",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#SchampkantStd",
+                "assetId.identificator": "0603cd84-21ec-46a0-86a7-b0c578a784cf",
+                "notitie": "SchampkantStd gebaseerd op KantstrookAfw",
+                "toestand": "verwijderd",
+                "type": "varkensrug-of-biggenrug"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241492.023577,
+                    190067.83468,
+                    66.115,
+                    241492.872423,
+                    190068.36332,
+                    66.115
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        241492.023577,
+                        190067.83468,
+                        66.115
+                    ],
+                    [
+                        241492.872423,
+                        190068.36332,
+                        66.115
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "eddbe0b0-03af-4b3b-a890-284f7d9a3e90",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#SchampkantStd",
+                "assetId.identificator": "eddbe0b0-03af-4b3b-a890-284f7d9a3e90",
+                "notitie": "SchampkantStd gebaseerd op KantstrookAfw",
+                "toestand": "verwijderd",
+                "type": "varkensrug-of-biggenrug"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241485.252577,
+                    190063.70768,
+                    66.36,
+                    241486.101423,
+                    190064.23632,
+                    66.36
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        241485.252577,
+                        190063.70768,
+                        66.36
+                    ],
+                    [
+                        241486.101423,
+                        190064.23632,
+                        66.36
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "ab90242e-ac9a-4e12-a59a-3a4e2d877f68",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#SchampkantStd",
+                "assetId.identificator": "ab90242e-ac9a-4e12-a59a-3a4e2d877f68",
+                "notitie": "SchampkantStd gebaseerd op KantstrookAfw",
+                "toestand": "verwijderd",
+                "type": "varkensrug-of-biggenrug"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241468.249577,
+                    190053.18368,
+                    66.93,
+                    241469.098423,
+                    190053.71232,
+                    66.93
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        241468.249577,
+                        190053.18368,
+                        66.93
+                    ],
+                    [
+                        241469.098423,
+                        190053.71232,
+                        66.93
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        }
+    ]
+}

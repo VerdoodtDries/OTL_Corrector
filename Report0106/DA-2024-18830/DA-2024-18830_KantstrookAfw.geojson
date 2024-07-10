@@ -1,0 +1,205 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "146b9d08-20c7-407f-abb7-acd548889e29-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#KantstrookAfw",
+                "assetId.identificator": "146b9d08-20c7-407f-abb7-acd548889e29-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+                "isActief": "false",
+                "notitie": "gedeactiveerd en nieuwe nieuwe asset aangemaakt met assettype SchampkantStd"
+            },
+            "type": "Feature"
+        },
+        {
+            "id": "1c1bded9-0154-40d8-8d25-23eadc3b4a84-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#KantstrookAfw",
+                "assetId.identificator": "1c1bded9-0154-40d8-8d25-23eadc3b4a84-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+                "isActief": "false",
+                "notitie": "gedeactiveerd en nieuwe nieuwe asset aangemaakt met assettype SchampkantStd"
+            },
+            "type": "Feature"
+        },
+        {
+            "id": "1c47a398-a0ad-4ba6-851c-291089a1da15-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#KantstrookAfw",
+                "assetId.identificator": "1c47a398-a0ad-4ba6-851c-291089a1da15-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+                "isActief": "false",
+                "notitie": "gedeactiveerd en nieuwe nieuwe asset aangemaakt met assettype SchampkantStd"
+            },
+            "type": "Feature"
+        },
+        {
+            "id": "2e307a3c-2eb8-4602-9499-83c7c5bd71f5-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#KantstrookAfw",
+                "assetId.identificator": "2e307a3c-2eb8-4602-9499-83c7c5bd71f5-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+                "isActief": "false",
+                "notitie": "gedeactiveerd en nieuwe nieuwe asset aangemaakt met assettype SchampkantStd"
+            },
+            "type": "Feature"
+        },
+        {
+            "id": "5762f3fa-a336-47c8-933f-49881d238e7f-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#KantstrookAfw",
+                "assetId.identificator": "5762f3fa-a336-47c8-933f-49881d238e7f-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+                "isActief": "false",
+                "notitie": "gedeactiveerd en nieuwe nieuwe asset aangemaakt met assettype SchampkantStd"
+            },
+            "type": "Feature"
+        },
+        {
+            "id": "609e581d-68f7-4b57-b99a-9595465223b0-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#KantstrookAfw",
+                "assetId.identificator": "609e581d-68f7-4b57-b99a-9595465223b0-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+                "isActief": "false",
+                "notitie": "gedeactiveerd en nieuwe nieuwe asset aangemaakt met assettype SchampkantStd"
+            },
+            "type": "Feature"
+        },
+        {
+            "id": "650b02df-62e1-4fb3-8167-55b2af19280b-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#KantstrookAfw",
+                "assetId.identificator": "650b02df-62e1-4fb3-8167-55b2af19280b-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+                "isActief": "false",
+                "notitie": "gedeactiveerd en nieuwe nieuwe asset aangemaakt met assettype SchampkantStd"
+            },
+            "type": "Feature"
+        },
+        {
+            "id": "77ae2c88-a71e-41f3-b400-307e435f1f3c-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#KantstrookAfw",
+                "assetId.identificator": "77ae2c88-a71e-41f3-b400-307e435f1f3c-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+                "isActief": "false",
+                "notitie": "gedeactiveerd en nieuwe nieuwe asset aangemaakt met assettype SchampkantStd"
+            },
+            "type": "Feature"
+        },
+        {
+            "id": "7a6358f4-6a70-4e57-ae82-5251f936ad02-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#KantstrookAfw",
+                "assetId.identificator": "7a6358f4-6a70-4e57-ae82-5251f936ad02-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+                "isActief": "false",
+                "notitie": "gedeactiveerd en nieuwe nieuwe asset aangemaakt met assettype SchampkantStd"
+            },
+            "type": "Feature"
+        },
+        {
+            "id": "7d2703a0-7c64-4d8f-bb31-07597b61400c-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#KantstrookAfw",
+                "assetId.identificator": "7d2703a0-7c64-4d8f-bb31-07597b61400c-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+                "isActief": "false",
+                "notitie": "gedeactiveerd en nieuwe nieuwe asset aangemaakt met assettype SchampkantStd"
+            },
+            "type": "Feature"
+        },
+        {
+            "id": "8fa65921-4a25-4f78-9d94-88bb1b3782d9-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#KantstrookAfw",
+                "assetId.identificator": "8fa65921-4a25-4f78-9d94-88bb1b3782d9-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+                "isActief": "false",
+                "notitie": "gedeactiveerd en nieuwe nieuwe asset aangemaakt met assettype SchampkantStd"
+            },
+            "type": "Feature"
+        },
+        {
+            "id": "91cca49f-4e39-47ab-8bb5-a7fc44ba5286-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#KantstrookAfw",
+                "assetId.identificator": "91cca49f-4e39-47ab-8bb5-a7fc44ba5286-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+                "isActief": "false",
+                "notitie": "gedeactiveerd en nieuwe nieuwe asset aangemaakt met assettype SchampkantStd"
+            },
+            "type": "Feature"
+        },
+        {
+            "id": "9fcb9063-e0f2-4260-8f3d-ff7d39603c82-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#KantstrookAfw",
+                "assetId.identificator": "9fcb9063-e0f2-4260-8f3d-ff7d39603c82-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+                "isActief": "false",
+                "notitie": "gedeactiveerd en nieuwe nieuwe asset aangemaakt met assettype SchampkantStd"
+            },
+            "type": "Feature"
+        },
+        {
+            "id": "a16ad4e8-7f89-477b-86e1-f14c7d066fc8-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#KantstrookAfw",
+                "assetId.identificator": "a16ad4e8-7f89-477b-86e1-f14c7d066fc8-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+                "isActief": "false",
+                "notitie": "gedeactiveerd en nieuwe nieuwe asset aangemaakt met assettype SchampkantStd"
+            },
+            "type": "Feature"
+        },
+        {
+            "id": "a8261313-3d63-469a-8159-91c9f9a9a9ff-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#KantstrookAfw",
+                "assetId.identificator": "a8261313-3d63-469a-8159-91c9f9a9a9ff-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+                "isActief": "false",
+                "notitie": "gedeactiveerd en nieuwe nieuwe asset aangemaakt met assettype SchampkantStd"
+            },
+            "type": "Feature"
+        },
+        {
+            "id": "ae878a77-23aa-4c21-9c02-c55ffef42839-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#KantstrookAfw",
+                "assetId.identificator": "ae878a77-23aa-4c21-9c02-c55ffef42839-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+                "isActief": "false",
+                "notitie": "gedeactiveerd en nieuwe nieuwe asset aangemaakt met assettype SchampkantStd"
+            },
+            "type": "Feature"
+        },
+        {
+            "id": "c214f71f-a2b3-48cb-b528-6b9b2376f37c-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#KantstrookAfw",
+                "assetId.identificator": "c214f71f-a2b3-48cb-b528-6b9b2376f37c-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+                "isActief": "false",
+                "notitie": "gedeactiveerd en nieuwe nieuwe asset aangemaakt met assettype SchampkantStd"
+            },
+            "type": "Feature"
+        },
+        {
+            "id": "d856589e-bfbf-4e72-a1e2-68564567c36c-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#KantstrookAfw",
+                "assetId.identificator": "d856589e-bfbf-4e72-a1e2-68564567c36c-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+                "isActief": "false",
+                "notitie": "gedeactiveerd en nieuwe nieuwe asset aangemaakt met assettype SchampkantStd"
+            },
+            "type": "Feature"
+        },
+        {
+            "id": "f38ab400-c12c-4086-a4e2-d7b31620fc87-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#KantstrookAfw",
+                "assetId.identificator": "f38ab400-c12c-4086-a4e2-d7b31620fc87-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+                "isActief": "false",
+                "notitie": "gedeactiveerd en nieuwe nieuwe asset aangemaakt met assettype SchampkantStd"
+            },
+            "type": "Feature"
+        },
+        {
+            "id": "fe588e89-1d96-43aa-924f-49ecf80b1d11-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#KantstrookAfw",
+                "assetId.identificator": "fe588e89-1d96-43aa-924f-49ecf80b1d11-b25kZXJkZWVsI0thbnRzdHJvb2tBZnc",
+                "isActief": "false",
+                "notitie": "gedeactiveerd en nieuwe nieuwe asset aangemaakt met assettype SchampkantStd"
+            },
+            "type": "Feature"
+        }
+    ]
+}
