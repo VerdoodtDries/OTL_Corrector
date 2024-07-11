@@ -1,0 +1,126 @@
+{"type":"FeatureCollection","features":[{
+  "id" : "07b861c0-d354-4bf3-9dd8-0dc0848ae3e3-b25kZXJkZWVsI0hlZWZ0QmV0cm9ra2VuZQ",
+  "properties" : {
+    "assetId.toegekendDoor" : "AWV",
+    "doelAssetId.identificator" : "422c0b96-8329-4c68-ab5f-c6527252386a-cHVybDpBZ2VudA",
+    "assetId.identificator" : "07b861c0-d354-4bf3-9dd8-0dc0848ae3e3-b25kZXJkZWVsI0hlZWZ0QmV0cm9ra2VuZQ",
+    "bronAssetId.identificator" : "a8792f81-b056-45a5-b789-cdbc15000cb5-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ",
+    "bronAssetId.toegekendDoor" : "AWV",
+    "typeURI" : "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#HeeftBetrokkene",
+    "rol" : "beheerder",
+    "isActief" : "true",
+    "doelAssetId.toegekendDoor" : "AWV",
+    "bron.typeURI" : "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#OpgaandeHoutigeVegetatie",
+    "doel.typeURI" : "http://purl.org/dc/terms/Agent"
+  },
+  "type" : "Feature"
+},{
+  "id" : "2b352162-1318-48e9-a3d0-2383cded4d13-b25kZXJkZWVsI0hlZWZ0QmV0cm9ra2VuZQ",
+  "properties" : {
+    "assetId.toegekendDoor" : "AWV",
+    "doelAssetId.identificator" : "422c0b96-8329-4c68-ab5f-c6527252386a-cHVybDpBZ2VudA",
+    "assetId.identificator" : "2b352162-1318-48e9-a3d0-2383cded4d13-b25kZXJkZWVsI0hlZWZ0QmV0cm9ra2VuZQ",
+    "bronAssetId.identificator" : "a9b58982-e8ea-4a16-9b20-e48cf5f15c6f-b25kZXJkZWVsI0Jvb20",
+    "bronAssetId.toegekendDoor" : "AWV",
+    "typeURI" : "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#HeeftBetrokkene",
+    "rol" : "beheerder",
+    "isActief" : "true",
+    "doelAssetId.toegekendDoor" : "AWV",
+    "bron.typeURI" : "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Boom",
+    "doel.typeURI" : "http://purl.org/dc/terms/Agent"
+  },
+  "type" : "Feature"
+},{
+  "id" : "70bac162-d89f-4f5d-bfcd-28bc4028325d-b25kZXJkZWVsI0hlZWZ0QmV0cm9ra2VuZQ",
+  "properties" : {
+    "assetId.toegekendDoor" : "AWV",
+    "doelAssetId.identificator" : "422c0b96-8329-4c68-ab5f-c6527252386a-cHVybDpBZ2VudA",
+    "assetId.identificator" : "70bac162-d89f-4f5d-bfcd-28bc4028325d-b25kZXJkZWVsI0hlZWZ0QmV0cm9ra2VuZQ",
+    "bronAssetId.identificator" : "c2367cdf-0f3b-441b-aca2-5a4fa30c5fa2-b25kZXJkZWVsI0Jvb20",
+    "bronAssetId.toegekendDoor" : "AWV",
+    "typeURI" : "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#HeeftBetrokkene",
+    "rol" : "beheerder",
+    "isActief" : "true",
+    "doelAssetId.toegekendDoor" : "AWV",
+    "bron.typeURI" : "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Boom",
+    "doel.typeURI" : "http://purl.org/dc/terms/Agent"
+  },
+  "type" : "Feature"
+},{
+  "id" : "a8792f81-b056-45a5-b789-cdbc15000cb5-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ",
+  "properties" : {
+    "assetId.toegekendDoor" : "AWV",
+    "assetId.identificator" : "a8792f81-b056-45a5-b789-cdbc15000cb5-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ",
+    "notitie" : "",
+    "typeURI" : "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#OpgaandeHoutigeVegetatie",
+    "isActief" : "true",
+    "toestand" : "in-gebruik"
+  },
+  "type" : "Feature",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 241659.101, 190133.809, 59.533 ],
+    "bbox" : [ 241659.101, 190133.809, 59.533, 241659.101, 190133.809, 59.533 ],
+    "crs" : {
+      "properties" : {
+        "name" : "EPSG:31370"
+      },
+      "type" : "name"
+    }
+  }
+},{
+  "id" : "a9b58982-e8ea-4a16-9b20-e48cf5f15c6f-b25kZXJkZWVsI0Jvb20",
+  "properties" : {
+    "eindbeeld" : "niet-vrij-uitgroeiend",
+    "assetId.toegekendDoor" : "AWV",
+    "groeifase" : "volwassenfase",
+    "soortnaam.soortnaamNederlands" : "Moeraseik",
+    "notitie" : "",
+    "hoogte" : "groter-dan-20-meter",
+    "typeURI" : "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Boom",
+    "naam" : "300318",
+    "isActief" : "true",
+    "assetId.identificator" : "a9b58982-e8ea-4a16-9b20-e48cf5f15c6f-b25kZXJkZWVsI0Jvb20",
+    "geschatteKlassePlantjaar" : "1940-1960",
+    "soortnaam.soortnaamWetenschappelijk" : "Quercus palustris",
+    "boomspiegel[]" : "gras",
+    "toestand" : "in-gebruik",
+    "takvrijeStamlengte" : "7.0",
+    "datumOprichtingObject" : "2020-01-08"
+  },
+  "type" : "Feature",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 241701.615, 190149.024, 0 ],
+    "bbox" : [ 241701.615, 190149.024, 0, 241701.615, 190149.024, 0 ],
+    "crs" : {
+      "properties" : {
+        "name" : "EPSG:31370"
+      },
+      "type" : "name"
+    }
+  }
+},{
+  "id" : "c2367cdf-0f3b-441b-aca2-5a4fa30c5fa2-b25kZXJkZWVsI0Jvb20",
+  "properties" : {
+    "assetId.toegekendDoor" : "AWV",
+    "assetId.identificator" : "c2367cdf-0f3b-441b-aca2-5a4fa30c5fa2-b25kZXJkZWVsI0Jvb20",
+    "notitie" : "",
+    "typeURI" : "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Boom",
+    "naam" : "",
+    "isActief" : "true",
+    "toestand" : "in-gebruik"
+  },
+  "type" : "Feature",
+  "geometry" : {
+    "type" : "Point",
+    "coordinates" : [ 241700.537, 190148.678, 57.857 ],
+    "bbox" : [ 241700.537, 190148.678, 57.857, 241700.537, 190148.678, 57.857 ],
+    "crs" : {
+      "properties" : {
+        "name" : "EPSG:31370"
+      },
+      "type" : "name"
+    }
+  }
+}]}

@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "2c73a9fc-5c03-4ccf-8e5d-7aa03724c06a",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Boom",
+                "assetId.identificator": "2c73a9fc-5c03-4ccf-8e5d-7aa03724c06a"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241659.101,
+                    190133.809,
+                    59.533,
+                    241659.101,
+                    190133.809,
+                    59.533
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        241659.101,
+                        190133.809,
+                        59.533
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "9f1ffb95-eb27-4015-8736-a4dbbd848e4d",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Boom",
+                "assetId.identificator": "9f1ffb95-eb27-4015-8736-a4dbbd848e4d"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241573.476,
+                    190071.737,
+                    63.257,
+                    241573.476,
+                    190071.737,
+                    63.257
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        241573.476,
+                        190071.737,
+                        63.257
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "398ff1b4-b130-4e31-b536-f8ed63a2f8b1",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Boom",
+                "assetId.identificator": "398ff1b4-b130-4e31-b536-f8ed63a2f8b1"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241616.413,
+                    190116.374,
+                    61.342,
+                    241616.413,
+                    190116.374,
+                    61.342
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        241616.413,
+                        190116.374,
+                        61.342
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "d13655d7-4915-4998-98b0-b04b4f20c8bc",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Boom",
+                "assetId.identificator": "d13655d7-4915-4998-98b0-b04b4f20c8bc"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241619.997,
+                    190137.803,
+                    61.272,
+                    241619.997,
+                    190137.803,
+                    61.272
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        241619.997,
+                        190137.803,
+                        61.272
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        }
+    ]
+}

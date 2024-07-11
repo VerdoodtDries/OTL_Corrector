@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "a8792f81-b056-45a5-b789-cdbc15000cb5-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#OpgaandeHoutigeVegetatie",
+                "assetId.identificator": "a8792f81-b056-45a5-b789-cdbc15000cb5-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ",
+                "isActief": "false",
+                "notitie": "gedeactiveerd en nieuwe nieuwe asset aangemaakt met assettype Boom"
+            },
+            "type": "Feature"
+        },
+        {
+            "id": "b29135de-67d8-496a-b963-ed653f903cad-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#OpgaandeHoutigeVegetatie",
+                "assetId.identificator": "b29135de-67d8-496a-b963-ed653f903cad-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ",
+                "isActief": "false",
+                "notitie": "gedeactiveerd en nieuwe nieuwe asset aangemaakt met assettype Boom"
+            },
+            "type": "Feature"
+        },
+        {
+            "id": "c099af87-84cc-432b-baaf-08686f66c9d4-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#OpgaandeHoutigeVegetatie",
+                "assetId.identificator": "c099af87-84cc-432b-baaf-08686f66c9d4-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ",
+                "isActief": "false",
+                "notitie": "gedeactiveerd en nieuwe nieuwe asset aangemaakt met assettype Boom"
+            },
+            "type": "Feature"
+        },
+        {
+            "id": "fbed788c-01c4-463b-a803-666f6ecc43c9-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#OpgaandeHoutigeVegetatie",
+                "assetId.identificator": "fbed788c-01c4-463b-a803-666f6ecc43c9-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ",
+                "isActief": "false",
+                "notitie": "gedeactiveerd en nieuwe nieuwe asset aangemaakt met assettype Boom"
+            },
+            "type": "Feature"
+        }
+    ]
+}

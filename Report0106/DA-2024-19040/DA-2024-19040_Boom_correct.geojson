@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "2bc07b87-afb1-48d5-8232-37d83d3f0af9",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Boom",
+                "assetId.identificator": "2bc07b87-afb1-48d5-8232-37d83d3f0af9"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241659.101,
+                    190133.809,
+                    59.533,
+                    241659.101,
+                    190133.809,
+                    59.533
+                ],
+                "type": "Point",
+                "coordinates": [ 241659.101, 190133.809, 59.533 ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "da397c8e-4175-4cb4-92ac-e406dfd0e93e",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Boom",
+                "assetId.identificator": "da397c8e-4175-4cb4-92ac-e406dfd0e93e"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241573.476,
+                    190071.737,
+                    63.257,
+                    241573.476,
+                    190071.737,
+                    63.257
+                ],
+                "type": "Point",
+                "coordinates": [ 241573.476, 190071.737, 63.257 ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "128e6a41-1d66-4323-9edb-cbafcc101e27",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Boom",
+                "assetId.identificator": "128e6a41-1d66-4323-9edb-cbafcc101e27"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241616.413,
+                    190116.374,
+                    61.342,
+                    241616.413,
+                    190116.374,
+                    61.342
+                ],
+                "type": "Point",
+                "coordinates": [ 241616.413, 190116.374, 61.342 ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "6e8e5186-29ff-4ce0-ab6c-676806013639",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Boom",
+                "assetId.identificator": "6e8e5186-29ff-4ce0-ab6c-676806013639"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    241619.997,
+                    190137.803,
+                    61.272,
+                    241619.997,
+                    190137.803,
+                    61.272
+                ],
+                "type": "Point",
+                "coordinates": [ 241619.997, 190137.803, 61.272 ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        }
+    ]
+}
