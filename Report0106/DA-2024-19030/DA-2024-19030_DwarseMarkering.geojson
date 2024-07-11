@@ -1,0 +1,1323 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "1aeac2f9-45ee-41bc-9d0b-c55d26783a56-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#DwarseMarkering",
+                "assetId.identificator": "1aeac2f9-45ee-41bc-9d0b-c55d26783a56-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+                "notitie": "Geometrie manueel aangepast in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    145223.328248,
+                    221311.421472,
+                    0.0,
+                    145392.793862,
+                    221435.169814,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            145391.027513,
+                            221311.421472,
+                            0.0
+                        ],
+                        [
+                            145392.793862,
+                            221314.122947,
+                            0.0
+                        ],
+                        [
+                            145343.12828,
+                            221350.073347,
+                            0.0
+                        ],
+                        [
+                            145285.046565,
+                            221392.361823,
+                            0.0
+                        ],
+                        [
+                            145244.732243,
+                            221421.039021,
+                            0.0
+                        ],
+                        [
+                            145224.886791,
+                            221435.169814,
+                            0.0
+                        ],
+                        [
+                            145223.328248,
+                            221432.676145,
+                            0.0
+                        ],
+                        [
+                            145259.590357,
+                            221405.973102,
+                            0.0
+                        ],
+                        [
+                            145315.0745,
+                            221365.035363,
+                            0.0
+                        ],
+                        [
+                            145391.027513,
+                            221311.421472,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "200c5ebf-b3a4-4546-acf4-7f3a61a336e7-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#DwarseMarkering",
+                "assetId.identificator": "200c5ebf-b3a4-4546-acf4-7f3a61a336e7-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+                "notitie": "Geometrie manueel aangepast in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    145549.946983,
+                    221206.687359,
+                    0.0,
+                    145562.59716,
+                    221216.116546,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            145549.946983,
+                            221213.856658,
+                            0.0
+                        ],
+                        [
+                            145551.193818,
+                            221216.116546,
+                            0.0
+                        ],
+                        [
+                            145562.59716,
+                            221208.869319,
+                            0.0
+                        ],
+                        [
+                            145561.272398,
+                            221206.687359,
+                            0.0
+                        ],
+                        [
+                            145549.946983,
+                            221213.856658,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "25792ba4-d643-4280-8201-1cf3e10d539e-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#DwarseMarkering",
+                "assetId.identificator": "25792ba4-d643-4280-8201-1cf3e10d539e-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+                "notitie": "Geometrie manueel aangepast in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    145346.401222,
+                    221394.076221,
+                    0.0,
+                    145371.182061,
+                    221427.792709,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            145348.427328,
+                            221395.063298,
+                            0.0
+                        ],
+                        [
+                            145346.401222,
+                            221396.517939,
+                            0.0
+                        ],
+                        [
+                            145362.86983,
+                            221417.558274,
+                            0.0
+                        ],
+                        [
+                            145371.182061,
+                            221427.792709,
+                            0.0
+                        ],
+                        [
+                            145370.454741,
+                            221424.779525,
+                            0.0
+                        ],
+                        [
+                            145357.882491,
+                            221407.167985,
+                            0.0
+                        ],
+                        [
+                            145353.154909,
+                            221400.15454,
+                            0.0
+                        ],
+                        [
+                            145351.284657,
+                            221396.414036,
+                            0.0
+                        ],
+                        [
+                            145349.414405,
+                            221394.076221,
+                            0.0
+                        ],
+                        [
+                            145348.427328,
+                            221395.063298,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "314fb1b0-327f-4bc7-bcd0-5463c5efb48a-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#DwarseMarkering",
+                "assetId.identificator": "314fb1b0-327f-4bc7-bcd0-5463c5efb48a-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+                "notitie": "Geometrie manueel aangepast in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    145337.90716,
+                    221482.991119,
+                    0.0,
+                    145352.479541,
+                    221485.952352,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            145352.479541,
+                            221485.614667,
+                            0.0
+                        ],
+                        [
+                            145338.011063,
+                            221485.952352,
+                            0.0
+                        ],
+                        [
+                            145337.90716,
+                            221482.991119,
+                            0.0
+                        ],
+                        [
+                            145342.686693,
+                            221484.471735,
+                            0.0
+                        ],
+                        [
+                            145347.232445,
+                            221484.861371,
+                            0.0
+                        ],
+                        [
+                            145350.739167,
+                            221485.095153,
+                            0.0
+                        ],
+                        [
+                            145352.479541,
+                            221485.614667,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "55491597-1590-424e-ba79-641d0d890246-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#DwarseMarkering",
+                "assetId.identificator": "55491597-1590-424e-ba79-641d0d890246-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+                "notitie": "Geometrie manueel aangepast in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    145524.438824,
+                    221226.818544,
+                    0.0,
+                    145529.711895,
+                    221231.104538,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            145524.438824,
+                            221228.974528,
+                            0.0
+                        ],
+                        [
+                            145525.529804,
+                            221231.104538,
+                            0.0
+                        ],
+                        [
+                            145529.711895,
+                            221228.818674,
+                            0.0
+                        ],
+                        [
+                            145528.542988,
+                            221226.818544,
+                            0.0
+                        ],
+                        [
+                            145524.438824,
+                            221228.974528,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "59043d60-314c-4661-98d2-88a198b1cb80-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#DwarseMarkering",
+                "assetId.identificator": "59043d60-314c-4661-98d2-88a198b1cb80-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+                "notitie": "Geometrie manueel aangepast in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    145552.051017,
+                    221375.321749,
+                    0.0,
+                    145579.013817,
+                    221402.804064,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            145552.051017,
+                            221402.804064,
+                            0.0
+                        ],
+                        [
+                            145579.013817,
+                            221383.218369,
+                            0.0
+                        ],
+                        [
+                            145574.961604,
+                            221382.958612,
+                            0.0
+                        ],
+                        [
+                            145574.390138,
+                            221375.321749,
+                            0.0
+                        ],
+                        [
+                            145568.623528,
+                            221384.776912,
+                            0.0
+                        ],
+                        [
+                            145566.493519,
+                            221387.686193,
+                            0.0
+                        ],
+                        [
+                            145562.441306,
+                            221392.309872,
+                            0.0
+                        ],
+                        [
+                            145552.051017,
+                            221402.804064,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "591914dd-743a-4c07-8b64-13205b4e2e11-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#DwarseMarkering",
+                "assetId.identificator": "591914dd-743a-4c07-8b64-13205b4e2e11-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+                "notitie": "Geometrie manueel aangepast in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    145349.726114,
+                    221414.129479,
+                    0.0,
+                    145366.246674,
+                    221431.896873,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            145349.726114,
+                            221414.129479,
+                            0.0
+                        ],
+                        [
+                            145358.142248,
+                            221422.337807,
+                            0.0
+                        ],
+                        [
+                            145364.740082,
+                            221429.611009,
+                            0.0
+                        ],
+                        [
+                            145366.246674,
+                            221431.896873,
+                            0.0
+                        ],
+                        [
+                            145362.662024,
+                            221429.870767,
+                            0.0
+                        ],
+                        [
+                            145361.415189,
+                            221429.299301,
+                            0.0
+                        ],
+                        [
+                            145359.441034,
+                            221428.883689,
+                            0.0
+                        ],
+                        [
+                            145358.817617,
+                            221428.57198,
+                            0.0
+                        ],
+                        [
+                            145357.726637,
+                            221426.078311,
+                            0.0
+                        ],
+                        [
+                            145353.830278,
+                            221420.571458,
+                            0.0
+                        ],
+                        [
+                            145349.726114,
+                            221414.129479,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "5cd8d804-879a-4be4-b654-7cb5c7c7d24b-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#DwarseMarkering",
+                "assetId.identificator": "5cd8d804-879a-4be4-b654-7cb5c7c7d24b-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+                "notitie": "Geometrie manueel aangepast in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    145544.128422,
+                    221257.989411,
+                    0.0,
+                    145551.687357,
+                    221265.002856,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            145544.128422,
+                            221260.353201,
+                            0.0
+                        ],
+                        [
+                            145547.816974,
+                            221261.807842,
+                            0.0
+                        ],
+                        [
+                            145549.946983,
+                            221263.236507,
+                            0.0
+                        ],
+                        [
+                            145551.687357,
+                            221265.002856,
+                            0.0
+                        ],
+                        [
+                            145548.726124,
+                            221260.84674,
+                            0.0
+                        ],
+                        [
+                            145546.648067,
+                            221257.989411,
+                            0.0
+                        ],
+                        [
+                            145546.492212,
+                            221259.314172,
+                            0.0
+                        ],
+                        [
+                            145546.076601,
+                            221259.859663,
+                            0.0
+                        ],
+                        [
+                            145545.34928,
+                            221260.041493,
+                            0.0
+                        ],
+                        [
+                            145544.98562,
+                            221260.041493,
+                            0.0
+                        ],
+                        [
+                            145544.128422,
+                            221260.353201,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "6876ad70-6f30-4d72-b389-4d44ed80b6c3-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#DwarseMarkering",
+                "assetId.identificator": "6876ad70-6f30-4d72-b389-4d44ed80b6c3-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+                "notitie": "Geometrie manueel aangepast in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    145534.54338,
+                    221216.63606,
+                    0.0,
+                    145546.466237,
+                    221225.156097,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            145534.54338,
+                            221222.948161,
+                            0.0
+                        ],
+                        [
+                            145535.946069,
+                            221225.156097,
+                            0.0
+                        ],
+                        [
+                            145546.466237,
+                            221218.818021,
+                            0.0
+                        ],
+                        [
+                            145545.141475,
+                            221216.63606,
+                            0.0
+                        ],
+                        [
+                            145534.54338,
+                            221222.948161,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "695b1134-9a3b-4279-b1cb-2eaa8c5c9db1-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#DwarseMarkering",
+                "assetId.identificator": "695b1134-9a3b-4279-b1cb-2eaa8c5c9db1-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+                "notitie": "Geometrie manueel aangepast in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    145573.870624,
+                    221289.913574,
+                    0.0,
+                    145584.15701,
+                    221306.122424,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            145573.870624,
+                            221289.913574,
+                            0.0
+                        ],
+                        [
+                            145584.15701,
+                            221303.472901,
+                            0.0
+                        ],
+                        [
+                            145581.29968,
+                            221303.161192,
+                            0.0
+                        ],
+                        [
+                            145579.896991,
+                            221306.122424,
+                            0.0
+                        ],
+                        [
+                            145577.766982,
+                            221299.420688,
+                            0.0
+                        ],
+                        [
+                            145575.16941,
+                            221292.874806,
+                            0.0
+                        ],
+                        [
+                            145573.870624,
+                            221289.913574,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "73bf4943-c96c-419b-b13a-2d3035bb6024-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#DwarseMarkering",
+                "assetId.identificator": "73bf4943-c96c-419b-b13a-2d3035bb6024-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+                "notitie": "Geometrie manueel aangepast in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    145333.309457,
+                    221372.516371,
+                    0.0,
+                    145347.544153,
+                    221391.011086,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            145342.349009,
+                            221391.011086,
+                            0.0
+                        ],
+                        [
+                            145347.544153,
+                            221387.374485,
+                            0.0
+                        ],
+                        [
+                            145336.27069,
+                            221372.516371,
+                            0.0
+                        ],
+                        [
+                            145333.361409,
+                            221374.646381,
+                            0.0
+                        ],
+                        [
+                            145333.309457,
+                            221378.23103,
+                            0.0
+                        ],
+                        [
+                            145342.349009,
+                            221391.011086,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "765463bf-316a-4880-8070-7035c53d842a-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#DwarseMarkering",
+                "assetId.identificator": "765463bf-316a-4880-8070-7035c53d842a-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+                "notitie": "Geometrie manueel aangepast in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    147215.016774,
+                    219375.139162,
+                    0.0,
+                    147264.526501,
+                    219453.949504,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            147264.526501,
+                            219375.139162,
+                            0.0
+                        ],
+                        [
+                            147252.006203,
+                            219395.426201,
+                            0.0
+                        ],
+                        [
+                            147242.473113,
+                            219410.024557,
+                            0.0
+                        ],
+                        [
+                            147234.550517,
+                            219423.038394,
+                            0.0
+                        ],
+                        [
+                            147226.316213,
+                            219436.286013,
+                            0.0
+                        ],
+                        [
+                            147219.484598,
+                            219447.689355,
+                            0.0
+                        ],
+                        [
+                            147215.432386,
+                            219453.949504,
+                            0.0
+                        ],
+                        [
+                            147215.016774,
+                            219453.689747,
+                            0.0
+                        ],
+                        [
+                            147215.016774,
+                            219453.352063,
+                            0.0
+                        ],
+                        [
+                            147222.238025,
+                            219441.40323,
+                            0.0
+                        ],
+                        [
+                            147230.939892,
+                            219426.129505,
+                            0.0
+                        ],
+                        [
+                            147233.797221,
+                            219420.726555,
+                            0.0
+                        ],
+                        [
+                            147238.706633,
+                            219411.816882,
+                            0.0
+                        ],
+                        [
+                            147242.992627,
+                            219403.894287,
+                            0.0
+                        ],
+                        [
+                            147247.356549,
+                            219395.608031,
+                            0.0
+                        ],
+                        [
+                            147250.058024,
+                            219390.776547,
+                            0.0
+                        ],
+                        [
+                            147252.110106,
+                            219387.451655,
+                            0.0
+                        ],
+                        [
+                            147255.12329,
+                            219383.711151,
+                            0.0
+                        ],
+                        [
+                            147258.655988,
+                            219380.282355,
+                            0.0
+                        ],
+                        [
+                            147258.655988,
+                            219380.282355,
+                            0.0
+                        ],
+                        [
+                            147264.526501,
+                            219375.139162,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "ad73e6e5-36b1-40b4-8666-97cccebfff68-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#DwarseMarkering",
+                "assetId.identificator": "ad73e6e5-36b1-40b4-8666-97cccebfff68-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+                "notitie": "Geometrie manueel aangepast in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    146582.975493,
+                    220415.596729,
+                    0.0,
+                    146591.183821,
+                    220426.194823,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            146582.975493,
+                            220426.194823,
+                            0.0
+                        ],
+                        [
+                            146591.183821,
+                            220415.596729,
+                            0.0
+                        ],
+                        [
+                            146587.391366,
+                            220417.363078,
+                            0.0
+                        ],
+                        [
+                            146586.715997,
+                            220415.856486,
+                            0.0
+                        ],
+                        [
+                            146584.430134,
+                            220418.973572,
+                            0.0
+                        ],
+                        [
+                            146582.975493,
+                            220426.194823,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "b63764c6-32c1-45a3-ae1d-a0a6db483593-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#DwarseMarkering",
+                "assetId.identificator": "b63764c6-32c1-45a3-ae1d-a0a6db483593-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+                "notitie": "Geometrie manueel aangepast in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    97131.78,
+                    159096.683087,
+                    0.0,
+                    97138.513586,
+                    159103.933446,
+                    42.367
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            97131.78,
+                            159098.964,
+                            42.367
+                        ],
+                        [
+                            97135.524403,
+                            159103.933446,
+                            0.0
+                        ],
+                        [
+                            97138.513586,
+                            159101.728658,
+                            0.0
+                        ],
+                        [
+                            97134.665808,
+                            159096.683087,
+                            0.0
+                        ],
+                        [
+                            97134.665808,
+                            159096.683087,
+                            0.0
+                        ],
+                        [
+                            97131.78,
+                            159098.964,
+                            42.367
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "b6fdf82f-06a9-4c55-a407-b2fcd2da6821-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#DwarseMarkering",
+                "assetId.identificator": "b6fdf82f-06a9-4c55-a407-b2fcd2da6821-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+                "notitie": "Geometrie manueel aangepast in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    78907.667,
+                    166848.687,
+                    0.0,
+                    78908.547242,
+                    166852.666575,
+                    21.302
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        78907.667,
+                        166848.687,
+                        21.302
+                    ],
+                    [
+                        78908.547242,
+                        166852.666575,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "b86144b9-cf4f-4616-91c2-4612c24b3c07-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#DwarseMarkering",
+                "assetId.identificator": "b86144b9-cf4f-4616-91c2-4612c24b3c07-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+                "notitie": "Geometrie manueel aangepast in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    97131.78,
+                    159096.683087,
+                    0.0,
+                    97138.513586,
+                    159103.933446,
+                    42.367
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            97131.78,
+                            159098.964,
+                            42.367
+                        ],
+                        [
+                            97135.524403,
+                            159103.933446,
+                            0.0
+                        ],
+                        [
+                            97138.513586,
+                            159101.728658,
+                            0.0
+                        ],
+                        [
+                            97134.665808,
+                            159096.683087,
+                            0.0
+                        ],
+                        [
+                            97134.665808,
+                            159096.683087,
+                            0.0
+                        ],
+                        [
+                            97131.78,
+                            159098.964,
+                            42.367
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "d2b266aa-322a-4ce4-82d6-0519065a8b92-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#DwarseMarkering",
+                "assetId.identificator": "d2b266aa-322a-4ce4-82d6-0519065a8b92-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+                "notitie": "Geometrie manueel aangepast in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    145574.390138,
+                    221312.252695,
+                    0.0,
+                    145587.066291,
+                    221381.140311,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            145574.390138,
+                            221375.321749,
+                            0.0
+                        ],
+                        [
+                            145574.80575,
+                            221381.140311,
+                            0.0
+                        ],
+                        [
+                            145581.663341,
+                            221367.009518,
+                            0.0
+                        ],
+                        [
+                            145585.24799,
+                            221354.697026,
+                            0.0
+                        ],
+                        [
+                            145586.494825,
+                            221346.332843,
+                            0.0
+                        ],
+                        [
+                            145587.066291,
+                            221336.87768,
+                            0.0
+                        ],
+                        [
+                            145585.871408,
+                            221328.6174,
+                            0.0
+                        ],
+                        [
+                            145585.040185,
+                            221324.30543,
+                            0.0
+                        ],
+                        [
+                            145582.598467,
+                            221313.915141,
+                            0.0
+                        ],
+                        [
+                            145581.507486,
+                            221312.252695,
+                            0.0
+                        ],
+                        [
+                            145584.364816,
+                            221328.461546,
+                            0.0
+                        ],
+                        [
+                            145584.001156,
+                            221341.761116,
+                            0.0
+                        ],
+                        [
+                            145583.014078,
+                            221348.306998,
+                            0.0
+                        ],
+                        [
+                            145580.468457,
+                            221359.788267,
+                            0.0
+                        ],
+                        [
+                            145578.182594,
+                            221366.697809,
+                            0.0
+                        ],
+                        [
+                            145574.390138,
+                            221375.321749,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "d73e874b-5cc6-416d-a2db-9809130c256e-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#DwarseMarkering",
+                "assetId.identificator": "d73e874b-5cc6-416d-a2db-9809130c256e-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZw",
+                "notitie": "Geometrie manueel aangepast in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    145405.470015,
+                    221239.208963,
+                    0.0,
+                    145507.502653,
+                    221304.356075,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            145505.840206,
+                            221239.208963,
+                            0.0
+                        ],
+                        [
+                            145507.502653,
+                            221241.702633,
+                            0.0
+                        ],
+                        [
+                            145486.098657,
+                            221254.067076,
+                            0.0
+                        ],
+                        [
+                            145462.408798,
+                            221267.886161,
+                            0.0
+                        ],
+                        [
+                            145433.212086,
+                            221286.796487,
+                            0.0
+                        ],
+                        [
+                            145418.561779,
+                            221296.459456,
+                            0.0
+                        ],
+                        [
+                            145407.132461,
+                            221304.356075,
+                            0.0
+                        ],
+                        [
+                            145405.470015,
+                            221301.550697,
+                            0.0
+                        ],
+                        [
+                            145424.899855,
+                            221288.562836,
+                            0.0
+                        ],
+                        [
+                            145443.914084,
+                            221275.678878,
+                            0.0
+                        ],
+                        [
+                            145461.161964,
+                            221265.392491,
+                            0.0
+                        ],
+                        [
+                            145482.773765,
+                            221251.781213,
+                            0.0
+                        ],
+                        [
+                            145482.773765,
+                            221251.781213,
+                            0.0
+                        ],
+                        [
+                            145505.840206,
+                            221239.208963,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        }
+    ]
+}
