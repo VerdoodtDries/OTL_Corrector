@@ -38,7 +38,8 @@ if __name__ == '__main__':
 
 
 # Read the Excel file in a dataframe
-excel_path = r"C:\Users\DriesVerdoodtNordend\OneDrive - Nordend\projects\AWV\python_repositories\OTL_Corrector\Report0109\[RSA] Geometrie is geldig_ geen opeenvolgende punten_20240702.xlsx"
+#excel_path = r"C:\Users\DriesVerdoodtNordend\OneDrive - Nordend\projects\AWV\python_repositories\OTL_Corrector\Report0109\[RSA] Geometrie is geldig_ geen opeenvolgende punten_20240702.xlsx"
+excel_path = r"C:\Users\DriesVerdoodtNordend\OneDrive - Nordend\projects\AWV\python_repositories\OTL_Corrector\Report0109\[RSA] Geometrie is geldig_ geen opeenvolgende punten_20240712.xlsx"
 df_report0109 = pd.read_excel(excel_path, sheet_name='Resultaat', header=2)
 print(df_report0109)
 
