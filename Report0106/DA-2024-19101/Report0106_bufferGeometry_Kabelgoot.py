@@ -1,5 +1,5 @@
 ## Import packages
-from HelperFunctions.utils import plot_gdf
+from HelperFunctions.utils import plot_gdf, split_list
 import os.path
 from pathlib import Path
 from otlmow_converter.OtlmowConverter import OtlmowConverter
@@ -22,7 +22,7 @@ from AssetUpdater import AssetUpdater
 import geopandas as gpd
 
 ## Variables
-filename = '[RSA] Geometrie is consistent met GeometrieArtefact_20240712.xlsx'
+filename = r"C:\Users\DriesVerdoodtNordend\Downloads\[RSA] Geometrie is consistent met GeometrieArtefact_20240715.xlsx"
 feature_type = 'Resultaat' # This is the layer name or the Excel sheet name
 
 if __name__ == '__main__':
@@ -63,10 +63,15 @@ asset_uuids = df_input['uuid'].tolist()
 asset_uuids = [i[:36] for i in asset_uuids] # Behoud enkel de eerste 36 karakters, hetgeen overeenkomt met de uuid, en niet de volledige AIM-ID
 print(f'Asset UUID'f's: {asset_uuids}')
 
-object_generator = eminfra_importer.import_assets_from_webservice_by_uuids(asset_uuids=asset_uuids)
-print(f'Type: {type(object_generator)}\nResponse: {object_generator}')
 
-asset_dicts_dict = AssetUpdater.get_dict_from_object_generator(object_generator)
+# Process the assets in groups (bins) of maximum 100.
+# Split the list asset_uuids in groups of maximum 100 assets (list containing sublists of maximum 100 records).
+asset_uuids_bin100 = split_list(asset_uuids)
+asset_dicts_dict = {}  # Instantiate an empty dictionary to fill later on
+for bin_asset_uuids in asset_uuids_bin100:
+    object_generator = eminfra_importer.import_assets_from_webservice_by_uuids(asset_uuids=bin_asset_uuids)
+    print(f'Type: {type(object_generator)}\nResponse: {object_generator}')
+    asset_dicts_dict |= AssetUpdater.get_dict_from_object_generator(object_generator)  ## |= is the update operator for dictionaries.
 
 
 # Convert the data to a dataframe
@@ -87,8 +92,19 @@ gdf_asset = gpd.GeoDataFrame(df_eminfra, geometry=gs_geometry, crs="EPSG:31370")
 # Set attribute uuid
 gdf_asset['uuid'] = gdf_asset['@id'].str.split('/').str[-1]
 
+##gdf_sample = gdf_asset.iloc[[0]].copy()
+##plot_gdf(gdf_sample, filename='1 line', fanout=False)
+
 # Buffer the geometry column
-gdf_asset['geometry'] = gdf_asset.geometry.buffer(distance=0.25, cap_style='square', join_style='bevel')
+gdf_asset['geometry'] = gdf_asset.geometry.buffer(distance=0.25, cap_style='flat', join_style='bevel')
+##gdf_sample_buffer = gdf_asset.iloc[[0]].copy()
+##plot_gdf(gdf_sample_buffer, filename='1 line buffered', fanout=False)
+
+# plot the geodataframe
+# Plot 1 record (originele kabelgoot)
+# Plot dezelfde record (gebufferde kabelgoot)
+##plot_gdf(gdf_asset, filename=' ', fanout=False)
+
 # Set z-values to zero for all geometries
 gdf_asset.geometry = force_3d(geometry=gdf_asset.geometry, z=0)
 
@@ -99,8 +115,6 @@ gdf_asset = gdf_asset.filter(items=columns_to_keep).copy()
 gdf_asset = gdf_asset.rename(columns={'@type': 'typeURI'})
 gdf_asset['notitie'] = 'Oorspronkelijke lijnen gebufferd met 25cm in overeenstemming met het GeometrieArtefact'
 
-# plot the geodataframe
-plot_gdf(gdf_asset, filename='test', fanout=False)
 
 ##gdf_asset['geometry'] = gdf_asset['geometry'].apply(lambda geom: geom.wkt) # Convert geometries to WKT
 gdf_asset['geometry'] = gdf_asset['geometry'].apply(lambda geom: wkt.dumps(geom))  # Convert geometries to WKT

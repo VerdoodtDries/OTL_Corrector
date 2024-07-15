@@ -1,0 +1,3029 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "01d6fa8a-0448-445c-bd3f-f747fce26a93-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "01d6fa8a-0448-445c-bd3f-f747fce26a93-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75389.961,
+                    167860.48,
+                    0.0,
+                    75391.961,
+                    167862.48,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75391.961,
+                            167862.48,
+                            0.0
+                        ],
+                        [
+                            75391.961,
+                            167860.48,
+                            0.0
+                        ],
+                        [
+                            75389.961,
+                            167860.48,
+                            0.0
+                        ],
+                        [
+                            75389.961,
+                            167862.48,
+                            0.0
+                        ],
+                        [
+                            75391.961,
+                            167862.48,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "023cbd3b-5770-434d-b460-b45a7099a4ba-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "023cbd3b-5770-434d-b460-b45a7099a4ba-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75507.472,
+                    167850.651,
+                    0.0,
+                    75509.472,
+                    167852.651,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75509.472,
+                            167852.651,
+                            0.0
+                        ],
+                        [
+                            75509.472,
+                            167850.651,
+                            0.0
+                        ],
+                        [
+                            75507.472,
+                            167850.651,
+                            0.0
+                        ],
+                        [
+                            75507.472,
+                            167852.651,
+                            0.0
+                        ],
+                        [
+                            75509.472,
+                            167852.651,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "04a43741-fcf4-49ac-9537-7a9b8adf9c67-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "04a43741-fcf4-49ac-9537-7a9b8adf9c67-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75357.165,
+                    167984.441,
+                    0.0,
+                    75359.165,
+                    167986.441,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75359.165,
+                            167986.441,
+                            0.0
+                        ],
+                        [
+                            75359.165,
+                            167984.441,
+                            0.0
+                        ],
+                        [
+                            75357.165,
+                            167984.441,
+                            0.0
+                        ],
+                        [
+                            75357.165,
+                            167986.441,
+                            0.0
+                        ],
+                        [
+                            75359.165,
+                            167986.441,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "0ac0870b-c4f2-4b58-af19-67430c4c7e16-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "0ac0870b-c4f2-4b58-af19-67430c4c7e16-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    74149.528,
+                    168317.9,
+                    0.0,
+                    74151.528,
+                    168319.9,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74151.528,
+                            168319.9,
+                            0.0
+                        ],
+                        [
+                            74151.528,
+                            168317.9,
+                            0.0
+                        ],
+                        [
+                            74149.528,
+                            168317.9,
+                            0.0
+                        ],
+                        [
+                            74149.528,
+                            168319.9,
+                            0.0
+                        ],
+                        [
+                            74151.528,
+                            168319.9,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "0c0d78db-f358-4fdb-82ec-fa51789d776f-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "0c0d78db-f358-4fdb-82ec-fa51789d776f-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75221.964,
+                    167836.322,
+                    0.0,
+                    75223.964,
+                    167838.322,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75223.964,
+                            167838.322,
+                            0.0
+                        ],
+                        [
+                            75223.964,
+                            167836.322,
+                            0.0
+                        ],
+                        [
+                            75221.964,
+                            167836.322,
+                            0.0
+                        ],
+                        [
+                            75221.964,
+                            167838.322,
+                            0.0
+                        ],
+                        [
+                            75223.964,
+                            167838.322,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "0fb3988c-dfbb-4373-b7a7-4421c931a0a6-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "0fb3988c-dfbb-4373-b7a7-4421c931a0a6-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    74383.507,
+                    168218.01,
+                    0.0,
+                    74385.507,
+                    168220.01,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74385.507,
+                            168220.01,
+                            0.0
+                        ],
+                        [
+                            74385.507,
+                            168218.01,
+                            0.0
+                        ],
+                        [
+                            74383.507,
+                            168218.01,
+                            0.0
+                        ],
+                        [
+                            74383.507,
+                            168220.01,
+                            0.0
+                        ],
+                        [
+                            74385.507,
+                            168220.01,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "1ca878ce-dcd2-4509-a93a-f32de4766589-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "1ca878ce-dcd2-4509-a93a-f32de4766589-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    74147.198,
+                    168316.457,
+                    0.0,
+                    74149.198,
+                    168318.457,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74149.198,
+                            168318.457,
+                            0.0
+                        ],
+                        [
+                            74149.198,
+                            168316.457,
+                            0.0
+                        ],
+                        [
+                            74147.198,
+                            168316.457,
+                            0.0
+                        ],
+                        [
+                            74147.198,
+                            168318.457,
+                            0.0
+                        ],
+                        [
+                            74149.198,
+                            168318.457,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "1cc96eaf-04d0-4fda-82f0-b24bdb2ea396-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "1cc96eaf-04d0-4fda-82f0-b24bdb2ea396-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    74456.338,
+                    168133.298,
+                    0.0,
+                    74458.338,
+                    168135.298,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74458.338,
+                            168135.298,
+                            0.0
+                        ],
+                        [
+                            74458.338,
+                            168133.298,
+                            0.0
+                        ],
+                        [
+                            74456.338,
+                            168133.298,
+                            0.0
+                        ],
+                        [
+                            74456.338,
+                            168135.298,
+                            0.0
+                        ],
+                        [
+                            74458.338,
+                            168135.298,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "213645c7-8898-411b-b07a-3aac4a818e9b-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "213645c7-8898-411b-b07a-3aac4a818e9b-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    74264.977,
+                    168259.74,
+                    0.0,
+                    74266.977,
+                    168261.74,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74266.977,
+                            168261.74,
+                            0.0
+                        ],
+                        [
+                            74266.977,
+                            168259.74,
+                            0.0
+                        ],
+                        [
+                            74264.977,
+                            168259.74,
+                            0.0
+                        ],
+                        [
+                            74264.977,
+                            168261.74,
+                            0.0
+                        ],
+                        [
+                            74266.977,
+                            168261.74,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "24089edb-f539-4175-ab6a-6ded56ceac4e-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "24089edb-f539-4175-ab6a-6ded56ceac4e-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    74502.942,
+                    168149.789,
+                    0.0,
+                    74504.942,
+                    168151.789,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74504.942,
+                            168151.789,
+                            0.0
+                        ],
+                        [
+                            74504.942,
+                            168149.789,
+                            0.0
+                        ],
+                        [
+                            74502.942,
+                            168149.789,
+                            0.0
+                        ],
+                        [
+                            74502.942,
+                            168151.789,
+                            0.0
+                        ],
+                        [
+                            74504.942,
+                            168151.789,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "2448a660-b6e8-440e-89a3-e38577f4696d-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "2448a660-b6e8-440e-89a3-e38577f4696d-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    74355.741,
+                    168231.494,
+                    0.0,
+                    74357.741,
+                    168233.494,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74357.741,
+                            168233.494,
+                            0.0
+                        ],
+                        [
+                            74357.741,
+                            168231.494,
+                            0.0
+                        ],
+                        [
+                            74355.741,
+                            168231.494,
+                            0.0
+                        ],
+                        [
+                            74355.741,
+                            168233.494,
+                            0.0
+                        ],
+                        [
+                            74357.741,
+                            168233.494,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "29ba728a-6a94-41fc-9824-d8e0e6fe2d1b-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "29ba728a-6a94-41fc-9824-d8e0e6fe2d1b-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75313.547,
+                    167794.44,
+                    0.0,
+                    75315.547,
+                    167796.44,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75315.547,
+                            167796.44,
+                            0.0
+                        ],
+                        [
+                            75315.547,
+                            167794.44,
+                            0.0
+                        ],
+                        [
+                            75313.547,
+                            167794.44,
+                            0.0
+                        ],
+                        [
+                            75313.547,
+                            167796.44,
+                            0.0
+                        ],
+                        [
+                            75315.547,
+                            167796.44,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "3130a850-ea1d-45ed-8299-3a9d9ee6638e-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "3130a850-ea1d-45ed-8299-3a9d9ee6638e-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75234.433,
+                    167834.629,
+                    0.0,
+                    75236.433,
+                    167836.629,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75236.433,
+                            167836.629,
+                            0.0
+                        ],
+                        [
+                            75236.433,
+                            167834.629,
+                            0.0
+                        ],
+                        [
+                            75234.433,
+                            167834.629,
+                            0.0
+                        ],
+                        [
+                            75234.433,
+                            167836.629,
+                            0.0
+                        ],
+                        [
+                            75236.433,
+                            167836.629,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "3996b7b4-ba61-45eb-88b4-af7b73b31784-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "3996b7b4-ba61-45eb-88b4-af7b73b31784-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75624.93,
+                    167942.501,
+                    0.0,
+                    75626.93,
+                    167944.501,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75626.93,
+                            167944.501,
+                            0.0
+                        ],
+                        [
+                            75626.93,
+                            167942.501,
+                            0.0
+                        ],
+                        [
+                            75624.93,
+                            167942.501,
+                            0.0
+                        ],
+                        [
+                            75624.93,
+                            167944.501,
+                            0.0
+                        ],
+                        [
+                            75626.93,
+                            167944.501,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "40502949-3670-4b98-b5b0-c37ed5289c38-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "40502949-3670-4b98-b5b0-c37ed5289c38-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    74316.249,
+                    168232.254,
+                    0.0,
+                    74318.249,
+                    168234.254,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74318.249,
+                            168234.254,
+                            0.0
+                        ],
+                        [
+                            74318.249,
+                            168232.254,
+                            0.0
+                        ],
+                        [
+                            74316.249,
+                            168232.254,
+                            0.0
+                        ],
+                        [
+                            74316.249,
+                            168234.254,
+                            0.0
+                        ],
+                        [
+                            74318.249,
+                            168234.254,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "43eec6a5-ac92-4056-871e-47f99123ef8c-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "43eec6a5-ac92-4056-871e-47f99123ef8c-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75363.257,
+                    167888.813,
+                    0.0,
+                    75365.257,
+                    167890.813,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75365.257,
+                            167890.813,
+                            0.0
+                        ],
+                        [
+                            75365.257,
+                            167888.813,
+                            0.0
+                        ],
+                        [
+                            75363.257,
+                            167888.813,
+                            0.0
+                        ],
+                        [
+                            75363.257,
+                            167890.813,
+                            0.0
+                        ],
+                        [
+                            75365.257,
+                            167890.813,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "46070f7c-4d03-4ebd-a87c-b757383cd7ca-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "46070f7c-4d03-4ebd-a87c-b757383cd7ca-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    74402.465,
+                    168208.862,
+                    0.0,
+                    74404.465,
+                    168210.862,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74404.465,
+                            168210.862,
+                            0.0
+                        ],
+                        [
+                            74404.465,
+                            168208.862,
+                            0.0
+                        ],
+                        [
+                            74402.465,
+                            168208.862,
+                            0.0
+                        ],
+                        [
+                            74402.465,
+                            168210.862,
+                            0.0
+                        ],
+                        [
+                            74404.465,
+                            168210.862,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "4cbc35be-784b-4347-ac11-bd45a917ab6a-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "4cbc35be-784b-4347-ac11-bd45a917ab6a-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    74207.356,
+                    168281.133,
+                    0.0,
+                    74209.356,
+                    168283.133,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74209.356,
+                            168283.133,
+                            0.0
+                        ],
+                        [
+                            74209.356,
+                            168281.133,
+                            0.0
+                        ],
+                        [
+                            74207.356,
+                            168281.133,
+                            0.0
+                        ],
+                        [
+                            74207.356,
+                            168283.133,
+                            0.0
+                        ],
+                        [
+                            74209.356,
+                            168283.133,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "58904044-56f9-402e-90f2-69aae3b417ae-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "58904044-56f9-402e-90f2-69aae3b417ae-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75699.543,
+                    168002.645,
+                    0.0,
+                    75701.543,
+                    168004.645,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75701.543,
+                            168004.645,
+                            0.0
+                        ],
+                        [
+                            75701.543,
+                            168002.645,
+                            0.0
+                        ],
+                        [
+                            75699.543,
+                            168002.645,
+                            0.0
+                        ],
+                        [
+                            75699.543,
+                            168004.645,
+                            0.0
+                        ],
+                        [
+                            75701.543,
+                            168004.645,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "59adecf1-161f-4673-8329-d94a48d63b6d-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "59adecf1-161f-4673-8329-d94a48d63b6d-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75338.215,
+                    167969.73,
+                    0.0,
+                    75340.215,
+                    167971.73,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75340.215,
+                            167971.73,
+                            0.0
+                        ],
+                        [
+                            75340.215,
+                            167969.73,
+                            0.0
+                        ],
+                        [
+                            75338.215,
+                            167969.73,
+                            0.0
+                        ],
+                        [
+                            75338.215,
+                            167971.73,
+                            0.0
+                        ],
+                        [
+                            75340.215,
+                            167971.73,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "5ce7c93c-c3a1-49f4-b9a8-d6a2ec74fde5-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "5ce7c93c-c3a1-49f4-b9a8-d6a2ec74fde5-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75268.407,
+                    167805.991,
+                    0.0,
+                    75270.407,
+                    167807.991,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75270.407,
+                            167807.991,
+                            0.0
+                        ],
+                        [
+                            75270.407,
+                            167805.991,
+                            0.0
+                        ],
+                        [
+                            75268.407,
+                            167805.991,
+                            0.0
+                        ],
+                        [
+                            75268.407,
+                            167807.991,
+                            0.0
+                        ],
+                        [
+                            75270.407,
+                            167807.991,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "5cef03fb-692c-4128-a2f6-93f029d95788-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "5cef03fb-692c-4128-a2f6-93f029d95788-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75391.041,
+                    167901.623,
+                    0.0,
+                    75393.041,
+                    167903.623,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75393.041,
+                            167903.623,
+                            0.0
+                        ],
+                        [
+                            75393.041,
+                            167901.623,
+                            0.0
+                        ],
+                        [
+                            75391.041,
+                            167901.623,
+                            0.0
+                        ],
+                        [
+                            75391.041,
+                            167903.623,
+                            0.0
+                        ],
+                        [
+                            75393.041,
+                            167903.623,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "5f75d312-46c3-4972-ad6a-957d65d11187-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "5f75d312-46c3-4972-ad6a-957d65d11187-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75212.424,
+                    167760.134,
+                    0.0,
+                    75214.424,
+                    167762.134,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75214.424,
+                            167762.134,
+                            0.0
+                        ],
+                        [
+                            75214.424,
+                            167760.134,
+                            0.0
+                        ],
+                        [
+                            75212.424,
+                            167760.134,
+                            0.0
+                        ],
+                        [
+                            75212.424,
+                            167762.134,
+                            0.0
+                        ],
+                        [
+                            75214.424,
+                            167762.134,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "616043b5-4576-4e2a-ad1e-1f6a3ff453b9-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "616043b5-4576-4e2a-ad1e-1f6a3ff453b9-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75382.577,
+                    167880.746,
+                    0.0,
+                    75384.577,
+                    167882.746,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75384.577,
+                            167882.746,
+                            0.0
+                        ],
+                        [
+                            75384.577,
+                            167880.746,
+                            0.0
+                        ],
+                        [
+                            75382.577,
+                            167880.746,
+                            0.0
+                        ],
+                        [
+                            75382.577,
+                            167882.746,
+                            0.0
+                        ],
+                        [
+                            75384.577,
+                            167882.746,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "61813d34-975e-4333-96ce-6c56b0e8826a-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "61813d34-975e-4333-96ce-6c56b0e8826a-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    74263.917,
+                    168254.241,
+                    0.0,
+                    74265.917,
+                    168256.241,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74265.917,
+                            168256.241,
+                            0.0
+                        ],
+                        [
+                            74265.917,
+                            168254.241,
+                            0.0
+                        ],
+                        [
+                            74263.917,
+                            168254.241,
+                            0.0
+                        ],
+                        [
+                            74263.917,
+                            168256.241,
+                            0.0
+                        ],
+                        [
+                            74265.917,
+                            168256.241,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "630714db-a787-4511-a333-de9799a5c420-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "630714db-a787-4511-a333-de9799a5c420-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75548.436,
+                    167880.836,
+                    0.0,
+                    75550.436,
+                    167882.836,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75550.436,
+                            167882.836,
+                            0.0
+                        ],
+                        [
+                            75550.436,
+                            167880.836,
+                            0.0
+                        ],
+                        [
+                            75548.436,
+                            167880.836,
+                            0.0
+                        ],
+                        [
+                            75548.436,
+                            167882.836,
+                            0.0
+                        ],
+                        [
+                            75550.436,
+                            167882.836,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "6acbd7fb-f64e-4128-adb3-2c09d2bfabed-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "6acbd7fb-f64e-4128-adb3-2c09d2bfabed-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75783.645,
+                    168069.157,
+                    0.0,
+                    75785.645,
+                    168071.157,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75785.645,
+                            168071.157,
+                            0.0
+                        ],
+                        [
+                            75785.645,
+                            168069.157,
+                            0.0
+                        ],
+                        [
+                            75783.645,
+                            168069.157,
+                            0.0
+                        ],
+                        [
+                            75783.645,
+                            168071.157,
+                            0.0
+                        ],
+                        [
+                            75785.645,
+                            168071.157,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "70d72e55-7f3d-462e-8878-d0065ed9650c-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "70d72e55-7f3d-462e-8878-d0065ed9650c-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    74209.652,
+                    168282.592,
+                    0.0,
+                    74211.652,
+                    168284.592,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74211.652,
+                            168284.592,
+                            0.0
+                        ],
+                        [
+                            74211.652,
+                            168282.592,
+                            0.0
+                        ],
+                        [
+                            74209.652,
+                            168282.592,
+                            0.0
+                        ],
+                        [
+                            74209.652,
+                            168284.592,
+                            0.0
+                        ],
+                        [
+                            74211.652,
+                            168284.592,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "714ba732-1033-496b-beac-76ee4e9edbcd-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "714ba732-1033-496b-beac-76ee4e9edbcd-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    74289.478,
+                    168244.783,
+                    0.0,
+                    74291.478,
+                    168246.783,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74291.478,
+                            168246.783,
+                            0.0
+                        ],
+                        [
+                            74291.478,
+                            168244.783,
+                            0.0
+                        ],
+                        [
+                            74289.478,
+                            168244.783,
+                            0.0
+                        ],
+                        [
+                            74289.478,
+                            168246.783,
+                            0.0
+                        ],
+                        [
+                            74291.478,
+                            168246.783,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "761db1c0-2b2d-4942-95e7-4bdcafb018a2-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "761db1c0-2b2d-4942-95e7-4bdcafb018a2-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75218.716,
+                    167815.068,
+                    0.0,
+                    75220.716,
+                    167817.068,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75220.716,
+                            167817.068,
+                            0.0
+                        ],
+                        [
+                            75220.716,
+                            167815.068,
+                            0.0
+                        ],
+                        [
+                            75218.716,
+                            167815.068,
+                            0.0
+                        ],
+                        [
+                            75218.716,
+                            167817.068,
+                            0.0
+                        ],
+                        [
+                            75220.716,
+                            167817.068,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "7eeb11c3-2db0-4825-97b8-4d556809225a-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "7eeb11c3-2db0-4825-97b8-4d556809225a-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75393.367,
+                    167927.195,
+                    0.0,
+                    75395.367,
+                    167929.195,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75395.367,
+                            167929.195,
+                            0.0
+                        ],
+                        [
+                            75395.367,
+                            167927.195,
+                            0.0
+                        ],
+                        [
+                            75393.367,
+                            167927.195,
+                            0.0
+                        ],
+                        [
+                            75393.367,
+                            167929.195,
+                            0.0
+                        ],
+                        [
+                            75395.367,
+                            167929.195,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "8d2ae586-4062-4a4a-b590-38b28b712ad1-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "8d2ae586-4062-4a4a-b590-38b28b712ad1-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75424.801,
+                    167810.648,
+                    0.0,
+                    75426.801,
+                    167812.648,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75426.801,
+                            167812.648,
+                            0.0
+                        ],
+                        [
+                            75426.801,
+                            167810.648,
+                            0.0
+                        ],
+                        [
+                            75424.801,
+                            167810.648,
+                            0.0
+                        ],
+                        [
+                            75424.801,
+                            167812.648,
+                            0.0
+                        ],
+                        [
+                            75426.801,
+                            167812.648,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "91b515a9-661f-431d-bbde-1e5c2c3efc98-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "91b515a9-661f-431d-bbde-1e5c2c3efc98-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75672.814,
+                    168021.368,
+                    0.0,
+                    75674.814,
+                    168023.368,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75674.814,
+                            168023.368,
+                            0.0
+                        ],
+                        [
+                            75674.814,
+                            168021.368,
+                            0.0
+                        ],
+                        [
+                            75672.814,
+                            168021.368,
+                            0.0
+                        ],
+                        [
+                            75672.814,
+                            168023.368,
+                            0.0
+                        ],
+                        [
+                            75674.814,
+                            168023.368,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "9537967f-f870-4d45-b529-6249e97ed612-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "9537967f-f870-4d45-b529-6249e97ed612-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    74148.174,
+                    168313.784,
+                    0.0,
+                    74150.174,
+                    168315.784,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74150.174,
+                            168315.784,
+                            0.0
+                        ],
+                        [
+                            74150.174,
+                            168313.784,
+                            0.0
+                        ],
+                        [
+                            74148.174,
+                            168313.784,
+                            0.0
+                        ],
+                        [
+                            74148.174,
+                            168315.784,
+                            0.0
+                        ],
+                        [
+                            74150.174,
+                            168315.784,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "a201cd52-9e7c-4fc4-ad29-8053f8adbe4c-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "a201cd52-9e7c-4fc4-ad29-8053f8adbe4c-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75303.785,
+                    168023.106,
+                    0.0,
+                    75305.785,
+                    168025.106,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75305.785,
+                            168025.106,
+                            0.0
+                        ],
+                        [
+                            75305.785,
+                            168023.106,
+                            0.0
+                        ],
+                        [
+                            75303.785,
+                            168023.106,
+                            0.0
+                        ],
+                        [
+                            75303.785,
+                            168025.106,
+                            0.0
+                        ],
+                        [
+                            75305.785,
+                            168025.106,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "a3af2cf9-e226-4071-b179-f033b26239bd-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "a3af2cf9-e226-4071-b179-f033b26239bd-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75356.989,
+                    167982.016,
+                    0.0,
+                    75358.989,
+                    167984.016,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75358.989,
+                            167984.016,
+                            0.0
+                        ],
+                        [
+                            75358.989,
+                            167982.016,
+                            0.0
+                        ],
+                        [
+                            75356.989,
+                            167982.016,
+                            0.0
+                        ],
+                        [
+                            75356.989,
+                            167984.016,
+                            0.0
+                        ],
+                        [
+                            75358.989,
+                            167984.016,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "a49cd353-b8f1-4481-9e06-ef4290aa5bfd-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "a49cd353-b8f1-4481-9e06-ef4290aa5bfd-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75322.995,
+                    168036.808,
+                    0.0,
+                    75324.995,
+                    168038.808,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75324.995,
+                            168038.808,
+                            0.0
+                        ],
+                        [
+                            75324.995,
+                            168036.808,
+                            0.0
+                        ],
+                        [
+                            75322.995,
+                            168036.808,
+                            0.0
+                        ],
+                        [
+                            75322.995,
+                            168038.808,
+                            0.0
+                        ],
+                        [
+                            75324.995,
+                            168038.808,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "ab466116-c2d7-4703-b0a7-d138bb98ce01-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "ab466116-c2d7-4703-b0a7-d138bb98ce01-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75386.41,
+                    167936.03,
+                    0.0,
+                    75388.41,
+                    167938.03,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75388.41,
+                            167938.03,
+                            0.0
+                        ],
+                        [
+                            75388.41,
+                            167936.03,
+                            0.0
+                        ],
+                        [
+                            75386.41,
+                            167936.03,
+                            0.0
+                        ],
+                        [
+                            75386.41,
+                            167938.03,
+                            0.0
+                        ],
+                        [
+                            75388.41,
+                            167938.03,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "ac93fbad-d4c7-4780-9e4c-46eaa076b743-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "ac93fbad-d4c7-4780-9e4c-46eaa076b743-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75382.935,
+                    167799.493,
+                    0.0,
+                    75384.935,
+                    167801.493,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75384.935,
+                            167801.493,
+                            0.0
+                        ],
+                        [
+                            75384.935,
+                            167799.493,
+                            0.0
+                        ],
+                        [
+                            75382.935,
+                            167799.493,
+                            0.0
+                        ],
+                        [
+                            75382.935,
+                            167801.493,
+                            0.0
+                        ],
+                        [
+                            75384.935,
+                            167801.493,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "ad648ae0-8f92-45be-85f4-69855896c541-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "ad648ae0-8f92-45be-85f4-69855896c541-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75919.786,
+                    168169.028,
+                    0.0,
+                    75921.786,
+                    168171.028,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75921.786,
+                            168171.028,
+                            0.0
+                        ],
+                        [
+                            75921.786,
+                            168169.028,
+                            0.0
+                        ],
+                        [
+                            75919.786,
+                            168169.028,
+                            0.0
+                        ],
+                        [
+                            75919.786,
+                            168171.028,
+                            0.0
+                        ],
+                        [
+                            75921.786,
+                            168171.028,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "ae7ae9b8-9055-4fa7-93a0-4cd2c4b83732-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "ae7ae9b8-9055-4fa7-93a0-4cd2c4b83732-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75339.338,
+                    167972.991,
+                    0.0,
+                    75341.338,
+                    167974.991,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75341.338,
+                            167974.991,
+                            0.0
+                        ],
+                        [
+                            75341.338,
+                            167972.991,
+                            0.0
+                        ],
+                        [
+                            75339.338,
+                            167972.991,
+                            0.0
+                        ],
+                        [
+                            75339.338,
+                            167974.991,
+                            0.0
+                        ],
+                        [
+                            75341.338,
+                            167974.991,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "af27bbcf-6e8a-47cd-bde0-0c7fd88cf678-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "af27bbcf-6e8a-47cd-bde0-0c7fd88cf678-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    74507.475,
+                    168204.326,
+                    0.0,
+                    74509.475,
+                    168206.326,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74509.475,
+                            168206.326,
+                            0.0
+                        ],
+                        [
+                            74509.475,
+                            168204.326,
+                            0.0
+                        ],
+                        [
+                            74507.475,
+                            168204.326,
+                            0.0
+                        ],
+                        [
+                            74507.475,
+                            168206.326,
+                            0.0
+                        ],
+                        [
+                            74509.475,
+                            168206.326,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "b85dc786-4b9f-4d65-8be0-bae3f2c7474e-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "b85dc786-4b9f-4d65-8be0-bae3f2c7474e-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    74470.04,
+                    168127.337,
+                    0.0,
+                    74472.04,
+                    168129.337,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74472.04,
+                            168129.337,
+                            0.0
+                        ],
+                        [
+                            74472.04,
+                            168127.337,
+                            0.0
+                        ],
+                        [
+                            74470.04,
+                            168127.337,
+                            0.0
+                        ],
+                        [
+                            74470.04,
+                            168129.337,
+                            0.0
+                        ],
+                        [
+                            74472.04,
+                            168129.337,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "b9d561ab-3608-45ef-b700-3ced77c7a2ba-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "b9d561ab-3608-45ef-b700-3ced77c7a2ba-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    74362.406,
+                    168190.777,
+                    0.0,
+                    74364.406,
+                    168192.777,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74364.406,
+                            168192.777,
+                            0.0
+                        ],
+                        [
+                            74364.406,
+                            168190.777,
+                            0.0
+                        ],
+                        [
+                            74362.406,
+                            168190.777,
+                            0.0
+                        ],
+                        [
+                            74362.406,
+                            168192.777,
+                            0.0
+                        ],
+                        [
+                            74364.406,
+                            168192.777,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "bd855993-bac7-4b77-b635-e1d72e5a4e6b-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "bd855993-bac7-4b77-b635-e1d72e5a4e6b-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    74206.647,
+                    168287.501,
+                    0.0,
+                    74208.647,
+                    168289.501,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74208.647,
+                            168289.501,
+                            0.0
+                        ],
+                        [
+                            74208.647,
+                            168287.501,
+                            0.0
+                        ],
+                        [
+                            74206.647,
+                            168287.501,
+                            0.0
+                        ],
+                        [
+                            74206.647,
+                            168289.501,
+                            0.0
+                        ],
+                        [
+                            74208.647,
+                            168289.501,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "c978cd18-f813-4744-8cc1-138d83118f7d-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "c978cd18-f813-4744-8cc1-138d83118f7d-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75368.721,
+                    167922.619,
+                    0.0,
+                    75370.721,
+                    167924.619,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75370.721,
+                            167924.619,
+                            0.0
+                        ],
+                        [
+                            75370.721,
+                            167922.619,
+                            0.0
+                        ],
+                        [
+                            75368.721,
+                            167922.619,
+                            0.0
+                        ],
+                        [
+                            75368.721,
+                            167924.619,
+                            0.0
+                        ],
+                        [
+                            75370.721,
+                            167924.619,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "c9b5a7c0-961d-4c0b-bddb-84fe3a37589f-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "c9b5a7c0-961d-4c0b-bddb-84fe3a37589f-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75371.599,
+                    167914.54,
+                    0.0,
+                    75373.599,
+                    167916.54,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75373.599,
+                            167916.54,
+                            0.0
+                        ],
+                        [
+                            75373.599,
+                            167914.54,
+                            0.0
+                        ],
+                        [
+                            75371.599,
+                            167914.54,
+                            0.0
+                        ],
+                        [
+                            75371.599,
+                            167916.54,
+                            0.0
+                        ],
+                        [
+                            75373.599,
+                            167916.54,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "cce0a510-4d92-4b49-920d-f20bef96288c-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "cce0a510-4d92-4b49-920d-f20bef96288c-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    74501.877,
+                    168108.691,
+                    0.0,
+                    74503.877,
+                    168110.691,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74503.877,
+                            168110.691,
+                            0.0
+                        ],
+                        [
+                            74503.877,
+                            168108.691,
+                            0.0
+                        ],
+                        [
+                            74501.877,
+                            168108.691,
+                            0.0
+                        ],
+                        [
+                            74501.877,
+                            168110.691,
+                            0.0
+                        ],
+                        [
+                            74503.877,
+                            168110.691,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "d442f2a2-68db-49a6-9771-15619a9332a1-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "d442f2a2-68db-49a6-9771-15619a9332a1-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    74099.343,
+                    168340.675,
+                    0.0,
+                    74101.343,
+                    168342.675,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74101.343,
+                            168342.675,
+                            0.0
+                        ],
+                        [
+                            74101.343,
+                            168340.675,
+                            0.0
+                        ],
+                        [
+                            74099.343,
+                            168340.675,
+                            0.0
+                        ],
+                        [
+                            74099.343,
+                            168342.675,
+                            0.0
+                        ],
+                        [
+                            74101.343,
+                            168342.675,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "d687b144-b154-41c6-a2ea-6e223c9811c9-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "d687b144-b154-41c6-a2ea-6e223c9811c9-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75467.254,
+                    167828.272,
+                    0.0,
+                    75469.254,
+                    167830.272,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75469.254,
+                            167830.272,
+                            0.0
+                        ],
+                        [
+                            75469.254,
+                            167828.272,
+                            0.0
+                        ],
+                        [
+                            75467.254,
+                            167828.272,
+                            0.0
+                        ],
+                        [
+                            75467.254,
+                            167830.272,
+                            0.0
+                        ],
+                        [
+                            75469.254,
+                            167830.272,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "d7b6442e-d9e4-4c57-845d-ef4f8e58a6b4-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "d7b6442e-d9e4-4c57-845d-ef4f8e58a6b4-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75208.173,
+                    167737.25,
+                    0.0,
+                    75210.173,
+                    167739.25,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75210.173,
+                            167739.25,
+                            0.0
+                        ],
+                        [
+                            75210.173,
+                            167737.25,
+                            0.0
+                        ],
+                        [
+                            75208.173,
+                            167737.25,
+                            0.0
+                        ],
+                        [
+                            75208.173,
+                            167739.25,
+                            0.0
+                        ],
+                        [
+                            75210.173,
+                            167739.25,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "da26fb8e-2f13-4602-a802-7bfd3e7dc07d-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "da26fb8e-2f13-4602-a802-7bfd3e7dc07d-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    74584.473,
+                    168098.025,
+                    0.0,
+                    74586.473,
+                    168100.025,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74586.473,
+                            168100.025,
+                            0.0
+                        ],
+                        [
+                            74586.473,
+                            168098.025,
+                            0.0
+                        ],
+                        [
+                            74584.473,
+                            168098.025,
+                            0.0
+                        ],
+                        [
+                            74584.473,
+                            168100.025,
+                            0.0
+                        ],
+                        [
+                            74586.473,
+                            168100.025,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "e4a1056d-b0a1-441a-9654-3484ff7da888-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "e4a1056d-b0a1-441a-9654-3484ff7da888-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    74513.248,
+                    168253.192,
+                    0.0,
+                    74515.248,
+                    168255.192,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74515.248,
+                            168255.192,
+                            0.0
+                        ],
+                        [
+                            74515.248,
+                            168253.192,
+                            0.0
+                        ],
+                        [
+                            74513.248,
+                            168253.192,
+                            0.0
+                        ],
+                        [
+                            74513.248,
+                            168255.192,
+                            0.0
+                        ],
+                        [
+                            74515.248,
+                            168255.192,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "f099f7bc-8492-4cac-92e7-13eda69fe3a0-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "f099f7bc-8492-4cac-92e7-13eda69fe3a0-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75356.657,
+                    167847.675,
+                    0.0,
+                    75358.657,
+                    167849.675,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75358.657,
+                            167849.675,
+                            0.0
+                        ],
+                        [
+                            75358.657,
+                            167847.675,
+                            0.0
+                        ],
+                        [
+                            75356.657,
+                            167847.675,
+                            0.0
+                        ],
+                        [
+                            75356.657,
+                            167849.675,
+                            0.0
+                        ],
+                        [
+                            75358.657,
+                            167849.675,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "f66e565a-45d0-4a64-ac05-2daee3e51810-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "f66e565a-45d0-4a64-ac05-2daee3e51810-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    74330.184,
+                    168206.205,
+                    0.0,
+                    74332.184,
+                    168208.205,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            74332.184,
+                            168208.205,
+                            0.0
+                        ],
+                        [
+                            74332.184,
+                            168206.205,
+                            0.0
+                        ],
+                        [
+                            74330.184,
+                            168206.205,
+                            0.0
+                        ],
+                        [
+                            74330.184,
+                            168208.205,
+                            0.0
+                        ],
+                        [
+                            74332.184,
+                            168208.205,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "f9b928b6-4633-45a2-ad68-b88983bb4c9e-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#InspectieputRiolering",
+                "assetId.identificator": "f9b928b6-4633-45a2-ad68-b88983bb4c9e-aW5zdGFsbGF0aWUjSW5zcGVjdGllcHV0UmlvbGVyaW5n"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75061.357,
+                    167675.175,
+                    0.0,
+                    75063.357,
+                    167677.175,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            75063.357,
+                            167677.175,
+                            0.0
+                        ],
+                        [
+                            75063.357,
+                            167675.175,
+                            0.0
+                        ],
+                        [
+                            75061.357,
+                            167675.175,
+                            0.0
+                        ],
+                        [
+                            75061.357,
+                            167677.175,
+                            0.0
+                        ],
+                        [
+                            75063.357,
+                            167677.175,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        }
+    ]
+}

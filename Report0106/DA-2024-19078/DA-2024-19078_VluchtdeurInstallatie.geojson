@@ -1,0 +1,3580 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "02931b11-a0c6-4e18-9261-b22f9de1d311-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "02931b11-a0c6-4e18-9261-b22f9de1d311-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153411.051,
+                    208097.004,
+                    0.0,
+                    153413.051,
+                    208099.004,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153413.051,
+                            208099.004,
+                            0.0
+                        ],
+                        [
+                            153413.051,
+                            208097.004,
+                            0.0
+                        ],
+                        [
+                            153411.051,
+                            208097.004,
+                            0.0
+                        ],
+                        [
+                            153411.051,
+                            208099.004,
+                            0.0
+                        ],
+                        [
+                            153413.051,
+                            208099.004,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "0a01d336-3bad-4e24-b0ad-4b5610a425b4-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "0a01d336-3bad-4e24-b0ad-4b5610a425b4-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    147085.732,
+                    222325.353,
+                    0.0,
+                    147087.732,
+                    222327.353,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            147087.732,
+                            222327.353,
+                            0.0
+                        ],
+                        [
+                            147087.732,
+                            222325.353,
+                            0.0
+                        ],
+                        [
+                            147085.732,
+                            222325.353,
+                            0.0
+                        ],
+                        [
+                            147085.732,
+                            222327.353,
+                            0.0
+                        ],
+                        [
+                            147087.732,
+                            222327.353,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "0f9b44b3-cc0a-4184-b09c-77901af83ab2-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "0f9b44b3-cc0a-4184-b09c-77901af83ab2-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153417.015,
+                    207815.478,
+                    0.0,
+                    153419.015,
+                    207817.478,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153419.015,
+                            207817.478,
+                            0.0
+                        ],
+                        [
+                            153419.015,
+                            207815.478,
+                            0.0
+                        ],
+                        [
+                            153417.015,
+                            207815.478,
+                            0.0
+                        ],
+                        [
+                            153417.015,
+                            207817.478,
+                            0.0
+                        ],
+                        [
+                            153419.015,
+                            207817.478,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "16096064-836b-428c-8565-c678207b360e-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "16096064-836b-428c-8565-c678207b360e-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153338.282,
+                    208334.237,
+                    0.0,
+                    153340.282,
+                    208336.237,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153340.282,
+                            208336.237,
+                            0.0
+                        ],
+                        [
+                            153340.282,
+                            208334.237,
+                            0.0
+                        ],
+                        [
+                            153338.282,
+                            208334.237,
+                            0.0
+                        ],
+                        [
+                            153338.282,
+                            208336.237,
+                            0.0
+                        ],
+                        [
+                            153340.282,
+                            208336.237,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "188f36e9-380b-41e1-9bf3-6f35156de842-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "188f36e9-380b-41e1-9bf3-6f35156de842-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153356.119,
+                    207503.749,
+                    0.0,
+                    153358.119,
+                    207505.749,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153358.119,
+                            207505.749,
+                            0.0
+                        ],
+                        [
+                            153358.119,
+                            207503.749,
+                            0.0
+                        ],
+                        [
+                            153356.119,
+                            207503.749,
+                            0.0
+                        ],
+                        [
+                            153356.119,
+                            207505.749,
+                            0.0
+                        ],
+                        [
+                            153358.119,
+                            207505.749,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "1c16ec6a-8e29-44bd-ac7b-96d0278e82c5-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "1c16ec6a-8e29-44bd-ac7b-96d0278e82c5-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    146637.959,
+                    222088.249,
+                    0.0,
+                    146639.959,
+                    222090.249,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            146639.959,
+                            222090.249,
+                            0.0
+                        ],
+                        [
+                            146639.959,
+                            222088.249,
+                            0.0
+                        ],
+                        [
+                            146637.959,
+                            222088.249,
+                            0.0
+                        ],
+                        [
+                            146637.959,
+                            222090.249,
+                            0.0
+                        ],
+                        [
+                            146639.959,
+                            222090.249,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "1c79a7c9-b7a8-45bf-9861-67125a7f54fb-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "1c79a7c9-b7a8-45bf-9861-67125a7f54fb-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153272.822,
+                    207331.228,
+                    0.0,
+                    153274.822,
+                    207333.228,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153274.822,
+                            207333.228,
+                            0.0
+                        ],
+                        [
+                            153274.822,
+                            207331.228,
+                            0.0
+                        ],
+                        [
+                            153272.822,
+                            207331.228,
+                            0.0
+                        ],
+                        [
+                            153272.822,
+                            207333.228,
+                            0.0
+                        ],
+                        [
+                            153274.822,
+                            207333.228,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "1dcba6e2-f2da-4c24-9130-b245d66492b8-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "1dcba6e2-f2da-4c24-9130-b245d66492b8-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153357.005,
+                    207400.913,
+                    0.0,
+                    153359.005,
+                    207402.913,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153359.005,
+                            207402.913,
+                            0.0
+                        ],
+                        [
+                            153359.005,
+                            207400.913,
+                            0.0
+                        ],
+                        [
+                            153357.005,
+                            207400.913,
+                            0.0
+                        ],
+                        [
+                            153357.005,
+                            207402.913,
+                            0.0
+                        ],
+                        [
+                            153359.005,
+                            207402.913,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "1eb570f6-714b-4bf4-931f-4f9512c377a6-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "1eb570f6-714b-4bf4-931f-4f9512c377a6-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    157677.119,
+                    167849.376,
+                    0.0,
+                    157679.119,
+                    167851.376,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            157679.119,
+                            167851.376,
+                            0.0
+                        ],
+                        [
+                            157679.119,
+                            167849.376,
+                            0.0
+                        ],
+                        [
+                            157677.119,
+                            167849.376,
+                            0.0
+                        ],
+                        [
+                            157677.119,
+                            167851.376,
+                            0.0
+                        ],
+                        [
+                            157679.119,
+                            167851.376,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "2169878b-32a7-4cf1-a076-387addcb778b-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "2169878b-32a7-4cf1-a076-387addcb778b-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153453.386,
+                    207691.817,
+                    0.0,
+                    153455.386,
+                    207693.817,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153455.386,
+                            207693.817,
+                            0.0
+                        ],
+                        [
+                            153455.386,
+                            207691.817,
+                            0.0
+                        ],
+                        [
+                            153453.386,
+                            207691.817,
+                            0.0
+                        ],
+                        [
+                            153453.386,
+                            207693.817,
+                            0.0
+                        ],
+                        [
+                            153455.386,
+                            207693.817,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "254af0d0-0354-450a-b009-bd8daa8f4623-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "254af0d0-0354-450a-b009-bd8daa8f4623-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    157695.642,
+                    167895.721,
+                    0.0,
+                    157697.642,
+                    167897.721,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            157697.642,
+                            167897.721,
+                            0.0
+                        ],
+                        [
+                            157697.642,
+                            167895.721,
+                            0.0
+                        ],
+                        [
+                            157695.642,
+                            167895.721,
+                            0.0
+                        ],
+                        [
+                            157695.642,
+                            167897.721,
+                            0.0
+                        ],
+                        [
+                            157697.642,
+                            167897.721,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "279bc24d-54b3-47ff-8244-ecb59cff042f-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "279bc24d-54b3-47ff-8244-ecb59cff042f-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    146195.249,
+                    221855.11,
+                    0.0,
+                    146197.249,
+                    221857.11,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            146197.249,
+                            221857.11,
+                            0.0
+                        ],
+                        [
+                            146197.249,
+                            221855.11,
+                            0.0
+                        ],
+                        [
+                            146195.249,
+                            221855.11,
+                            0.0
+                        ],
+                        [
+                            146195.249,
+                            221857.11,
+                            0.0
+                        ],
+                        [
+                            146197.249,
+                            221857.11,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "286b1b82-643b-49a3-b67c-9a195ad03c1d-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "286b1b82-643b-49a3-b67c-9a195ad03c1d-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    146549.173,
+                    222041.216,
+                    0.0,
+                    146551.173,
+                    222043.216,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            146551.173,
+                            222043.216,
+                            0.0
+                        ],
+                        [
+                            146551.173,
+                            222041.216,
+                            0.0
+                        ],
+                        [
+                            146549.173,
+                            222041.216,
+                            0.0
+                        ],
+                        [
+                            146549.173,
+                            222043.216,
+                            0.0
+                        ],
+                        [
+                            146551.173,
+                            222043.216,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "2ee3fc5e-2f8d-4b56-a6e3-b0bf36757efa-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "2ee3fc5e-2f8d-4b56-a6e3-b0bf36757efa-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    146908.36,
+                    222232.852,
+                    0.0,
+                    146910.36,
+                    222234.852,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            146910.36,
+                            222234.852,
+                            0.0
+                        ],
+                        [
+                            146910.36,
+                            222232.852,
+                            0.0
+                        ],
+                        [
+                            146908.36,
+                            222232.852,
+                            0.0
+                        ],
+                        [
+                            146908.36,
+                            222234.852,
+                            0.0
+                        ],
+                        [
+                            146910.36,
+                            222234.852,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "35a89a09-c0a9-4c60-b2b7-972210ed00c8-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "35a89a09-c0a9-4c60-b2b7-972210ed00c8-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153461.216,
+                    207795.128,
+                    0.0,
+                    153463.216,
+                    207797.128,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153463.216,
+                            207797.128,
+                            0.0
+                        ],
+                        [
+                            153463.216,
+                            207795.128,
+                            0.0
+                        ],
+                        [
+                            153461.216,
+                            207795.128,
+                            0.0
+                        ],
+                        [
+                            153461.216,
+                            207797.128,
+                            0.0
+                        ],
+                        [
+                            153463.216,
+                            207797.128,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "35b25f8d-74e6-4347-820b-e08f079b6cce-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "35b25f8d-74e6-4347-820b-e08f079b6cce-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153231.939,
+                    207098.119,
+                    0.0,
+                    153233.939,
+                    207100.119,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153233.939,
+                            207100.119,
+                            0.0
+                        ],
+                        [
+                            153233.939,
+                            207098.119,
+                            0.0
+                        ],
+                        [
+                            153231.939,
+                            207098.119,
+                            0.0
+                        ],
+                        [
+                            153231.939,
+                            207100.119,
+                            0.0
+                        ],
+                        [
+                            153233.939,
+                            207100.119,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "3dd86937-44b0-4345-9bd5-ecb7bf63a7dd-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "3dd86937-44b0-4345-9bd5-ecb7bf63a7dd-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    146820.704,
+                    222185.054,
+                    0.0,
+                    146822.704,
+                    222187.054,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            146822.704,
+                            222187.054,
+                            0.0
+                        ],
+                        [
+                            146822.704,
+                            222185.054,
+                            0.0
+                        ],
+                        [
+                            146820.704,
+                            222185.054,
+                            0.0
+                        ],
+                        [
+                            146820.704,
+                            222187.054,
+                            0.0
+                        ],
+                        [
+                            146822.704,
+                            222187.054,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "3e4128da-fe12-43f8-8e4e-8c0a41de0f0a-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "3e4128da-fe12-43f8-8e4e-8c0a41de0f0a-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153174.382,
+                    207040.745,
+                    0.0,
+                    153176.382,
+                    207042.745,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153176.382,
+                            207042.745,
+                            0.0
+                        ],
+                        [
+                            153176.382,
+                            207040.745,
+                            0.0
+                        ],
+                        [
+                            153174.382,
+                            207040.745,
+                            0.0
+                        ],
+                        [
+                            153174.382,
+                            207042.745,
+                            0.0
+                        ],
+                        [
+                            153176.382,
+                            207042.745,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "3f0e0b0f-776f-4bd7-8d7a-887168a345f2-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "3f0e0b0f-776f-4bd7-8d7a-887168a345f2-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    157751.566,
+                    168088.076,
+                    0.0,
+                    157753.566,
+                    168090.076,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            157753.566,
+                            168090.076,
+                            0.0
+                        ],
+                        [
+                            157753.566,
+                            168088.076,
+                            0.0
+                        ],
+                        [
+                            157751.566,
+                            168088.076,
+                            0.0
+                        ],
+                        [
+                            157751.566,
+                            168090.076,
+                            0.0
+                        ],
+                        [
+                            157753.566,
+                            168090.076,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "422aaf5c-b59e-48c4-80ad-8a58a4a14027-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "422aaf5c-b59e-48c4-80ad-8a58a4a14027-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153327.939,
+                    208217.486,
+                    0.0,
+                    153329.939,
+                    208219.486,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153329.939,
+                            208219.486,
+                            0.0
+                        ],
+                        [
+                            153329.939,
+                            208217.486,
+                            0.0
+                        ],
+                        [
+                            153327.939,
+                            208217.486,
+                            0.0
+                        ],
+                        [
+                            153327.939,
+                            208219.486,
+                            0.0
+                        ],
+                        [
+                            153329.939,
+                            208219.486,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "43ed3a91-5a7a-4629-987c-85580f1e2c08-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "43ed3a91-5a7a-4629-987c-85580f1e2c08-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153391.343,
+                    208006.33,
+                    0.0,
+                    153393.343,
+                    208008.33,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153393.343,
+                            208008.33,
+                            0.0
+                        ],
+                        [
+                            153393.343,
+                            208006.33,
+                            0.0
+                        ],
+                        [
+                            153391.343,
+                            208006.33,
+                            0.0
+                        ],
+                        [
+                            153391.343,
+                            208008.33,
+                            0.0
+                        ],
+                        [
+                            153393.343,
+                            208008.33,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "4d76ae86-ebe9-4947-b82c-63e9a5879fd8-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "4d76ae86-ebe9-4947-b82c-63e9a5879fd8-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    146637.4,
+                    222089.324,
+                    0.0,
+                    146639.4,
+                    222091.324,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            146639.4,
+                            222091.324,
+                            0.0
+                        ],
+                        [
+                            146639.4,
+                            222089.324,
+                            0.0
+                        ],
+                        [
+                            146637.4,
+                            222089.324,
+                            0.0
+                        ],
+                        [
+                            146637.4,
+                            222091.324,
+                            0.0
+                        ],
+                        [
+                            146639.4,
+                            222091.324,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "4da6d1c2-3600-408e-a65c-34adf1947926-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "4da6d1c2-3600-408e-a65c-34adf1947926-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153221.38,
+                    207051.453,
+                    0.0,
+                    153223.38,
+                    207053.453,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153223.38,
+                            207053.453,
+                            0.0
+                        ],
+                        [
+                            153223.38,
+                            207051.453,
+                            0.0
+                        ],
+                        [
+                            153221.38,
+                            207051.453,
+                            0.0
+                        ],
+                        [
+                            153221.38,
+                            207053.453,
+                            0.0
+                        ],
+                        [
+                            153223.38,
+                            207053.453,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "4e7387ab-c8ac-4596-98d6-4f89cb56a9b1-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "4e7387ab-c8ac-4596-98d6-4f89cb56a9b1-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    146372.601,
+                    221947.687,
+                    0.0,
+                    146374.601,
+                    221949.687,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            146374.601,
+                            221949.687,
+                            0.0
+                        ],
+                        [
+                            146374.601,
+                            221947.687,
+                            0.0
+                        ],
+                        [
+                            146372.601,
+                            221947.687,
+                            0.0
+                        ],
+                        [
+                            146372.601,
+                            221949.687,
+                            0.0
+                        ],
+                        [
+                            146374.601,
+                            221949.687,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "501c22c4-929e-470d-a49a-f4af3f2c3aa1-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "501c22c4-929e-470d-a49a-f4af3f2c3aa1-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    146460.198,
+                    221995.452,
+                    0.0,
+                    146462.198,
+                    221997.452,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            146462.198,
+                            221997.452,
+                            0.0
+                        ],
+                        [
+                            146462.198,
+                            221995.452,
+                            0.0
+                        ],
+                        [
+                            146460.198,
+                            221995.452,
+                            0.0
+                        ],
+                        [
+                            146460.198,
+                            221997.452,
+                            0.0
+                        ],
+                        [
+                            146462.198,
+                            221997.452,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "5035270f-0f48-4223-b28f-9c14f6509c89-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "5035270f-0f48-4223-b28f-9c14f6509c89-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    157602.991,
+                    167663.507,
+                    0.0,
+                    157604.991,
+                    167665.507,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            157604.991,
+                            167665.507,
+                            0.0
+                        ],
+                        [
+                            157604.991,
+                            167663.507,
+                            0.0
+                        ],
+                        [
+                            157602.991,
+                            167663.507,
+                            0.0
+                        ],
+                        [
+                            157602.991,
+                            167665.507,
+                            0.0
+                        ],
+                        [
+                            157604.991,
+                            167665.507,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "5881b431-21e6-4583-9cdb-ecae5f095fc5-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "5881b431-21e6-4583-9cdb-ecae5f095fc5-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153363.135,
+                    208102.544,
+                    0.0,
+                    153365.135,
+                    208104.544,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153365.135,
+                            208104.544,
+                            0.0
+                        ],
+                        [
+                            153365.135,
+                            208102.544,
+                            0.0
+                        ],
+                        [
+                            153363.135,
+                            208102.544,
+                            0.0
+                        ],
+                        [
+                            153363.135,
+                            208104.544,
+                            0.0
+                        ],
+                        [
+                            153365.135,
+                            208104.544,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "61c6672e-d2ee-43bf-bd73-c5f28651368b-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "61c6672e-d2ee-43bf-bd73-c5f28651368b-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    146908.925,
+                    222231.79,
+                    0.0,
+                    146910.925,
+                    222233.79,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            146910.925,
+                            222233.79,
+                            0.0
+                        ],
+                        [
+                            146910.925,
+                            222231.79,
+                            0.0
+                        ],
+                        [
+                            146908.925,
+                            222231.79,
+                            0.0
+                        ],
+                        [
+                            146908.925,
+                            222233.79,
+                            0.0
+                        ],
+                        [
+                            146910.925,
+                            222233.79,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "6f11fb1f-83d3-4d76-84ec-d61af6021c16-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "6f11fb1f-83d3-4d76-84ec-d61af6021c16-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    157639.407,
+                    167758.488,
+                    0.0,
+                    157641.407,
+                    167760.488,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            157641.407,
+                            167760.488,
+                            0.0
+                        ],
+                        [
+                            157641.407,
+                            167758.488,
+                            0.0
+                        ],
+                        [
+                            157639.407,
+                            167758.488,
+                            0.0
+                        ],
+                        [
+                            157639.407,
+                            167760.488,
+                            0.0
+                        ],
+                        [
+                            157641.407,
+                            167760.488,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "739fa154-34ea-494a-af75-81a61783fe20-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "739fa154-34ea-494a-af75-81a61783fe20-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153315.732,
+                    207417.191,
+                    0.0,
+                    153317.732,
+                    207419.191,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153317.732,
+                            207419.191,
+                            0.0
+                        ],
+                        [
+                            153317.732,
+                            207417.191,
+                            0.0
+                        ],
+                        [
+                            153315.732,
+                            207417.191,
+                            0.0
+                        ],
+                        [
+                            153315.732,
+                            207419.191,
+                            0.0
+                        ],
+                        [
+                            153317.732,
+                            207419.191,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "77c892f5-e6a2-46ca-ae99-b225d6e48224-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "77c892f5-e6a2-46ca-ae99-b225d6e48224-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    147085.232,
+                    222326.455,
+                    0.0,
+                    147087.232,
+                    222328.455,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            147087.232,
+                            222328.455,
+                            0.0
+                        ],
+                        [
+                            147087.232,
+                            222326.455,
+                            0.0
+                        ],
+                        [
+                            147085.232,
+                            222326.455,
+                            0.0
+                        ],
+                        [
+                            147085.232,
+                            222328.455,
+                            0.0
+                        ],
+                        [
+                            147087.232,
+                            222328.455,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "7c95fae5-00ad-427f-860f-909d4ec762ba-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "7c95fae5-00ad-427f-860f-909d4ec762ba-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    157728.92,
+                    167990.489,
+                    0.0,
+                    157730.92,
+                    167992.489,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            157730.92,
+                            167992.489,
+                            0.0
+                        ],
+                        [
+                            157730.92,
+                            167990.489,
+                            0.0
+                        ],
+                        [
+                            157728.92,
+                            167990.489,
+                            0.0
+                        ],
+                        [
+                            157728.92,
+                            167992.489,
+                            0.0
+                        ],
+                        [
+                            157730.92,
+                            167992.489,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "81108eaa-ec63-479d-a4d3-fd4a6cc4a1a3-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "81108eaa-ec63-479d-a4d3-fd4a6cc4a1a3-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    157601.686,
+                    167663.898,
+                    0.0,
+                    157603.686,
+                    167665.898,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            157603.686,
+                            167665.898,
+                            0.0
+                        ],
+                        [
+                            157603.686,
+                            167663.898,
+                            0.0
+                        ],
+                        [
+                            157601.686,
+                            167663.898,
+                            0.0
+                        ],
+                        [
+                            157601.686,
+                            167665.898,
+                            0.0
+                        ],
+                        [
+                            157603.686,
+                            167665.898,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "8652e59c-cdef-4fc4-91b6-62dfa005a568-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "8652e59c-cdef-4fc4-91b6-62dfa005a568-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153362.949,
+                    208254.067,
+                    0.0,
+                    153364.949,
+                    208256.067,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153364.949,
+                            208256.067,
+                            0.0
+                        ],
+                        [
+                            153364.949,
+                            208254.067,
+                            0.0
+                        ],
+                        [
+                            153362.949,
+                            208254.067,
+                            0.0
+                        ],
+                        [
+                            153362.949,
+                            208256.067,
+                            0.0
+                        ],
+                        [
+                            153364.949,
+                            208256.067,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "86df773a-645c-495e-ace8-bc0c324a543e-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "86df773a-645c-495e-ace8-bc0c324a543e-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    146284.35,
+                    221902.327,
+                    0.0,
+                    146286.35,
+                    221904.327,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            146286.35,
+                            221904.327,
+                            0.0
+                        ],
+                        [
+                            146286.35,
+                            221902.327,
+                            0.0
+                        ],
+                        [
+                            146284.35,
+                            221902.327,
+                            0.0
+                        ],
+                        [
+                            146284.35,
+                            221904.327,
+                            0.0
+                        ],
+                        [
+                            146286.35,
+                            221904.327,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "91043d28-5b79-45a7-8f97-71b51cd7727c-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "91043d28-5b79-45a7-8f97-71b51cd7727c-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153195.764,
+                    207134.132,
+                    0.0,
+                    153197.764,
+                    207136.132,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153197.764,
+                            207136.132,
+                            0.0
+                        ],
+                        [
+                            153197.764,
+                            207134.132,
+                            0.0
+                        ],
+                        [
+                            153195.764,
+                            207134.132,
+                            0.0
+                        ],
+                        [
+                            153195.764,
+                            207136.132,
+                            0.0
+                        ],
+                        [
+                            153197.764,
+                            207136.132,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "9343721f-bbc6-45f9-a165-b1d4c47346cb-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "9343721f-bbc6-45f9-a165-b1d4c47346cb-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153400.559,
+                    207495.639,
+                    0.0,
+                    153402.559,
+                    207497.639,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153402.559,
+                            207497.639,
+                            0.0
+                        ],
+                        [
+                            153402.559,
+                            207495.639,
+                            0.0
+                        ],
+                        [
+                            153400.559,
+                            207495.639,
+                            0.0
+                        ],
+                        [
+                            153400.559,
+                            207497.639,
+                            0.0
+                        ],
+                        [
+                            153402.559,
+                            207497.639,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "955b864b-caef-4279-8d74-edb3593b5ac1-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "955b864b-caef-4279-8d74-edb3593b5ac1-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    146996.018,
+                    222279.207,
+                    0.0,
+                    146998.018,
+                    222281.207,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            146998.018,
+                            222281.207,
+                            0.0
+                        ],
+                        [
+                            146998.018,
+                            222279.207,
+                            0.0
+                        ],
+                        [
+                            146996.018,
+                            222279.207,
+                            0.0
+                        ],
+                        [
+                            146996.018,
+                            222281.207,
+                            0.0
+                        ],
+                        [
+                            146998.018,
+                            222281.207,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "9fdadf22-78a8-4b63-b70c-79b1ff9f5803-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "9fdadf22-78a8-4b63-b70c-79b1ff9f5803-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    146548.467,
+                    222042.215,
+                    0.0,
+                    146550.467,
+                    222044.215,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            146550.467,
+                            222044.215,
+                            0.0
+                        ],
+                        [
+                            146550.467,
+                            222042.215,
+                            0.0
+                        ],
+                        [
+                            146548.467,
+                            222042.215,
+                            0.0
+                        ],
+                        [
+                            146548.467,
+                            222044.215,
+                            0.0
+                        ],
+                        [
+                            146550.467,
+                            222044.215,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "a6654180-157a-45ab-b908-969935c89c2f-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "a6654180-157a-45ab-b908-969935c89c2f-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153228.872,
+                    207232.463,
+                    0.0,
+                    153230.872,
+                    207234.463,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153230.872,
+                            207234.463,
+                            0.0
+                        ],
+                        [
+                            153230.872,
+                            207232.463,
+                            0.0
+                        ],
+                        [
+                            153228.872,
+                            207232.463,
+                            0.0
+                        ],
+                        [
+                            153228.872,
+                            207234.463,
+                            0.0
+                        ],
+                        [
+                            153230.872,
+                            207234.463,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "a8029717-4800-4be4-baf2-ceec5c0fc280-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "a8029717-4800-4be4-baf2-ceec5c0fc280-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153456.115,
+                    207898.071,
+                    0.0,
+                    153458.115,
+                    207900.071,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153458.115,
+                            207900.071,
+                            0.0
+                        ],
+                        [
+                            153458.115,
+                            207898.071,
+                            0.0
+                        ],
+                        [
+                            153456.115,
+                            207898.071,
+                            0.0
+                        ],
+                        [
+                            153456.115,
+                            207900.071,
+                            0.0
+                        ],
+                        [
+                            153458.115,
+                            207900.071,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "a8edff22-c564-4999-bcdd-da474735db87-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "a8edff22-c564-4999-bcdd-da474735db87-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    146284.919,
+                    221901.233,
+                    0.0,
+                    146286.919,
+                    221903.233,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            146286.919,
+                            221903.233,
+                            0.0
+                        ],
+                        [
+                            146286.919,
+                            221901.233,
+                            0.0
+                        ],
+                        [
+                            146284.919,
+                            221901.233,
+                            0.0
+                        ],
+                        [
+                            146284.919,
+                            221903.233,
+                            0.0
+                        ],
+                        [
+                            146286.919,
+                            221903.233,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "bfefc458-760d-493b-9bf3-25670c72835d-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "bfefc458-760d-493b-9bf3-25670c72835d-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153295.141,
+                    208324.17,
+                    0.0,
+                    153297.141,
+                    208326.17,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153297.141,
+                            208326.17,
+                            0.0
+                        ],
+                        [
+                            153297.141,
+                            208324.17,
+                            0.0
+                        ],
+                        [
+                            153295.141,
+                            208324.17,
+                            0.0
+                        ],
+                        [
+                            153295.141,
+                            208326.17,
+                            0.0
+                        ],
+                        [
+                            153297.141,
+                            208326.17,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "c042a9d0-e3f1-4258-809f-b19e13d4b7f9-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "c042a9d0-e3f1-4258-809f-b19e13d4b7f9-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153319.427,
+                    207325.799,
+                    0.0,
+                    153321.427,
+                    207327.799,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153321.427,
+                            207327.799,
+                            0.0
+                        ],
+                        [
+                            153321.427,
+                            207325.799,
+                            0.0
+                        ],
+                        [
+                            153319.427,
+                            207325.799,
+                            0.0
+                        ],
+                        [
+                            153319.427,
+                            207327.799,
+                            0.0
+                        ],
+                        [
+                            153321.427,
+                            207327.799,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "c08c1473-da2b-44fc-8b2a-c5c12745d76b-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "c08c1473-da2b-44fc-8b2a-c5c12745d76b-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153384.171,
+                    208184.787,
+                    0.0,
+                    153386.171,
+                    208186.787,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153386.171,
+                            208186.787,
+                            0.0
+                        ],
+                        [
+                            153386.171,
+                            208184.787,
+                            0.0
+                        ],
+                        [
+                            153384.171,
+                            208184.787,
+                            0.0
+                        ],
+                        [
+                            153384.171,
+                            208186.787,
+                            0.0
+                        ],
+                        [
+                            153386.171,
+                            208186.787,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "c7bf8c65-a811-44e6-8044-acfb3dd759e1-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "c7bf8c65-a811-44e6-8044-acfb3dd759e1-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    146731.581,
+                    222139.209,
+                    0.0,
+                    146733.581,
+                    222141.209,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            146733.581,
+                            222141.209,
+                            0.0
+                        ],
+                        [
+                            146733.581,
+                            222139.209,
+                            0.0
+                        ],
+                        [
+                            146731.581,
+                            222139.209,
+                            0.0
+                        ],
+                        [
+                            146731.581,
+                            222141.209,
+                            0.0
+                        ],
+                        [
+                            146733.581,
+                            222141.209,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "c8c8f61f-0c57-4ebb-afc6-77109b2a5a9d-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "c8c8f61f-0c57-4ebb-afc6-77109b2a5a9d-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153409.883,
+                    207911.502,
+                    0.0,
+                    153411.883,
+                    207913.502,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153411.883,
+                            207913.502,
+                            0.0
+                        ],
+                        [
+                            153411.883,
+                            207911.502,
+                            0.0
+                        ],
+                        [
+                            153409.883,
+                            207911.502,
+                            0.0
+                        ],
+                        [
+                            153409.883,
+                            207913.502,
+                            0.0
+                        ],
+                        [
+                            153411.883,
+                            207913.502,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "d05138de-4fd8-4101-8562-258a7f02d092-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "d05138de-4fd8-4101-8562-258a7f02d092-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    157675.83,
+                    167849.811,
+                    0.0,
+                    157677.83,
+                    167851.811,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            157677.83,
+                            167851.811,
+                            0.0
+                        ],
+                        [
+                            157677.83,
+                            167849.811,
+                            0.0
+                        ],
+                        [
+                            157675.83,
+                            167849.811,
+                            0.0
+                        ],
+                        [
+                            157675.83,
+                            167851.811,
+                            0.0
+                        ],
+                        [
+                            157677.83,
+                            167851.811,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "d37862aa-2481-4158-b6e8-958a09cce64a-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "d37862aa-2481-4158-b6e8-958a09cce64a-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153268.011,
+                    208412.338,
+                    0.0,
+                    153270.011,
+                    208414.338,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153270.011,
+                            208414.338,
+                            0.0
+                        ],
+                        [
+                            153270.011,
+                            208412.338,
+                            0.0
+                        ],
+                        [
+                            153268.011,
+                            208412.338,
+                            0.0
+                        ],
+                        [
+                            153268.011,
+                            208414.338,
+                            0.0
+                        ],
+                        [
+                            153270.011,
+                            208414.338,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "d3c3de64-7cc6-4769-9eae-b0403adbe82c-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "d3c3de64-7cc6-4769-9eae-b0403adbe82c-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    146996.544,
+                    222278.108,
+                    0.0,
+                    146998.544,
+                    222280.108,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            146998.544,
+                            222280.108,
+                            0.0
+                        ],
+                        [
+                            146998.544,
+                            222278.108,
+                            0.0
+                        ],
+                        [
+                            146996.544,
+                            222278.108,
+                            0.0
+                        ],
+                        [
+                            146996.544,
+                            222280.108,
+                            0.0
+                        ],
+                        [
+                            146998.544,
+                            222280.108,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "d3d7368c-3b31-4368-95de-049733dca7b7-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "d3d7368c-3b31-4368-95de-049733dca7b7-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    157640.713,
+                    167758.096,
+                    0.0,
+                    157642.713,
+                    167760.096,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            157642.713,
+                            167760.096,
+                            0.0
+                        ],
+                        [
+                            157642.713,
+                            167758.096,
+                            0.0
+                        ],
+                        [
+                            157640.713,
+                            167758.096,
+                            0.0
+                        ],
+                        [
+                            157640.713,
+                            167760.096,
+                            0.0
+                        ],
+                        [
+                            157642.713,
+                            167760.096,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "d55eed9d-62d0-4d6a-a9a8-f5cf7eeaf3a9-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "d55eed9d-62d0-4d6a-a9a8-f5cf7eeaf3a9-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    146820.138,
+                    222186.122,
+                    0.0,
+                    146822.138,
+                    222188.122,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            146822.138,
+                            222188.122,
+                            0.0
+                        ],
+                        [
+                            146822.138,
+                            222186.122,
+                            0.0
+                        ],
+                        [
+                            146820.138,
+                            222186.122,
+                            0.0
+                        ],
+                        [
+                            146820.138,
+                            222188.122,
+                            0.0
+                        ],
+                        [
+                            146822.138,
+                            222188.122,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "d73e4d9f-86c9-433a-a7a7-ae1626d6845e-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "d73e4d9f-86c9-433a-a7a7-ae1626d6845e-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153411.903,
+                    207715.761,
+                    0.0,
+                    153413.903,
+                    207717.761,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153413.903,
+                            207717.761,
+                            0.0
+                        ],
+                        [
+                            153413.903,
+                            207715.761,
+                            0.0
+                        ],
+                        [
+                            153411.903,
+                            207715.761,
+                            0.0
+                        ],
+                        [
+                            153411.903,
+                            207717.761,
+                            0.0
+                        ],
+                        [
+                            153413.903,
+                            207717.761,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "e2d4d606-4beb-46ee-bc1e-c474b431d23f-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "e2d4d606-4beb-46ee-bc1e-c474b431d23f-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    157730.35,
+                    167990.287,
+                    0.0,
+                    157732.35,
+                    167992.287,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            157732.35,
+                            167992.287,
+                            0.0
+                        ],
+                        [
+                            157732.35,
+                            167990.287,
+                            0.0
+                        ],
+                        [
+                            157730.35,
+                            167990.287,
+                            0.0
+                        ],
+                        [
+                            157730.35,
+                            167992.287,
+                            0.0
+                        ],
+                        [
+                            157732.35,
+                            167992.287,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "e4669282-8458-48ca-85c1-33fcd3c54703-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "e4669282-8458-48ca-85c1-33fcd3c54703-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153394.084,
+                    207617.654,
+                    0.0,
+                    153396.084,
+                    207619.654,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153396.084,
+                            207619.654,
+                            0.0
+                        ],
+                        [
+                            153396.084,
+                            207617.654,
+                            0.0
+                        ],
+                        [
+                            153394.084,
+                            207617.654,
+                            0.0
+                        ],
+                        [
+                            153394.084,
+                            207619.654,
+                            0.0
+                        ],
+                        [
+                            153396.084,
+                            207619.654,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "e4a72625-7966-4c1e-b248-2a36bae29356-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "e4a72625-7966-4c1e-b248-2a36bae29356-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    157750.009,
+                    168088.126,
+                    0.0,
+                    157752.009,
+                    168090.126,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            157752.009,
+                            168090.126,
+                            0.0
+                        ],
+                        [
+                            157752.009,
+                            168088.126,
+                            0.0
+                        ],
+                        [
+                            157750.009,
+                            168088.126,
+                            0.0
+                        ],
+                        [
+                            157750.009,
+                            168090.126,
+                            0.0
+                        ],
+                        [
+                            157752.009,
+                            168090.126,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "e5003396-6cba-4099-a700-c05b187d8992-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "e5003396-6cba-4099-a700-c05b187d8992-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153434.703,
+                    207598.023,
+                    0.0,
+                    153436.703,
+                    207600.023,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153436.703,
+                            207600.023,
+                            0.0
+                        ],
+                        [
+                            153436.703,
+                            207598.023,
+                            0.0
+                        ],
+                        [
+                            153434.703,
+                            207598.023,
+                            0.0
+                        ],
+                        [
+                            153434.703,
+                            207600.023,
+                            0.0
+                        ],
+                        [
+                            153436.703,
+                            207600.023,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "e6fc13d8-8d02-40e4-8dca-9e877bc93bdc-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "e6fc13d8-8d02-40e4-8dca-9e877bc93bdc-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153264.343,
+                    207201.614,
+                    0.0,
+                    153266.343,
+                    207203.614,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153266.343,
+                            207203.614,
+                            0.0
+                        ],
+                        [
+                            153266.343,
+                            207201.614,
+                            0.0
+                        ],
+                        [
+                            153264.343,
+                            207201.614,
+                            0.0
+                        ],
+                        [
+                            153264.343,
+                            207203.614,
+                            0.0
+                        ],
+                        [
+                            153266.343,
+                            207203.614,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "eb230198-0f54-4818-b321-ced00a65a382-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "eb230198-0f54-4818-b321-ced00a65a382-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153440.68,
+                    207989.018,
+                    0.0,
+                    153442.68,
+                    207991.018,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153442.68,
+                            207991.018,
+                            0.0
+                        ],
+                        [
+                            153442.68,
+                            207989.018,
+                            0.0
+                        ],
+                        [
+                            153440.68,
+                            207989.018,
+                            0.0
+                        ],
+                        [
+                            153440.68,
+                            207991.018,
+                            0.0
+                        ],
+                        [
+                            153442.68,
+                            207991.018,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "f00bf284-f9f0-4149-8b72-70b564de354f-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "f00bf284-f9f0-4149-8b72-70b564de354f-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153308.935,
+                    208429.609,
+                    0.0,
+                    153310.935,
+                    208431.609,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            153310.935,
+                            208431.609,
+                            0.0
+                        ],
+                        [
+                            153310.935,
+                            208429.609,
+                            0.0
+                        ],
+                        [
+                            153308.935,
+                            208429.609,
+                            0.0
+                        ],
+                        [
+                            153308.935,
+                            208431.609,
+                            0.0
+                        ],
+                        [
+                            153310.935,
+                            208431.609,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "f70aeda0-ecfe-4a1e-a5c5-89a178c7c6ff-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "f70aeda0-ecfe-4a1e-a5c5-89a178c7c6ff-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    146732.151,
+                    222138.15,
+                    0.0,
+                    146734.151,
+                    222140.15,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            146734.151,
+                            222140.15,
+                            0.0
+                        ],
+                        [
+                            146734.151,
+                            222138.15,
+                            0.0
+                        ],
+                        [
+                            146732.151,
+                            222138.15,
+                            0.0
+                        ],
+                        [
+                            146732.151,
+                            222140.15,
+                            0.0
+                        ],
+                        [
+                            146734.151,
+                            222140.15,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "f7a5e48f-7857-4935-bfc4-98bf9324a521-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "f7a5e48f-7857-4935-bfc4-98bf9324a521-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    146460.926,
+                    221994.474,
+                    0.0,
+                    146462.926,
+                    221996.474,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            146462.926,
+                            221996.474,
+                            0.0
+                        ],
+                        [
+                            146462.926,
+                            221994.474,
+                            0.0
+                        ],
+                        [
+                            146460.926,
+                            221994.474,
+                            0.0
+                        ],
+                        [
+                            146460.926,
+                            221996.474,
+                            0.0
+                        ],
+                        [
+                            146462.926,
+                            221996.474,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "f7ca356d-21b2-45f8-86ca-521a97cdb534-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "f7ca356d-21b2-45f8-86ca-521a97cdb534-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    157694.351,
+                    167896.15,
+                    0.0,
+                    157696.351,
+                    167898.15,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            157696.351,
+                            167898.15,
+                            0.0
+                        ],
+                        [
+                            157696.351,
+                            167896.15,
+                            0.0
+                        ],
+                        [
+                            157694.351,
+                            167896.15,
+                            0.0
+                        ],
+                        [
+                            157694.351,
+                            167898.15,
+                            0.0
+                        ],
+                        [
+                            157696.351,
+                            167898.15,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "fc718cc1-6f2e-4c06-8450-181ff7d06067-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "fc718cc1-6f2e-4c06-8450-181ff7d06067-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    146371.885,
+                    221948.674,
+                    0.0,
+                    146373.885,
+                    221950.674,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            146373.885,
+                            221950.674,
+                            0.0
+                        ],
+                        [
+                            146373.885,
+                            221948.674,
+                            0.0
+                        ],
+                        [
+                            146371.885,
+                            221948.674,
+                            0.0
+                        ],
+                        [
+                            146371.885,
+                            221950.674,
+                            0.0
+                        ],
+                        [
+                            146373.885,
+                            221950.674,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "fdcce184-06f7-44ac-9059-7c877681e353-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Vluchtdeurindicatie",
+                "assetId.identificator": "fdcce184-06f7-44ac-9059-7c877681e353-aW5zdGFsbGF0aWUjVmx1Y2h0ZGV1cmluZGljYXRpZQ",
+                "notitie": "Oorspronkelijke puntlocaties zijn gebufferd in overeenstemming met het GeometrieArtefact"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    146195.996,
+                    221854.132,
+                    0.0,
+                    146197.996,
+                    221856.132,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            146197.996,
+                            221856.132,
+                            0.0
+                        ],
+                        [
+                            146197.996,
+                            221854.132,
+                            0.0
+                        ],
+                        [
+                            146195.996,
+                            221854.132,
+                            0.0
+                        ],
+                        [
+                            146195.996,
+                            221856.132,
+                            0.0
+                        ],
+                        [
+                            146197.996,
+                            221856.132,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,380 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "053db5e7-c5cd-4dbf-be58-5b82d52ab8e7-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Slagboom",
+                "assetId.identificator": "053db5e7-c5cd-4dbf-be58-5b82d52ab8e7-aW5zdGFsbGF0aWUjU2xhZ2Jvb20"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    61516.2,
+                    209445.7,
+                    0.0,
+                    61517.035322,
+                    209454.547556,
+                    0.0
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        61516.2,
+                        209445.7,
+                        0.0
+                    ],
+                    [
+                        61517.035322,
+                        209454.547556,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "0f7934e2-6200-48bb-a484-bac2b764e0f2-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Slagboom",
+                "assetId.identificator": "0f7934e2-6200-48bb-a484-bac2b764e0f2-aW5zdGFsbGF0aWUjU2xhZ2Jvb20"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    98717.3,
+                    191909.9,
+                    0.0,
+                    98721.519818,
+                    191919.803653,
+                    0.0
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        98717.3,
+                        191909.9,
+                        0.0
+                    ],
+                    [
+                        98721.519818,
+                        191919.803653,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "3b043f3e-dea4-44db-bf42-1608402fe0c4-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Slagboom",
+                "assetId.identificator": "3b043f3e-dea4-44db-bf42-1608402fe0c4-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+                "notitie": "Te controleren: de slagboom is verwijderd bij de vernieuwing van de snelwegparking"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    61716.3,
+                    209331.2,
+                    0.0,
+                    61717.105859,
+                    209339.572436,
+                    0.0
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        61716.3,
+                        209331.2,
+                        0.0
+                    ],
+                    [
+                        61717.105859,
+                        209339.572436,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "62c7cdd6-0619-4d25-a638-0f9e17c67f02-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Slagboom",
+                "assetId.identificator": "62c7cdd6-0619-4d25-a638-0f9e17c67f02-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+                "notitie": "Te controleren: de slagboom is verwijderd bij de vernieuwing van de snelwegparking"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    61703.8,
+                    209372.168475,
+                    0.0,
+                    61712.216453,
+                    209380.1,
+                    0.0
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        61703.8,
+                        209380.1,
+                        0.0
+                    ],
+                    [
+                        61712.216453,
+                        209372.168475,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "75640b15-b14e-48e6-8826-87d11f1cd366-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Slagboom",
+                "assetId.identificator": "75640b15-b14e-48e6-8826-87d11f1cd366-aW5zdGFsbGF0aWUjU2xhZ2Jvb20"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    98743.0,
+                    191952.2,
+                    0.0,
+                    98750.643441,
+                    191955.779893,
+                    0.0
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        98743.0,
+                        191952.2,
+                        0.0
+                    ],
+                    [
+                        98750.643441,
+                        191955.779893,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "8a1f4ab5-0042-404a-8a6b-2c57eeab7c61-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Slagboom",
+                "assetId.identificator": "8a1f4ab5-0042-404a-8a6b-2c57eeab7c61-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+                "notitie": "Te controleren: de slagboom is verwijderd bij de vernieuwing van de snelwegparking"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    61719.772808,
+                    209356.561887,
+                    0.0,
+                    61723.2,
+                    209360.9,
+                    0.0
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        61723.2,
+                        209360.9,
+                        0.0
+                    ],
+                    [
+                        61719.772808,
+                        209356.561887,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "b2fb5551-c4ed-4351-85bc-bb8e8c330790-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Slagboom",
+                "assetId.identificator": "b2fb5551-c4ed-4351-85bc-bb8e8c330790-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+                "notitie": "Te controleren: de slagboom is verwijderd bij de vernieuwing van de snelwegparking"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    61713.105436,
+                    209364.7,
+                    0.0,
+                    61718.9,
+                    209370.983165,
+                    0.0
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        61718.9,
+                        209364.7,
+                        0.0
+                    ],
+                    [
+                        61713.105436,
+                        209370.983165,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "c7b82659-871c-4a76-945c-dd3b8c820a7c-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Slagboom",
+                "assetId.identificator": "c7b82659-871c-4a76-945c-dd3b8c820a7c-aW5zdGFsbGF0aWUjU2xhZ2Jvb20"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    65448.25987,
+                    162432.125002,
+                    0.0,
+                    65451.949748,
+                    162438.153819,
+                    0.0
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        65451.949748,
+                        162438.153819,
+                        0.0
+                    ],
+                    [
+                        65448.25987,
+                        162432.125002,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "e4800bd0-5938-468e-95d4-63eb6d13924d-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Slagboom",
+                "assetId.identificator": "e4800bd0-5938-468e-95d4-63eb6d13924d-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+                "notitie": "Te controleren: de slagboom is verwijderd bij de vernieuwing van de snelwegparking"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    61714.4,
+                    209350.7,
+                    0.0,
+                    61719.328316,
+                    209355.919844,
+                    0.0
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        61714.4,
+                        209350.7,
+                        0.0
+                    ],
+                    [
+                        61719.328316,
+                        209355.919844,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "fee81d43-ea0e-4d4b-a9d0-3938fd70b7f3-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Slagboom",
+                "assetId.identificator": "fee81d43-ea0e-4d4b-a9d0-3938fd70b7f3-aW5zdGFsbGF0aWUjU2xhZ2Jvb20"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    65684.936325,
+                    162210.722223,
+                    0.0,
+                    65690.985305,
+                    162214.069326,
+                    0.0
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        65690.985305,
+                        162214.069326,
+                        0.0
+                    ],
+                    [
+                        65684.936325,
+                        162210.722223,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        }
+    ]
+}
