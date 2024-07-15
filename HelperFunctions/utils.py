@@ -4,6 +4,22 @@ from matplotlib.ticker import ScalarFormatter
 import contextily as ctx
 import geopandas as gpd
 
+
+def split_list(input_list, max_elements=100):
+    """
+    Splits a list into multiple lists of a specified maximum number of elements.
+
+    Parameters:
+    input_list (list): The list to be split.
+    max_elements (int): The maximum number of elements per sublist.
+
+    Returns:
+    list of lists: A list containing the sublists.
+    """
+    # Use list comprehension to create the sublists
+    return [input_list[i:i + max_elements] for i in range(0, len(input_list), max_elements)]
+
+
 def plot_gdf(gdf, filename, fanout=False, color='red', figsize=(10, 10), dpi=100):
     """
     Plot each individual record of a GeoDataFrame and save as PNG images.
