@@ -1,0 +1,70 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "0116a48d-c155-41e4-882e-ebafae0d7b08-aW5zdGFsbGF0aWUjR2Vib3V3",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Gebouw",
+                "assetId.identificator": "0116a48d-c155-41e4-882e-ebafae0d7b08-aW5zdGFsbGF0aWUjR2Vib3V3",
+                "isActief": "true"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    158710.08,
+                    190565.6,
+                    0.0,
+                    158770.82,
+                    190672.33,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            158733.58,
+                            190565.6,
+                            0.0
+                        ],
+                        [
+                            158770.82,
+                            190647.08,
+                            0.0
+                        ],
+                        [
+                            158713.58,
+                            190672.33,
+                            0.0
+                        ],
+                        [
+                            158710.08,
+                            190660.83,
+                            0.0
+                        ],
+                        [
+                            158744.07,
+                            190644.58,
+                            0.0
+                        ],
+                        [
+                            158715.08,
+                            190575.35,
+                            0.0
+                        ],
+                        [
+                            158733.58,
+                            190565.6,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        }
+    ]
+}
