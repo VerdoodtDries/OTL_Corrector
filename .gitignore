@@ -163,3 +163,5 @@ cython_debug/
 
 # Alle Excel files
 *.xlsx
+/Simplify_WKT_string/output/
+/Simplify_WKT_string/te-lange-wkt.fmw

@@ -3,6 +3,56 @@ import matplotlib.pyplot as plt
 from matplotlib.ticker import ScalarFormatter
 import contextily as ctx
 import geopandas as gpd
+from otlmow_model.OtlmowModel.BaseClasses.OTLObject import OTLObject
+
+def get_wkt_length(geometry):
+    """
+    Returns the length of the Well-Known Text (WKT) representation of a geometry object.
+
+    Args:
+        geometry: A geometry object.
+
+    Returns:
+        int: The length of the WKT representation of the geometry object.
+    """
+    return len(geometry.wkt)
+
+def gdf_to_OTLAssets(gdf):
+    """
+    Converts a geodataframe to a list of OTLObject objects representing assets.
+
+    Args:
+        gdf: A geopandas geodataframe containing asset data.
+
+    Returns:
+        list: A list of OTLObject objects representing assets after conversion.
+
+    Raises:
+        KeyError: If the 'assetId.identificator' key is missing in the geodataframe.
+
+    Examples:
+        gdf = geopandas.GeoDataFrame(...)
+        list_OTLAssets = gdf_to_OTLAssets(gdf)
+    """
+
+    # Convert geodataframe to a dictionary
+    list_of_dict = gdf.to_dict(orient='records')
+
+    # Edit the attribute assetId.identificator.
+    for list_element in list_of_dict:
+        list_element['assetId'] = {'identificator': list_element['assetId.identificator']}
+        del list_element['assetId.identificator'] # verwijder dit dictionary element
+
+    # Transform the dictionary to the OTLObject object. This has a built-in validation.
+    list_OTLAssets = []
+    # dict to otlmow model
+    for asset in list_of_dict:
+        ##print(f'Asset: {asset}')
+        OTLAsset = OTLObject.from_dict(asset)
+        ##print(f'OTL-asset: {OTLAsset}')
+        list_OTLAssets.append(OTLAsset)
+
+    return list_OTLAssets
 
 
 def split_list(input_list, max_elements=100):
