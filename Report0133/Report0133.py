@@ -113,7 +113,7 @@ gdf = gpd.GeoDataFrame(df, geometry=gs_geometry, crs="EPSG:31370")
 ### Process dataframe
 ######################################################################
 # Toevoegen van de naam van de provincie
-filepath_provincie = 'Refprv.sqlite'
+filepath_provincie = 'input/Refprv.sqlite'
 gdf_provincie = gpd.read_file(filepath_provincie, layer='Refprv')
 # When you perform an overlay operation using gpd.overlay(),
 # the resulting GeoDataFrame does not retain the original indices of the input GeoDataFrames.
