@@ -34,27 +34,8 @@ import os
 ######################################################################
 ### Define variables
 ######################################################################
-filename = r"C:\Users\DriesVerdoodtNordend\Downloads\[RSA] Geometrie is consistent met GeometrieArtefact_20240731.xlsx"
+filename = r"C:\Users\DriesVerdoodtNordend\Downloads\[RSA] Geometrie is consistent met GeometrieArtefact_20240801.xlsx"
 feature_type = 'Resultaat'  # This is the layer name or the Excel sheet name
-
-######################################################################
-### Connect to API
-######################################################################
-if __name__ == '__main__':
-    logging.basicConfig(
-        format='%(asctime)s %(levelname)-8s %(message)s',
-        level=logging.INFO,
-        datefmt='%Y-%m-%d %H:%M:%S')
-
-    settings_manager = SettingsManager(
-        settings_path=r'/settings.json')
-
-    requester = RequesterFactory.create_requester(settings=settings_manager.settings, auth_type='JWT', env='prd',
-                                                  multiprocessing_safe=True)
-    request_handler = RequestHandler(requester)
-
-    eminfra_importer = EMInfraImporter(request_handler)
-
 
 ######################################################################
 ### Read input data in a pandas dataframe
