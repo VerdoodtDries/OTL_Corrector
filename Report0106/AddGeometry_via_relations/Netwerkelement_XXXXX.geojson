@@ -1,0 +1,837 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "490e7817-f0be-4610-9bf1-9a41f2495c66-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "490e7817-f0be-4610-9bf1-9a41f2495c66-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    148845.8,
+                    212175.6,
+                    0.0,
+                    148845.8,
+                    212175.6,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        148845.8,
+                        212175.6,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "5fb39328-f750-4d8a-9855-a6540eb1fc1c-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "5fb39328-f750-4d8a-9855-a6540eb1fc1c-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    146864.2,
+                    213296.2,
+                    0.0,
+                    146864.2,
+                    213296.2,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        146864.2,
+                        213296.2,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "dbf4dcc6-fe4d-467f-93a7-2bbcc12a4fa2-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "dbf4dcc6-fe4d-467f-93a7-2bbcc12a4fa2-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    151576.6,
+                    221034.4,
+                    0.0,
+                    151576.6,
+                    221034.4,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        151576.6,
+                        221034.4,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "e4cb5bf6-875d-4214-8559-98391d449213-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "e4cb5bf6-875d-4214-8559-98391d449213-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    68052.9,
+                    210343.0,
+                    0.0,
+                    68052.9,
+                    210343.0,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        68052.9,
+                        210343.0,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "f90b5a6c-be48-451f-900c-69af66b9063f-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "f90b5a6c-be48-451f-900c-69af66b9063f-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    71718.1,
+                    168925.5,
+                    0.0,
+                    71718.1,
+                    168925.5,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        71718.1,
+                        168925.5,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "366f944a-863b-4934-afef-23e70b4b5d65-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "366f944a-863b-4934-afef-23e70b4b5d65-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    143098.1,
+                    216902.5,
+                    0.0,
+                    143098.1,
+                    216902.5,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        143098.1,
+                        216902.5,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "675cbe6f-9e0b-4187-80a9-515417e9fb57-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "675cbe6f-9e0b-4187-80a9-515417e9fb57-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    143140.4,
+                    216930.7,
+                    0.0,
+                    143140.4,
+                    216930.7,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        143140.4,
+                        216930.7,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "6f55b551-9c43-49c1-97d6-101e500a4a38-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "6f55b551-9c43-49c1-97d6-101e500a4a38-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    158151.0,
+                    189706.0,
+                    0.0,
+                    158151.0,
+                    189706.0,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        158151.0,
+                        189706.0,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "b8d95d32-ecd9-43b0-a986-5cb6d3419f61-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "b8d95d32-ecd9-43b0-a986-5cb6d3419f61-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    149289.2,
+                    211493.9,
+                    0.0,
+                    149289.2,
+                    211493.9,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        149289.2,
+                        211493.9,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "ff4dae21-dab9-4e34-9d4e-5710c5dae142-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "ff4dae21-dab9-4e34-9d4e-5710c5dae142-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153364.3,
+                    208178.3,
+                    0.0,
+                    153364.3,
+                    208178.3,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        153364.3,
+                        208178.3,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "2b98ef02-c28d-4744-a29a-c1864025e041-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "2b98ef02-c28d-4744-a29a-c1864025e041-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    152211.2,
+                    220681.3,
+                    0.0,
+                    152211.2,
+                    220681.3,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        152211.2,
+                        220681.3,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "56a2586d-cb25-4d36-b777-c120907c8a3c-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "56a2586d-cb25-4d36-b777-c120907c8a3c-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    75240.4,
+                    224392.9,
+                    0.0,
+                    75240.4,
+                    224392.9,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        75240.4,
+                        224392.9,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "6fdd50f6-e161-4feb-9054-d3249474dbfe-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "6fdd50f6-e161-4feb-9054-d3249474dbfe-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153385.1,
+                    208110.5,
+                    0.0,
+                    153385.1,
+                    208110.5,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        153385.1,
+                        208110.5,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "d01b9d52-48a3-4bf4-8a7d-0c0ffbe5a608-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "d01b9d52-48a3-4bf4-8a7d-0c0ffbe5a608-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153390.1,
+                    208005.5,
+                    0.0,
+                    153390.1,
+                    208005.5,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        153390.1,
+                        208005.5,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "0043f983-8eec-414d-8a78-ab6bef8f0dad-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "0043f983-8eec-414d-8a78-ab6bef8f0dad-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    125583.0,
+                    180286.1,
+                    0.0,
+                    125583.0,
+                    180286.1,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        125583.0,
+                        180286.1,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "1e2bcfb9-10a1-4a5a-9190-9bb822766fce-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "1e2bcfb9-10a1-4a5a-9190-9bb822766fce-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    138308.4,
+                    216034.7,
+                    0.0,
+                    138308.4,
+                    216034.7,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        138308.4,
+                        216034.7,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "35703260-8756-498a-a738-65272321b75b-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "35703260-8756-498a-a738-65272321b75b-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    157718.2,
+                    167918.1,
+                    0.0,
+                    157718.2,
+                    167918.1,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        157718.2,
+                        167918.1,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "42f5428f-95d6-45e4-bc08-fcd44795028b-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "42f5428f-95d6-45e4-bc08-fcd44795028b-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    80400.0,
+                    171578.1,
+                    0.0,
+                    80400.0,
+                    171578.1,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        80400.0,
+                        171578.1,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "b1e5146c-468e-47c3-a3e4-4029608dfe15-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "b1e5146c-468e-47c3-a3e4-4029608dfe15-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    135121.3,
+                    186723.5,
+                    0.0,
+                    135121.3,
+                    186723.5,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        135121.3,
+                        186723.5,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "e63ff669-b93a-4772-9844-1f1986a7e96a-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "e63ff669-b93a-4772-9844-1f1986a7e96a-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    143098.1,
+                    216902.5,
+                    0.0,
+                    143098.1,
+                    216902.5,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        143098.1,
+                        216902.5,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "e6c15bce-1817-4a2b-b52b-33d7f341c0e2-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "e6c15bce-1817-4a2b-b52b-33d7f341c0e2-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    152298.2,
+                    212349.9,
+                    0.0,
+                    152298.2,
+                    212349.9,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        152298.2,
+                        212349.9,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "82c51f81-65ba-4248-994e-759595b28280-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "82c51f81-65ba-4248-994e-759595b28280-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    157644.4,
+                    167733.3,
+                    0.0,
+                    157644.4,
+                    167733.3,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        157644.4,
+                        167733.3,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "9b638d21-baff-44ad-b1ba-21e84f014d11-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "9b638d21-baff-44ad-b1ba-21e84f014d11-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    150672.5,
+                    210357.6,
+                    0.0,
+                    150672.5,
+                    210357.6,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        150672.5,
+                        210357.6,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "1e6980b9-6e31-432b-9ae8-54df685e32d2-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "1e6980b9-6e31-432b-9ae8-54df685e32d2-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    153640.0,
+                    212034.6,
+                    0.0,
+                    153640.0,
+                    212034.6,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        153640.0,
+                        212034.6,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "8eec1654-c9e9-4dfd-a329-3caa70e49fed-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "8eec1654-c9e9-4dfd-a329-3caa70e49fed-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    151321.1,
+                    206988.6,
+                    0.0,
+                    151321.1,
+                    206988.6,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        151321.1,
+                        206988.6,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "d6ebd4b1-1c03-4e8f-94c4-d5a300ffb476-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Netwerkelement",
+                "assetId.identificator": "d6ebd4b1-1c03-4e8f-94c4-d5a300ffb476-b25kZXJkZWVsI05ldHdlcmtlbGVtZW50"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    224095.5,
+                    176301.7,
+                    0.0,
+                    224095.5,
+                    176301.7,
+                    0.0
+                ],
+                "type": "Point",
+                "coordinates": [
+                    [
+                        224095.5,
+                        176301.7,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        }
+    ]
+}
