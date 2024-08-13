@@ -18,7 +18,7 @@ from SettingsManager import SettingsManager
 from AssetUpdater import AssetUpdater
 import geopandas as gpd
 from collections import defaultdict
-
+import os
 
 if __name__ == '__main__':
     logging.basicConfig(
@@ -126,7 +126,7 @@ for asset in list_of_dict:
 list_OTLAssets = sorted(list_OTLAssets, key=lambda x: type(x).__name__)
 
 # Group elements by their type
-type_groups = defaultdict(list)
+type_groups = defaultdict(list)  # create a dictionary of lists
 for item in list_OTLAssets:
     type_name = type(item).__name__
     type_groups[type_name].append(item)
@@ -134,10 +134,11 @@ for item in list_OTLAssets:
 # Instantiate the converter
 converter = OtlmowConverter()
 
+os.makedirs('DA-2024-21600', exist_ok=True)
 # Export each type group to a separate file
 for type_name, items in type_groups.items():
     # Generate a unique file name for each type
-    filepath = Path(f'DA-2024-XXXXX_{type_name}.geojson')
+    filepath = Path(f'DA-2024-21600/{type_name}.geojson')
 
     # Export to file
     converter.create_file_from_assets(filepath=filepath, list_of_objects=items)
