@@ -9,7 +9,8 @@ from otlmow_model.OtlmowModel.BaseClasses.OTLObject import OTLObject
 from otlmow_model.OtlmowModel.Helpers.OTLObjectHelper import print_overview_assets
 from otlmow_converter.FileFormats.PandasConverter import PandasConverter
 from fuzzywuzzy import fuzz
-from HelperFunctions.utils import split_list, gdf_to_OTLAssets
+from HelperFunctions.utils import split_list, plot_gdf, gdf_to_OTLAssets
+import json
 import pandas as pd
 import geopandas as gpd
 from shapely import wkt
@@ -23,8 +24,8 @@ from SettingsManager import SettingsManager
 from AssetUpdater import AssetUpdater
 import geopandas as gpd
 import matplotlib
+from openpyxl import load_workbook
 import matplotlib.pyplot as plt
-
 matplotlib.use('TkAgg')
 import contextily as ctx
 from matplotlib.ticker import ScalarFormatter
@@ -36,8 +37,13 @@ boom = dynamic_create_instance_from_uri(boom_type_uri)
 ######################################################################
 ### Define variables
 ######################################################################
-filename = r"C:\Users\DriesVerdoodtNordend\OneDrive - Nordend\projects\AWV\python_repositories\OTL_Corrector\Report0133\[RSA] Dubbele bomen_20240716.xlsx"
+provincie = 'Oost-Vlaanderen'
+
+script_dir = os.path.dirname(os.path.abspath(__file__))
+filename = f'[RSA] Dubbele bomen ({provincie}).xlsx'
+filepath = os.path.join(script_dir, 'input', filename)
 feature_type = 'Resultaat'  # This is the layer name or the Excel sheet name
+
 
 ######################################################################
 ### Connect to API
@@ -51,8 +57,8 @@ if __name__ == '__main__':
     settings_manager = SettingsManager(
         settings_path=r'C:\Users\DriesVerdoodtNordend\OneDrive - Nordend\projects\AWV\python_repositories\OTL_Corrector\settings.json')
 
-    requester = RequesterFactory.create_requester(settings=settings_manager.settings, auth_type='JWT', env='prd',
-                                                  multiprocessing_safe=True)
+    requester = RequesterFactory.create_requester(settings=settings_manager.settings, auth_type='JWT', env='prd')
+
     request_handler = RequestHandler(requester)
 
     eminfra_importer = EMInfraImporter(request_handler)
@@ -61,9 +67,6 @@ if __name__ == '__main__':
 ######################################################################
 ### Read input data in a pandas dataframe
 ######################################################################
-script_dir = os.path.dirname(os.path.abspath(__file__))
-filepath = os.path.join(script_dir, filename)
-
 try:
     # Split the extension
     filename_abs, extension = os.path.splitext(filename)
@@ -83,6 +86,12 @@ asset_uuids = df_input['boom1_uuid'].tolist()
 asset_uuids = [i[:36] for i in
                asset_uuids]  # Behoud enkel de eerste 36 karakters, hetgeen overeenkomt met de uuid, en niet de volledige AIM-ID
 
+# Verwijder de dubbels uit de lijst. Python trucje: converteer naar een set en meteen terug naar een lijst
+# print(f'Lengte van de initiële lijst: {len(asset_uuids)}')
+asset_uuids = list(set(asset_uuids))
+# print(f'Lengte van de unieke lijst: {len(asset_uuids)}')
+
+
 ######################################################################
 ### Launch the API request to obtain data
 ######################################################################
@@ -95,16 +104,10 @@ for bin_asset_uuids in asset_uuids_bin100:
     asset_dicts_dict |= AssetUpdater.get_dict_from_object_generator(
         object_generator)  ## |= is the update operator for dictionaries.
 
-df = pd.DataFrame(data=asset_dicts_dict)
-# Transpose rows and column
-df = df.transpose()
-## print(f'Type: {type(df)}')
-## print(f'Dataframe: {df}')
+df = pd.DataFrame(data=asset_dicts_dict).transpose()  # Transpose rows and column
 
 # Create a GeoSeries
 gs_geometry = gpd.GeoSeries.from_wkt(df['loc:Locatie.geometrie'])
-## print(f'Type: {type(gs_geometry)}')
-## print(f'Geoseries: {gs_geometry}')
 
 # Convert the DataFrame to a GeoDataFrame
 gdf = gpd.GeoDataFrame(df, geometry=gs_geometry, crs="EPSG:31370")
@@ -112,131 +115,164 @@ gdf = gpd.GeoDataFrame(df, geometry=gs_geometry, crs="EPSG:31370")
 ######################################################################
 ### Process dataframe
 ######################################################################
-# Toevoegen van de naam van de provincie
-filepath_provincie = 'input/Refprv.sqlite'
-gdf_provincie = gpd.read_file(filepath_provincie, layer='Refprv')
-# When you perform an overlay operation using gpd.overlay(),
-# the resulting GeoDataFrame does not retain the original indices of the input GeoDataFrames.
-# However, you can keep the original indices by temporarily storing them as a new column in the input GeoDataFrames
-# before performing the overlay.
-# After the overlay, you can set the original indices back.
-# Add a temporary column to store the original index
-gdf['original_index'] = gdf.index
-gdf = gpd.overlay(gdf, gdf_provincie, how='intersection')
-# Restore the original index and drop the temporary column
-gdf.set_index('original_index', inplace=True)
-
+# Voeg opnieuw de info toe uit het input dataframe (df_input): ident8, ident2(, gemeente, provincie). Merge o.b.v. uuid.
 # Add a column "id_duplicate_asset". This is the column to detect the duplicate assets (identical trees).
 # Step 1: Merge the input dataframe (df_input) and add the column "boom2_uuid".
-# preprocess df_input: set index, keep only boom1_uuid and boom2_uuid
+# preprocess df_input: set index, keep attributes uuid, ident8(, gemeente, provincie)
 # Keep a minimalistic version of df_input
-df_input_minimal = df_input[["boom1_uuid", "boom2_uuid"]].copy()
+df_input_minimal = df_input[["boom1_uuid", "boom2_uuid", "boom1_ident8", "boom2_ident8"]].copy()
 df_input_minimal.set_index("boom1_uuid", drop=False, inplace=True)
-gdf = pd.merge(gdf, df_input_minimal, left_index=True, right_index=True, how='left')
+df_input_minimal = df_input_minimal.drop_duplicates('boom1_uuid')
+gdf = pd.merge(gdf, df_input_minimal, left_index=True, right_index=True, how='inner')
 # Step 2: Create a sorted tuple for each combination of 'uuid1' and 'uuid2'
 #         Add a column that indicates the match between two assets: id_duplicate_asset
 gdf['id_duplicate_asset'] = gdf.apply(lambda row: tuple(sorted([row['boom1_uuid'], row['boom2_uuid']])), axis=1)
-
 # Sort the dataframe for visual inspection
 gdf.sort_values(by="id_duplicate_asset", inplace=True)
 
-
 ######################################################################
-### Bereken het aantal waardes dat voorkomt bij attributen
-### Bereken de fuzzystring gelijkenis van attributen
-### Bereken of attributen tegenstrijdig zijn
+### Groepeer dataframe per weg (ident8)
+### Plot een kaart met alle dubbele bomen
+### Schrijf een samenvatting weg naar Excel
 ######################################################################
-# Oplijsten van de attributen waarop een score wordt berekend. Verhoog met 1 als er een waarde beschikbaar is.
-# Beter zou zijn: alle attributen wiens naam start met AIM; Boom; VegetatieElement
-lst_attributen_score = ["AIMNaamObject.naam", "VegetatieElement.hoogte", "AIMObject.datumOprichtingObject",
-                        "Boom.heeftLuchtleiding", "VegetatieElement.soortnaam", "Boom.boomspiegel",
-                        "Boom.eindbeeld"]  # "AIMObject.notitie"
-# Bereken de fuzzystring matching score. Dit percentage duidt de gelijkenis tussen twee attributen aan. Controleer of bepaalde attributen ongeveer gelijkaardig zijn.
-lst_attributen_fuzzystring = ["VegetatieElement.soortnaam"]
-# Bereken of bepaalde attributen tegenstrijdige informatie bevatten. Dit zijn kritieke attributen die identieke moeten zijn.
-lst_attributen_tegenstrijdig = ["AIMNaamObject.naam"]  # Kritieke attributen waarvoor we detecteren of ze tegenstrijdig zijn.
+# Group by the 'ident8' column and perform operations on each group
+grouped = gdf.groupby('boom1_ident8')
+
+group_counts = gdf.groupby('boom1_ident8').size().reset_index(name='count')
+group_counts = group_counts.rename(columns={'boom1_ident8': 'ident8'})
+
+# Directories and file paths
+script_dir = os.path.dirname(os.path.abspath(__file__))
+output_dir = os.path.join(script_dir, 'output')
+filename = 'Overzicht dubbele bomen.xlsx'
+output_file = os.path.join(output_dir, filename)
+
+# Write to Excel without overwriting the whole file
+with pd.ExcelWriter(output_file, engine='openpyxl', mode='a', if_sheet_exists='replace') as writer:
+    group_counts.to_excel(writer, sheet_name=provincie, index=False)
+    print(f"Results written to {output_file}")
+
+# Loop over each group
+for group_name, group_data in grouped:
+    print(f"Group: {group_name}")
+    print(group_data)
+
+    # Perform your custom operations here
+    # For example, counting the records for each group
+    count = group_data['boom1_uuid'].count()
+    print(f"Count for {group_name}: {count}\n")
 
 
-# Instantiate attributes
-gdf['score_number_attributes'] = 0  ## Integer
-gdf['score_fuzzystringmatch'] = 0.0  ## Float
-gdf['score_conflicting_attributes'] = False  ## Boolean
+    # Plot the data
+    # title = f'{group_name} - aantal bomen: {count}'
+    # plot_gdf(group_data, output_dir, group_name, fanout=False, color='green', title=title, figsize=(10, 10), dpi=100)
 
-
-# Outer loop in the dataframe
-for i in range(0, len(gdf), 2):
-    row1 = gdf.iloc[i]
-    row2 = gdf.iloc[i + 1]
-    row1 = row1.fillna(value='')
-    row2 = row2.fillna(value='')
-
-    # Inner loop to calculate scores
-    # Loop to calculate the score. Score indicates the number of attributes that have a value
-    score1 = 0
-    score2 = 0
-    for attr_name in lst_attributen_score:
-        if row1[attr_name] and row1[attr_name] != '':  # Has a value
-            score1 += 1
-        if row2[attr_name] and row2[attr_name] != '':  # Has a value
-            score2 += 1
-    column_index = gdf.columns.get_loc('score_number_attributes')
-    gdf.iloc[i, column_index] = score1
-    gdf.iloc[i + 1, column_index] = score2
-
-    # Loop to calculate the fuzzymatch score. Percentage indicates similarity between values
-    for attr_name in lst_attributen_fuzzystring:
-        value1 = str(row1[attr_name])
-        value2 = str(row2[attr_name])
-        partial_ratio = fuzz.partial_ratio(value1, value2)
-
-    column_index = gdf.columns.get_loc('score_fuzzystringmatch')
-    gdf.iloc[i, column_index] = partial_ratio
-    gdf.iloc[i + 1, column_index] = partial_ratio
-
-    # Loop to calculate tegenstrijdige attributen
-    for attr_name in lst_attributen_tegenstrijdig:
-        value1 = row1[attr_name]
-        value2 = row2[attr_name]
-        # Controle: de waarden zijn tegenstrijdig
-        column_index = gdf.columns.get_loc('score_conflicting_attributes')
-        if value1 != value2:
-            gdf.iloc[i, column_index] = True
-            gdf.iloc[i + 1, column_index] = True
-
-######################################################################
-### Filter data op basis van:
-###     Fuzzystringmatch
-###     tegenstrijdige attributen
-###     absoluut aantal voorkomen van een bepaalde set van attributen
-######################################################################
-# Filter het dataframe.
-# Maak een dataframe voor manuele inspectie: gdf_output_inspectie
-# Selecteer alle records waarbij score_fuzzystringmatch < 0.75 (bepaalde threshold)
-gdf_output_fuzzystringmatch = gdf[gdf['score_fuzzystringmatch'] < 70.0].copy()
-
-# Selecteer alle records waarbij score_conflicting_attributes = True
-gdf_output_conflictingAttributes = gdf[gdf['score_conflicting_attributes'] == True].copy()
-
-# Maak een dataframe voor DAVIE: gdf_output
-min_values = gdf.groupby('id_duplicate_asset')['score_number_attributes'].transform('min')
-# Create a boolean mask for the rows where 'value' is equal to the minimum value in the group
-boolean_mask = gdf['score_number_attributes'] == min_values
-# Optionally, use the boolean mask to filter the DataFrame
-gdf_output = gdf[boolean_mask]
 
 
 ######################################################################
-### Preprocessing gdf alvorens wegschrijven
+### Bereken het aantal unieke waarden per groep. Anders gezegd: zijn alle attributes identiek?
+### Tel het aantal niet-NULL waarden voor een gegeven lijst van attributen
 ######################################################################
-# Behoud sommige attributen
-columns_to_keep = ['@id', '@type', 'AIMDBStatus.isActief', 'geometry', 'PROVINCIE']
+# Convert VegetatieElement.soortnaam JSON-dictionary naar tekst (json.dumps())
+gdf['VegetatieElement.soortnaam.json'] = gdf['VegetatieElement.soortnaam'].apply(json.dumps)
+# Convert Boom.boomspiegel lijst naar tekst (concatenate lijst elementen)
+gdf['Boom.boomspiegel.list'] = gdf['Boom.boomspiegel'].apply(lambda x: str(x))
+
+# Lijst met attribuutnamen
+attributes = [
+      'AIMNaamObject.naam'
+    , 'AIMToestand.toestand'
+    , 'AIMObject.notitie'
+    , 'AIMObject.datumOprichtingObject'
+    , 'AIMDBStatus.isActief'
+    , 'VegetatieElement.soortnaam.json'
+    , 'VegetatieElement.hoogte'
+    , 'Boom.boomspiegel.list'
+    , 'Boom.eindbeeld'
+    , 'Boom.geschatteKlassePlantjaar'
+    , 'Boom.groeifase'
+    , 'Boom.heeftLuchtleiding'
+    , 'Boom.takvrijeStamlengte'
+]
+
+
+
+# outer loop in iedere groep van identieke bomen. Meestal zijn dit groepen van 2, maar dit kan ook 3 of meer dubbels zijn.
+grouped = gdf.groupby('id_duplicate_asset')
+grouped_counts = gdf.groupby('id_duplicate_asset').size().reset_index(name='count')
+print(f'Aantal dubbele elementen: {grouped_counts}')
+
+# Append 2 columns to main geodataframe
+gdf['non_null_count'] = None
+gdf['identical_values'] = None
+
+for group_name, group_data in grouped:
+    # Step 1: Check if all the elements in the selected attributes are identical
+    identical_values = group_data.loc[:,attributes].nunique() == 1
+    all_identical = identical_values.all()  # True if all attributes have identical values, False otherwise
+    print(f"Are all values identical across attributes? {all_identical}")
+
+    # Step 2: Count the number of non-null (non-NaN) values for each row in the selected attributes
+    non_null_count = group_data[attributes].notna().sum(axis=1)
+    group_data['non_null_count'] = non_null_count  # Add this as a new column
+    print(group_data)
+
+    # Step 3: Add a boolean column to indicate if all values in these attributes are identical
+    group_data['identical_values'] = identical_values.all()
+
+    # Step 4: Update main geodataframe before looping to the next group
+    gdf.update(group_data)
+
+
+# Controleer of er een volledig exacte kopie is. Dat betekent: alle attribuutwaarden hetzelfde (identical_values=True) en evenveel attributen ingevuld (non_null_count)
+# Deze is overbodig. Als assets 100% identief zijn, dan maakt het niet uit welke geactiveerd of gedeactiveerd wordt.
+# gdf_identiek = gdf[gdf['identical_values'] == True]
+
+# Indien geen keuze kan gemaakt worden welke asset te deactiveren, sorteer volgens volgende criteria
+print('Sorteer volgens volgende criteria:\n'
+      'id_duplicate_asset:\n\t\t\tper groep van dubbele assets\n'
+      'non_null_count:\n\t\t\taantal kolommen met een waarde\n'
+      'AIMNaamObject.naam:\n\t\t\tnaam van de boom (niet te verwarren met soortnaam)\n'
+      'AIMObject.datumOprichtingObject:\n\t\t\taflopende datum (meest recente eerst)\n'
+      'notitie:\n\t\t\tnotitie. Waardes eerst')
+
+gdf_output = gdf.sort_values(by=['id_duplicate_asset', 'non_null_count', 'AIMNaamObject.naam', 'AIMObject.datumOprichtingObject', 'AIMObject.notitie'], ascending=[True, False, False, False, False])
+
+# Na het sorteren, activeer de eerste asset van de groep en deactiveer de overige assets van dezelfde groep.
+# Create a boolean column that assigns True to the first element of each group
+gdf_output['isActief'] = gdf_output.groupby('id_duplicate_asset').cumcount() == 0
+
+
+# ######################################################################
+# ### Preprocessing gdf alvorens wegschrijven
+# ######################################################################
+# Schrijf deze info opnieuw weg, meteen naar DAVIE-conforme Excel
+# Behoud attributen om de situatie juist te kunnen evalueren
+columns_to_keep = ['@id', '@type', 'isActief', 'geometry', 'AIMObject.notitie', 'AIMToestand.toestand', 'AIMNaamObject.naam'
+    , 'Boom.boomspiegel', 'Boom.eindbeeld', 'Boom.geschatteKlassePlantjaar', 'Boom.groeifase', 'Boom.heeftLuchtleiding'
+    , 'Boom.takvrijeStamlengte', 'VegetatieElement.hoogte', 'VegetatieElement.soortnaam']
 gdf_output = gdf_output.filter(items=columns_to_keep)
-## print(f'Geodataframe to export: {gdf_output}')
-# Set isActief = False
-gdf_output['AIMDBStatus.isActief'] = False
 
 # Rename columns
-gdf_output = gdf_output.rename(columns={'@id': 'assetId.identificator', "@type": 'typeURI', 'AIMDBStatus.isActief': 'isActief'})
+gdf_output = gdf_output.rename(
+    columns=
+    {
+        '@id': 'assetId.identificator'
+        , "@type": 'typeURI'
+        , 'AIMNaamObject.naam': 'naam'
+        , 'AIMObject.notitie': 'notitie'
+        , 'AIMToestand.toestand': 'toestand'
+        , 'Boom.boomspiegel': 'boomspiegel'
+        , 'Boom.eindbeeld': 'eindbeeld'
+        , 'Boom.geschatteKlassePlantjaar': 'geschatteKlassePlantjaar'
+        , 'Boom.groeifase': 'groeifase'
+        , 'Boom.heeftLuchtleiding': 'heeftLuchtleiding'
+        , 'Boom.takvrijeStamlengte': 'takvrijeStamlengte'
+        , 'VegetatieElement.hoogte': 'hoogte'
+        , 'VegetatieElement.soortnaam': 'soortnaam'
+    }
+)
+
 # Keeping only the part after the last forward slash and replacing the original column
 gdf_output['assetId.identificator'] = gdf_output['assetId.identificator'].str.split('/').str[-1]
 # Convert geometries to WKT. Na dit punt wordt de geodataframe een normaal dataframe.
@@ -244,24 +280,24 @@ gdf_output['geometry'] = gdf_output['geometry'].apply(lambda geom: geom.wkt)
 
 
 ######################################################################
-### Splits per provincie
-######################################################################
-gdf_output_WVL = gdf_output[gdf_output['PROVINCIE'] == 'West-Vlaanderen']
-gdf_output_OVL = gdf_output[gdf_output['PROVINCIE'] == 'Oost-Vlaanderen']
-gdf_output_ANT = gdf_output[gdf_output['PROVINCIE'] == 'Antwerpen']
-gdf_output_VLB = gdf_output[gdf_output['PROVINCIE'] == 'Vlaams-Brabant']
-gdf_output_LIM = gdf_output[gdf_output['PROVINCIE'] == 'Limburg']
-
-######################################################################
 ### Converteer gdf naar dictionary
 ######################################################################
+# Om alle attributen weg te schrijven naar een DAVIE-conform bestand, dient nog wat post-processing te gebeuren aan de attributen.
+list_columns = ['boomspiegel']  # columns to replace NaN with an empty list
+dict_key_mapping = \
+    {
+        'DtcVegetatieSoortnaam.soortnaamWetenschappelijk': 'soortnaamWetenschappelijk'
+        , 'DtcVegetatieSoortnaam.soortnaamNederlands': 'soortnaamNederlands'
+        , 'DtcVegetatieSoortnaam.wetenschappelijkeSoortnaam': 'wetenschappelijkeSoortnaam'
+    }  # Mapping of old keys to new keys
+
+# Vervang alle nan-waardes door None
+gdf_output = gdf_output.where(pd.notna(gdf_output), None)
+gdf_output[list_columns] = gdf_output[list_columns].map(lambda x: [None] if pd.isna(x) else x)
+gdf_output['soortnaam'] = [{dict_key_mapping.get(k, k): v for k, v in my_dict.items()} for my_dict in gdf_output['soortnaam']]  # Rename keys using dictionary comprehension
+
 ## Convert gdf to list of OTLAssets
 list_OTLAssets = gdf_to_OTLAssets(gdf_output)
-list_OTLAssets_WVL = gdf_to_OTLAssets(gdf_output_WVL)
-list_OTLAssets_OVL = gdf_to_OTLAssets(gdf_output_OVL)
-list_OTLAssets_ANT = gdf_to_OTLAssets(gdf_output_ANT)
-list_OTLAssets_VLB = gdf_to_OTLAssets(gdf_output_VLB)
-list_OTLAssets_LIM = gdf_to_OTLAssets(gdf_output_LIM)
 
 ######################################################################
 ### Schrijf weg naar DAVIE-file
@@ -269,99 +305,5 @@ list_OTLAssets_LIM = gdf_to_OTLAssets(gdf_output_LIM)
 # Volledige export van alle bomen verwerken en wegschrijven naar JSON/Excel files.
 # GEOJSON formaat is ongeldig DAVIE formaat. Zie: https://github.com/davidvlaminck/OTLMOW-Converter/issues/21
 converter = OtlmowConverter()
-if list_OTLAssets_WVL:
-    converter.create_file_from_assets(filepath=Path('DA-2024-xxxxx_West-Vlaanderen.geojson'), list_of_objects=list_OTLAssets_WVL)
-    converter.create_file_from_assets(filepath=Path('DA-2024-xxxxx_West-Vlaanderen.xlsx'), list_of_objects=list_OTLAssets_WVL)
-
-if list_OTLAssets_OVL:
-    converter.create_file_from_assets(filepath=Path('DA-2024-xxxxx_Oost-Vlaanderen.geojson'), list_of_objects=list_OTLAssets_OVL)
-    converter.create_file_from_assets(filepath=Path('DA-2024-xxxxx_Oost-Vlaanderen.xlsx'), list_of_objects=list_OTLAssets_OVL)
-
-if list_OTLAssets_ANT:
-    converter.create_file_from_assets(filepath=Path('DA-2024-xxxxx_Antwerpen.geojson'), list_of_objects=list_OTLAssets_ANT)
-    converter.create_file_from_assets(filepath=Path('DA-2024-xxxxx_Antwerpen.xlsx'), list_of_objects=list_OTLAssets_ANT)
-
-if list_OTLAssets_VLB:
-    converter.create_file_from_assets(filepath=Path('DA-2024-xxxxx_Vlaams-Brabant.geojson'), list_of_objects=list_OTLAssets_VLB)
-    converter.create_file_from_assets(filepath=Path('DA-2024-xxxxx_Vlaams-Brabant.xlsx'), list_of_objects=list_OTLAssets_VLB)
-
-if list_OTLAssets_LIM:
-    converter.create_file_from_assets(filepath=Path('DA-2024-xxxxx_Limburg.geojson'), list_of_objects=list_OTLAssets_LIM)
-    converter.create_file_from_assets(filepath=Path('DA-2024-xxxxx_Limburg.xlsx'), list_of_objects=list_OTLAssets_LIM)
-
-######################################################################
-### Schrijf weg naar DAVIE-file ter visuele inspectie van de resultaten
-######################################################################
-gdf_inspection = gdf.copy()
-# Maak een dataframe voor DAVIE: gdf_output
-min_values = gdf_inspection.groupby('id_duplicate_asset')['score_number_attributes'].transform('min')
-# Create a boolean mask for the rows where 'value' is equal to the minimum value in the group
-# Use the boolean mask to set the attribute 'AIMDBStatus.isActief'
-gdf_inspection.loc[gdf['score_number_attributes'] == min_values, 'AIMDBStatus.isActief'] = False
-
-# Preprocessing alvorens weg te schrijven
-# Behoud sommige attributen
-columns_to_keep = [
-    '@type'
-    , '@id'
-    , 'AIMObject.notitie'
-    , 'AIMObject.datumOprichtingObject'
-    , 'AIMDBStatus.isActief'
-    , 'AIMNaamObject.naam'
-    , 'VegetatieElement.soortnaam'
-    , 'Boom.boomspiegel'
-    , 'VegetatieElement.hoogte'
-    , 'AIMToestand.toestand'
-    , 'AIMObject.typeURI'
-    , 'Boom.heeftLuchtleiding'
-    , 'AIMObject.assetId'
-    , 'Boom.eindbeeld'
-    , 'PROVINCIE'
-    , 'geometry'
-    , 'id_duplicate_asset'
-    , 'score_number_attributes'
-    , 'score_fuzzystringmatch'
-    , 'score_conflicting_attributes'
-]
-gdf_inspection = gdf_inspection.filter(items=columns_to_keep)
-## print(f'Geodataframe to export: {gdf_output}')
-
-# Rename columns
-gdf_inspection = gdf_inspection.rename(
-    columns={
-        '@id': 'assetId.identificator'
-        , "@type": 'typeURI'
-        , 'AIMDBStatus.isActief': 'isActief'
-        , 'AIMObject.notitie': 'notitie'
-        , 'AIMObject.datumOprichtingObject': 'datumOprichtingObject'
-        , 'AIMNaamObject.naam': 'naam'
-        , 'VegetatieElement.soortnaam': 'soortnaam'
-        , 'Boom.boomspiegel': 'boomspiegel'
-        , 'VegetatieElement.hoogte': 'hoogte'
-        , 'AIMToestand.toestand': 'toestand'
-        , 'Boom.heeftLuchtleiding': 'heeftLuchtleiding'
-        , 'Boom.eindbeeld': 'eindbeeld'
-    })
-# Keeping only the part after the last forward slash and replacing the original column
-gdf_inspection['assetId.identificator'] = gdf_inspection['assetId.identificator'].str.split('/').str[-1]
-
-# Convert geometries to WKT. Na dit punt wordt de geodataframe een normaal dataframe.
-gdf_inspection['geometry'] = gdf_inspection['geometry'].apply(lambda geom: geom.wkt)
-
-# Write to Excel
-gdf_inspection.to_excel('DA-2024-xxxxx_Boom_dubbels_niet_davie_conform.xlsx', index=False, engine='openpyxl')
-
-# Om alle attributen weg te schrijven naar een DAVIE-conform bestand, dient nog wat post-processing te gebeuren aan de attributen.
-# Columns to replace NaN with an empty string
-#string_columns = ['eindbeeld']
-# Columns to replace NaN with an empty list
-#list_columns = ['boomspiegel']
-# Replace NaN values with an empty string in specific columns
-#gdf_inspection[string_columns] = gdf_inspection[string_columns].fillna('')
-# Replace NaN values with an empty list in specific columns
-#gdf_inspection[list_columns] = gdf_inspection[list_columns].map(lambda x: [] if pd.isna(x) else x)
-
-## Convert gdf to list of OTLAssets
-#list_OTLAssets = gdf_to_OTLAssets(gdf_inspection)
-
-#converter.create_file_from_assets(filepath=Path('DA-2024-xxxxx_Boom-dubbels.xlsx'), list_of_objects=list_OTLAssets)
+converter.create_file_from_assets(filepath=Path('./output/DA-2024-xxxxx.geojson'), list_of_objects=list_OTLAssets)
+converter.create_file_from_assets(filepath=Path('./output/DA-2024-xxxxx.xlsx'), list_of_objects=list_OTLAssets)
