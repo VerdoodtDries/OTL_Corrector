@@ -1,0 +1,425 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "0e57d791-e0d5-4773-9b2a-f16ca213f161-b25kZXJkZWVsI1ZvZWRpbmdza2FiZWw",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voedingskabel",
+                "assetId.identificator": "0e57d791-e0d5-4773-9b2a-f16ca213f161-b25kZXJkZWVsI1ZvZWRpbmdza2FiZWw",
+                "isActief": "true"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    207779.249,
+                    192088.264,
+                    0.0,
+                    207789.624,
+                    192108.731,
+                    32.268
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        207789.624,
+                        192088.603,
+                        32.255
+                    ],
+                    [
+                        207789.512,
+                        192088.602,
+                        32.256
+                    ],
+                    [
+                        207788.849,
+                        192088.264,
+                        32.268
+                    ],
+                    [
+                        207787.766,
+                        192089.182,
+                        32.159
+                    ],
+                    [
+                        207786.594,
+                        192091.817,
+                        32.132
+                    ],
+                    [
+                        207783.878,
+                        192095.514,
+                        0.099
+                    ],
+                    [
+                        207783.829,
+                        192095.496,
+                        0.0
+                    ],
+                    [
+                        207779.249,
+                        192100.95,
+                        0.0
+                    ],
+                    [
+                        207784.929,
+                        192105.801,
+                        0.0
+                    ],
+                    [
+                        207788.087,
+                        192108.498,
+                        0.0
+                    ],
+                    [
+                        207787.897,
+                        192108.731,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "39c1e25e-3114-43fa-b86e-0d46030bd615-b25kZXJkZWVsI1ZvZWRpbmdza2FiZWw",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voedingskabel",
+                "assetId.identificator": "39c1e25e-3114-43fa-b86e-0d46030bd615-b25kZXJkZWVsI1ZvZWRpbmdza2FiZWw",
+                "isActief": "true"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    207779.25,
+                    192088.265,
+                    0.0,
+                    207791.009,
+                    192111.226,
+                    32.268
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        207789.625,
+                        192088.604,
+                        32.255
+                    ],
+                    [
+                        207789.513,
+                        192088.603,
+                        32.256
+                    ],
+                    [
+                        207788.85,
+                        192088.265,
+                        32.268
+                    ],
+                    [
+                        207787.767,
+                        192089.183,
+                        32.159
+                    ],
+                    [
+                        207786.595,
+                        192091.818,
+                        32.132
+                    ],
+                    [
+                        207783.879,
+                        192095.515,
+                        0.099
+                    ],
+                    [
+                        207783.83,
+                        192095.497,
+                        0.0
+                    ],
+                    [
+                        207779.25,
+                        192100.951,
+                        0.0
+                    ],
+                    [
+                        207784.93,
+                        192105.802,
+                        0.0
+                    ],
+                    [
+                        207788.088,
+                        192108.499,
+                        0.0
+                    ],
+                    [
+                        207791.009,
+                        192110.995,
+                        0.0
+                    ],
+                    [
+                        207790.819,
+                        192111.226,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "a8f84e2f-a245-4eca-a4f9-50772332aca2-b25kZXJkZWVsI1ZvZWRpbmdza2FiZWw",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voedingskabel",
+                "assetId.identificator": "a8f84e2f-a245-4eca-a4f9-50772332aca2-b25kZXJkZWVsI1ZvZWRpbmdza2FiZWw",
+                "isActief": "true"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    207779.25,
+                    192088.265,
+                    0.0,
+                    207789.625,
+                    192106.032,
+                    32.268
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        207789.625,
+                        192088.604,
+                        32.255
+                    ],
+                    [
+                        207789.513,
+                        192088.603,
+                        32.256
+                    ],
+                    [
+                        207788.85,
+                        192088.265,
+                        32.268
+                    ],
+                    [
+                        207787.767,
+                        192089.183,
+                        32.159
+                    ],
+                    [
+                        207786.595,
+                        192091.818,
+                        32.132
+                    ],
+                    [
+                        207783.879,
+                        192095.515,
+                        0.099
+                    ],
+                    [
+                        207783.83,
+                        192095.497,
+                        0.0
+                    ],
+                    [
+                        207779.25,
+                        192100.951,
+                        0.0
+                    ],
+                    [
+                        207784.93,
+                        192105.802,
+                        0.0
+                    ],
+                    [
+                        207784.738,
+                        192106.032,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "b32ff0ef-ecf6-46cf-bdc0-73985606cd67-b25kZXJkZWVsI1ZvZWRpbmdza2FiZWw",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voedingskabel",
+                "assetId.identificator": "b32ff0ef-ecf6-46cf-bdc0-73985606cd67-b25kZXJkZWVsI1ZvZWRpbmdza2FiZWw",
+                "isActief": "true"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    207779.25,
+                    192088.265,
+                    0.0,
+                    207793.692,
+                    192113.285,
+                    32.268
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        207789.625,
+                        192088.605,
+                        32.255
+                    ],
+                    [
+                        207789.513,
+                        192088.604,
+                        32.256
+                    ],
+                    [
+                        207788.85,
+                        192088.265,
+                        32.268
+                    ],
+                    [
+                        207787.767,
+                        192089.183,
+                        32.159
+                    ],
+                    [
+                        207786.595,
+                        192091.818,
+                        32.132
+                    ],
+                    [
+                        207783.879,
+                        192095.515,
+                        0.099
+                    ],
+                    [
+                        207783.83,
+                        192095.497,
+                        0.0
+                    ],
+                    [
+                        207779.25,
+                        192100.951,
+                        0.0
+                    ],
+                    [
+                        207784.93,
+                        192105.802,
+                        0.0
+                    ],
+                    [
+                        207788.088,
+                        192108.499,
+                        0.0
+                    ],
+                    [
+                        207791.009,
+                        192110.995,
+                        0.0
+                    ],
+                    [
+                        207793.692,
+                        192113.285,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "c7b93a27-0009-4fd1-ac87-cf6755f148d9-b25kZXJkZWVsI1ZvZWRpbmdza2FiZWw",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voedingskabel",
+                "assetId.identificator": "c7b93a27-0009-4fd1-ac87-cf6755f148d9-b25kZXJkZWVsI1ZvZWRpbmdza2FiZWw",
+                "isActief": "true"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    207779.25,
+                    192088.265,
+                    0.0,
+                    207789.625,
+                    192107.177,
+                    32.268
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        207789.625,
+                        192088.604,
+                        32.255
+                    ],
+                    [
+                        207789.513,
+                        192088.603,
+                        32.256
+                    ],
+                    [
+                        207788.85,
+                        192088.265,
+                        32.268
+                    ],
+                    [
+                        207787.767,
+                        192089.183,
+                        32.159
+                    ],
+                    [
+                        207786.595,
+                        192091.818,
+                        32.132
+                    ],
+                    [
+                        207783.879,
+                        192095.515,
+                        0.099
+                    ],
+                    [
+                        207783.83,
+                        192095.497,
+                        0.0
+                    ],
+                    [
+                        207779.25,
+                        192100.951,
+                        0.0
+                    ],
+                    [
+                        207784.93,
+                        192105.802,
+                        0.0
+                    ],
+                    [
+                        207786.272,
+                        192106.95,
+                        0.0
+                    ],
+                    [
+                        207786.078,
+                        192107.177,
+                        0.0
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        }
+    ]
+}

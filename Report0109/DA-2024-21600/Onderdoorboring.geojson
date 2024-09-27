@@ -1,0 +1,43 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "9f2ac3d5-238c-42f8-9518-89ce56b9d37a-b25kZXJkZWVsI09uZGVyZG9vcmJvcmluZw",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Onderdoorboring",
+                "assetId.identificator": "9f2ac3d5-238c-42f8-9518-89ce56b9d37a-b25kZXJkZWVsI09uZGVyZG9vcmJvcmluZw",
+                "isActief": "true"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    143133.369,
+                    157114.781,
+                    91.33,
+                    143133.369,
+                    157114.781,
+                    91.33
+                ],
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        143133.369,
+                        157114.781,
+                        91.33
+                    ],
+                    [
+                        143133.369,
+                        157114.781,
+                        91.33
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        }
+    ]
+}

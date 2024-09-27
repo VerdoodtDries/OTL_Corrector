@@ -1,0 +1,335 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "8ca866d4-2085-4881-9079-3f5c841f3001-b25kZXJkZWVsI0FhbnZ1bGxlbmRlR2VvbWV0cmll",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#AanvullendeGeometrie",
+                "assetId.identificator": "8ca866d4-2085-4881-9079-3f5c841f3001-b25kZXJkZWVsI0FhbnZ1bGxlbmRlR2VvbWV0cmll",
+                "isActief": "true"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    187993.446,
+                    225055.458,
+                    0.0,
+                    188234.404,
+                    225244.51,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            188041.156,
+                            225244.51,
+                            0.0
+                        ],
+                        [
+                            188234.404,
+                            225127.724,
+                            0.0
+                        ],
+                        [
+                            188072.264,
+                            225055.458,
+                            0.0
+                        ],
+                        [
+                            187993.446,
+                            225098.896,
+                            0.0
+                        ],
+                        [
+                            188041.156,
+                            225244.51,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "a9e64a86-0962-4028-a065-90861d3a6a5f-b25kZXJkZWVsI0FhbnZ1bGxlbmRlR2VvbWV0cmll",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#AanvullendeGeometrie",
+                "assetId.identificator": "a9e64a86-0962-4028-a065-90861d3a6a5f-b25kZXJkZWVsI0FhbnZ1bGxlbmRlR2VvbWV0cmll",
+                "isActief": "true"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    162343.83,
+                    199563.611,
+                    0.0,
+                    163130.847,
+                    200123.33,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            162996.192,
+                            200123.33,
+                            0.0
+                        ],
+                        [
+                            163130.847,
+                            199918.5,
+                            0.0
+                        ],
+                        [
+                            162385.83,
+                            199563.611,
+                            0.0
+                        ],
+                        [
+                            162343.83,
+                            199653.569,
+                            0.0
+                        ],
+                        [
+                            162996.192,
+                            200123.33,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "ae59c538-c1ab-4d55-a3eb-c7bf5ec25d0a-b25kZXJkZWVsI0FhbnZ1bGxlbmRlR2VvbWV0cmll",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#AanvullendeGeometrie",
+                "assetId.identificator": "ae59c538-c1ab-4d55-a3eb-c7bf5ec25d0a-b25kZXJkZWVsI0FhbnZ1bGxlbmRlR2VvbWV0cmll",
+                "isActief": "true"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    194111.987,
+                    202455.243,
+                    0.0,
+                    195319.997,
+                    204194.522,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            194111.987,
+                            204098.856,
+                            0.0
+                        ],
+                        [
+                            194953.653,
+                            204194.522,
+                            0.0
+                        ],
+                        [
+                            195319.997,
+                            202455.243,
+                            0.0
+                        ],
+                        [
+                            194650.318,
+                            202460.469,
+                            0.0
+                        ],
+                        [
+                            194111.987,
+                            204098.856,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "bc9fa5b3-d278-4105-ae4f-1f15f895d897-b25kZXJkZWVsI0FhbnZ1bGxlbmRlR2VvbWV0cmll",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#AanvullendeGeometrie",
+                "assetId.identificator": "bc9fa5b3-d278-4105-ae4f-1f15f895d897-b25kZXJkZWVsI0FhbnZ1bGxlbmRlR2VvbWV0cmll",
+                "isActief": "true"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    235833.397,
+                    168002.857,
+                    0.0,
+                    236248.114,
+                    168788.009,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            236174.991,
+                            168002.857,
+                            0.0
+                        ],
+                        [
+                            235833.397,
+                            168754.79,
+                            0.0
+                        ],
+                        [
+                            235906.52,
+                            168788.009,
+                            0.0
+                        ],
+                        [
+                            236248.114,
+                            168036.076,
+                            0.0
+                        ],
+                        [
+                            236174.991,
+                            168002.857,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "d0f2aa35-40ce-4478-9c69-8073050d696c-b25kZXJkZWVsI0FhbnZ1bGxlbmRlR2VvbWV0cmll",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#AanvullendeGeometrie",
+                "assetId.identificator": "d0f2aa35-40ce-4478-9c69-8073050d696c-b25kZXJkZWVsI0FhbnZ1bGxlbmRlR2VvbWV0cmll",
+                "isActief": "true"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    157008.725,
+                    229162.912,
+                    0.0,
+                    157516.396,
+                    229943.202,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            157262.42,
+                            229943.202,
+                            0.0
+                        ],
+                        [
+                            157516.396,
+                            229943.202,
+                            0.0
+                        ],
+                        [
+                            157286.215,
+                            229162.912,
+                            0.0
+                        ],
+                        [
+                            157008.725,
+                            229162.912,
+                            0.0
+                        ],
+                        [
+                            157262.42,
+                            229943.202,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "feccd302-9dcf-4df2-9904-b7831338ed92-b25kZXJkZWVsI0FhbnZ1bGxlbmRlR2VvbWV0cmll",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#AanvullendeGeometrie",
+                "assetId.identificator": "feccd302-9dcf-4df2-9904-b7831338ed92-b25kZXJkZWVsI0FhbnZ1bGxlbmRlR2VvbWV0cmll",
+                "isActief": "true"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    149465.282,
+                    192316.426,
+                    0.0,
+                    151539.974,
+                    192629.975,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            151539.974,
+                            192521.451,
+                            0.0
+                        ],
+                        [
+                            151495.136,
+                            192316.426,
+                            0.0
+                        ],
+                        [
+                            149465.282,
+                            192440.337,
+                            0.0
+                        ],
+                        [
+                            149480.097,
+                            192629.975,
+                            0.0
+                        ],
+                        [
+                            151539.974,
+                            192521.451,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        }
+    ]
+}

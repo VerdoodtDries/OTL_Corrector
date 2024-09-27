@@ -1,0 +1,555 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "053db5e7-c5cd-4dbf-be58-5b82d52ab8e7-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Slagboom",
+                "assetId.identificator": "053db5e7-c5cd-4dbf-be58-5b82d52ab8e7-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+                "notitie": "Oorspronkelijke punten omgevormd naar Polygoon, zoals beschreven in het GA"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    61515.951106,
+                    209445.676511,
+                    0.0,
+                    61517.283894,
+                    209454.571489,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            61516.786106,
+                            209454.571489,
+                            0.0
+                        ],
+                        [
+                            61517.283894,
+                            209454.524511,
+                            0.0
+                        ],
+                        [
+                            61516.448894,
+                            209445.676511,
+                            0.0
+                        ],
+                        [
+                            61515.951106,
+                            209445.723489,
+                            0.0
+                        ],
+                        [
+                            61516.786106,
+                            209454.571489,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "0f7934e2-6200-48bb-a484-bac2b764e0f2-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Slagboom",
+                "assetId.identificator": "0f7934e2-6200-48bb-a484-bac2b764e0f2-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+                "notitie": "Oorspronkelijke punten omgevormd naar Polygoon, zoals beschreven in het GA"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    98717.070008,
+                    191909.802002,
+                    0.0,
+                    98721.749992,
+                    191919.901998,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            98721.290008,
+                            191919.901998,
+                            0.0
+                        ],
+                        [
+                            98721.749992,
+                            191919.706002,
+                            0.0
+                        ],
+                        [
+                            98717.529992,
+                            191909.802002,
+                            0.0
+                        ],
+                        [
+                            98717.070008,
+                            191909.997998,
+                            0.0
+                        ],
+                        [
+                            98721.290008,
+                            191919.901998,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "3b043f3e-dea4-44db-bf42-1608402fe0c4-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Slagboom",
+                "assetId.identificator": "3b043f3e-dea4-44db-bf42-1608402fe0c4-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+                "notitie": "Oorspronkelijke punten omgevormd naar Polygoon, zoals beschreven in het GA"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    61716.051151,
+                    209331.176042,
+                    0.0,
+                    61717.354849,
+                    209339.595958,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            61716.857151,
+                            209339.595958,
+                            0.0
+                        ],
+                        [
+                            61717.354849,
+                            209339.548042,
+                            0.0
+                        ],
+                        [
+                            61716.548849,
+                            209331.176042,
+                            0.0
+                        ],
+                        [
+                            61716.051151,
+                            209331.223958,
+                            0.0
+                        ],
+                        [
+                            61716.857151,
+                            209339.595958,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "62c7cdd6-0619-4d25-a638-0f9e17c67f02-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Slagboom",
+                "assetId.identificator": "62c7cdd6-0619-4d25-a638-0f9e17c67f02-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+                "notitie": "Oorspronkelijke punten omgevormd naar Polygoon, zoals beschreven in het GA"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    61703.628532,
+                    209371.986069,
+                    0.0,
+                    61712.387468,
+                    209380.281931,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            61712.387468,
+                            209372.349931,
+                            0.0
+                        ],
+                        [
+                            61712.044532,
+                            209371.986069,
+                            0.0
+                        ],
+                        [
+                            61703.628532,
+                            209379.918069,
+                            0.0
+                        ],
+                        [
+                            61703.971468,
+                            209380.281931,
+                            0.0
+                        ],
+                        [
+                            61712.387468,
+                            209372.349931,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "75640b15-b14e-48e6-8826-87d11f1cd366-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Slagboom",
+                "assetId.identificator": "75640b15-b14e-48e6-8826-87d11f1cd366-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+                "notitie": "Oorspronkelijke punten omgevormd naar Polygoon, zoals beschreven in het GA"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    98742.893956,
+                    191951.973605,
+                    0.0,
+                    98750.749044,
+                    191956.006395,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            98750.536956,
+                            191956.006395,
+                            0.0
+                        ],
+                        [
+                            98750.749044,
+                            191955.553605,
+                            0.0
+                        ],
+                        [
+                            98743.106044,
+                            191951.973605,
+                            0.0
+                        ],
+                        [
+                            98742.893956,
+                            191952.426395,
+                            0.0
+                        ],
+                        [
+                            98750.536956,
+                            191956.006395,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "8a1f4ab5-0042-404a-8a6b-2c57eeab7c61-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Slagboom",
+                "assetId.identificator": "8a1f4ab5-0042-404a-8a6b-2c57eeab7c61-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+                "notitie": "Oorspronkelijke punten omgevormd naar Polygoon, zoals beschreven in het GA"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    61719.576829,
+                    209356.407026,
+                    0.0,
+                    61723.396171,
+                    209361.054974,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            61719.969171,
+                            209356.407026,
+                            0.0
+                        ],
+                        [
+                            61719.576829,
+                            209356.716974,
+                            0.0
+                        ],
+                        [
+                            61723.003829,
+                            209361.054974,
+                            0.0
+                        ],
+                        [
+                            61723.396171,
+                            209360.745026,
+                            0.0
+                        ],
+                        [
+                            61719.969171,
+                            209356.407026,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "b2fb5551-c4ed-4351-85bc-bb8e8c330790-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Slagboom",
+                "assetId.identificator": "b2fb5551-c4ed-4351-85bc-bb8e8c330790-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+                "notitie": "Oorspronkelijke punten omgevormd naar Polygoon, zoals beschreven in het GA"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    61712.921231,
+                    209364.530504,
+                    0.0,
+                    61719.083769,
+                    209371.152496,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            61712.921231,
+                            209370.813504,
+                            0.0
+                        ],
+                        [
+                            61713.288769,
+                            209371.152496,
+                            0.0
+                        ],
+                        [
+                            61719.083769,
+                            209364.869496,
+                            0.0
+                        ],
+                        [
+                            61718.716231,
+                            209364.530504,
+                            0.0
+                        ],
+                        [
+                            61712.921231,
+                            209370.813504,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "c7b82659-871c-4a76-945c-dd3b8c820a7c-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Slagboom",
+                "assetId.identificator": "c7b82659-871c-4a76-945c-dd3b8c820a7c-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+                "notitie": "Oorspronkelijke punten omgevormd naar Polygoon, zoals beschreven in het GA"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    65448.046768,
+                    162431.994493,
+                    0.0,
+                    65452.163232,
+                    162438.284507,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            65448.473232,
+                            162431.994493,
+                            0.0
+                        ],
+                        [
+                            65448.046768,
+                            162432.255507,
+                            0.0
+                        ],
+                        [
+                            65451.736768,
+                            162438.284507,
+                            0.0
+                        ],
+                        [
+                            65452.163232,
+                            162438.023493,
+                            0.0
+                        ],
+                        [
+                            65448.473232,
+                            162431.994493,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "e4800bd0-5938-468e-95d4-63eb6d13924d-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Slagboom",
+                "assetId.identificator": "e4800bd0-5938-468e-95d4-63eb6d13924d-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+                "notitie": "Oorspronkelijke punten omgevormd naar Polygoon, zoals beschreven in het GA"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    61714.218212,
+                    209350.528381,
+                    0.0,
+                    61719.509788,
+                    209356.091619,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            61719.146212,
+                            209356.091619,
+                            0.0
+                        ],
+                        [
+                            61719.509788,
+                            209355.748381,
+                            0.0
+                        ],
+                        [
+                            61714.581788,
+                            209350.528381,
+                            0.0
+                        ],
+                        [
+                            61714.218212,
+                            209350.871619,
+                            0.0
+                        ],
+                        [
+                            61719.146212,
+                            209356.091619,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        },
+        {
+            "id": "fee81d43-ea0e-4d4b-a9d0-3938fd70b7f3-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+            "properties": {
+                "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Slagboom",
+                "assetId.identificator": "fee81d43-ea0e-4d4b-a9d0-3938fd70b7f3-aW5zdGFsbGF0aWUjU2xhZ2Jvb20",
+                "notitie": "Oorspronkelijke punten omgevormd naar Polygoon, zoals beschreven in het GA"
+            },
+            "type": "Feature",
+            "geometry": {
+                "bbox": [
+                    65684.814964,
+                    162210.503253,
+                    0.0,
+                    65691.106036,
+                    162214.287747,
+                    0.0
+                ],
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            65685.057036,
+                            162210.503253,
+                            0.0
+                        ],
+                        [
+                            65684.814964,
+                            162210.940747,
+                            0.0
+                        ],
+                        [
+                            65690.863964,
+                            162214.287747,
+                            0.0
+                        ],
+                        [
+                            65691.106036,
+                            162213.850253,
+                            0.0
+                        ],
+                        [
+                            65685.057036,
+                            162210.503253,
+                            0.0
+                        ]
+                    ]
+                ],
+                "crs": {
+                    "properties": {
+                        "name": "EPSG:31370"
+                    },
+                    "type": "name"
+                }
+            }
+        }
+    ]
+}

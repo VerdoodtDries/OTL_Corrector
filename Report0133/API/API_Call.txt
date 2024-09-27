@@ -1,0 +1,10 @@
+https://apps.mow.vlaanderen.be/eminfra/core/swagger-ui/#/assets/search_31
+
+Request URL:
+https://apps.mow.vlaanderen.be/eminfra/core/api/assets/search
+Request method:
+POST
+
+Payload:
+{"size":10,"from":0,"selection":{"expressions":[{"terms":[{"property":"actief","value":true,"operator":0,"logicalOp":null,"negate":false},{"property":"weglocatieIdent2","value":"N47","operator":0,"logicalOp":"AND","negate":false},{"property":"type","value":"cd77f043-dc69-46ae-98a1-da8443ca26bf","operator":0,"logicalOp":"AND","negate":false},{"property":"weglocatieKilometerpunt","value":5,"operator":2,"logicalOp":"AND","negate":false},{"property":"weglocatieKilometerpunt","value":10,"operator":4,"logicalOp":"AND","negate":false}],"logicalOp":null}],"settings":{"beperkMetRelevanteKenmerken":"true"}},"expansions":{"fields":["parent"]},"pagingMode":"CURSOR","fromCursor":null}
+
