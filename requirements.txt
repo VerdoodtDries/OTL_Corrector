@@ -28,5 +28,5 @@ tzlocal
 urllib3==1.26.9
 
 otlmow_converter~=0.17
-otlmow_model~=2.10.4.0
+otlmow_model~=2.12.3.0
 shapely~=2.0.4
