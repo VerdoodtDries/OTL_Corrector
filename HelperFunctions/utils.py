@@ -70,14 +70,16 @@ def split_list(input_list, max_elements=100):
     return [input_list[i:i + max_elements] for i in range(0, len(input_list), max_elements)]
 
 
-def plot_gdf(gdf, filename, fanout=False, color='red', figsize=(10, 10), dpi=100):
+def plot_gdf(gdf, output_folder, filename, fanout=False, color='red', title='title', figsize=(10, 10), dpi=100):
     """
     Plot each individual record of a GeoDataFrame and save as PNG images.
 
     :param gdf: Geodataframe. If crs is missing, coordinates are projected to Belgian Lambert72 (EPSG:31370).
+    :param output_folder: root output folder
     :param filename: Output filename
     :param fanout: create a map for each geopandas record
     :param color: color of the marker
+    :param title: title of the figure
     :param figsize: figure size tuple (width, height)
     :param dpi: Dots per square inch
     :return:
@@ -89,13 +91,17 @@ def plot_gdf(gdf, filename, fanout=False, color='red', figsize=(10, 10), dpi=100
     # Convert to Web Mercator (EPSG:3857) for compatibility with contextily
     gdf_web_mercator = gdf.to_crs(crs="EPSG:3857")
 
-    output_dir = 'plots'
-    os.makedirs(output_dir, exist_ok=True)
+    # append subfolder plots to output_folder
+    output_folder = os.path.join(output_folder, 'plots')
+    os.makedirs(output_folder, exist_ok=True)
 
     # Helper function is only available inside the context of the actual function
-    def plot_record(record, output_path):
+    def plot_record(record, output_path, title):
         fig, ax = plt.subplots(figsize=figsize)
         record.plot(ax=ax, color=color, legend=True)
+
+        # Set the title for the plot
+        ax.set_title(title, fontsize=16)
 
         # Disable scientific notation and use plain style
         formatter = ScalarFormatter(useOffset=False, useMathText=True)
@@ -118,9 +124,9 @@ def plot_gdf(gdf, filename, fanout=False, color='red', figsize=(10, 10), dpi=100
     if fanout:
         # Create a map for each individual record
         for index, row in gdf_web_mercator.iterrows():
-            output_path = os.path.join(output_dir, f"{filename}_{index}.png")
-            plot_record(gdf_web_mercator.loc[[index]], output_path)
+            output_path = os.path.join(output_folder, f"{filename}_{index}.png")
+            plot_record(gdf_web_mercator.loc[[index]], output_path, title)
     else:
         # Plot all records on one map
-        output_path = os.path.join(output_dir, f"{filename}.png")
-        plot_record(gdf_web_mercator, output_path)
+        output_path = os.path.join(output_folder, f"{filename}.png")
+        plot_record(gdf_web_mercator, output_path, title)
