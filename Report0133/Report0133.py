@@ -37,9 +37,20 @@ boom = dynamic_create_instance_from_uri(boom_type_uri)
 ######################################################################
 ### Define variables
 ######################################################################
-provincie = 'Oost-Vlaanderen'
+filterData = True
+provincie = 'West-Vlaanderen'
 
+# Directories and file paths
 script_dir = os.path.dirname(os.path.abspath(__file__))
+output_dir = os.path.join(script_dir, 'output')
+output_dir_provincie = os.path.join(output_dir, provincie)
+
+if not os.path.exists(output_dir):
+    os.makedirs(output_dir)
+
+if not os.path.exists(output_dir_provincie):
+    os.makedirs(output_dir_provincie)
+
 filename = f'[RSA] Dubbele bomen ({provincie}).xlsx'
 filepath = os.path.join(script_dir, 'input', filename)
 feature_type = 'Resultaat'  # This is the layer name or the Excel sheet name
@@ -81,6 +92,16 @@ try:
 except FileNotFoundError as e:
     raise FileNotFoundError(f"The file {filepath} does not exist.") from e
 
+# TEMP: bekijk hier de aantallen en bepaal zo welk wegsegment te filteren
+group_counts = df_input.groupby('boom1_ident8').size().reset_index(name='count')
+group_counts.sort_values(by="count", ascending=False, inplace=True)
+print(f'Het aantal dubbele bomen per wegsegment is als volgt:\n{group_counts}')
+
+# Install a filter on the dataframe
+if filterData:
+    # df_input = df_input[df_input["boom1_ident2"] == 'T300']  # Damse vaart
+    df_input = df_input[df_input["boom1_ident2"] == 'N364']  # Alveringem -> Diksmuide
+
 # Launch the API request to obtain data
 asset_uuids = df_input['boom1_uuid'].tolist()
 asset_uuids = [i[:36] for i in
@@ -96,6 +117,9 @@ asset_uuids = list(set(asset_uuids))
 ### Launch the API request to obtain data
 ######################################################################
 asset_uuids_bin100 = split_list(asset_uuids)
+## TEMP FILTER
+##asset_uuids_bin100 = asset_uuids_bin100[0:5]  # De eerste 5 lijst items, oftewel de eerste 500 assets.
+
 asset_dicts_dict = {}  # Instantiate an empty dictionary to fill later on
 for bin_asset_uuids in asset_uuids_bin100:
     # Bewaar de resultaten per match
@@ -141,9 +165,6 @@ grouped = gdf.groupby('boom1_ident8')
 group_counts = gdf.groupby('boom1_ident8').size().reset_index(name='count')
 group_counts = group_counts.rename(columns={'boom1_ident8': 'ident8'})
 
-# Directories and file paths
-script_dir = os.path.dirname(os.path.abspath(__file__))
-output_dir = os.path.join(script_dir, 'output')
 filename = 'Overzicht dubbele bomen.xlsx'
 output_file = os.path.join(output_dir, filename)
 
@@ -164,8 +185,8 @@ for group_name, group_data in grouped:
 
 
     # Plot the data
-    # title = f'{group_name} - aantal bomen: {count}'
-    # plot_gdf(group_data, output_dir, group_name, fanout=False, color='green', title=title, figsize=(10, 10), dpi=100)
+    title = f'{group_name} - aantal bomen: {count}'
+    plot_gdf(group_data, output_dir_provincie, group_name, fanout=False, color='green', title=title, figsize=(10, 10), dpi=100)
 
 
 
@@ -194,7 +215,6 @@ attributes = [
     , 'Boom.heeftLuchtleiding'
     , 'Boom.takvrijeStamlengte'
 ]
-
 
 
 # outer loop in iedere groep van identieke bomen. Meestal zijn dit groepen van 2, maar dit kan ook 3 of meer dubbels zijn.
@@ -305,5 +325,5 @@ list_OTLAssets = gdf_to_OTLAssets(gdf_output)
 # Volledige export van alle bomen verwerken en wegschrijven naar JSON/Excel files.
 # GEOJSON formaat is ongeldig DAVIE formaat. Zie: https://github.com/davidvlaminck/OTLMOW-Converter/issues/21
 converter = OtlmowConverter()
-converter.create_file_from_assets(filepath=Path('./output/DA-2024-xxxxx.geojson'), list_of_objects=list_OTLAssets)
-converter.create_file_from_assets(filepath=Path('./output/DA-2024-xxxxx.xlsx'), list_of_objects=list_OTLAssets)
+converter.create_file_from_assets(filepath=Path(os.path.join(output_dir_provincie, 'DA-2024-xxxxx.geojson')), list_of_objects=list_OTLAssets)
+converter.create_file_from_assets(filepath=Path(os.path.join(output_dir_provincie, 'DA-2024-xxxxx.xlsx')), list_of_objects=list_OTLAssets)

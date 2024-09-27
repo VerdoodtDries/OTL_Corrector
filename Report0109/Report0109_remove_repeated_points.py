@@ -38,7 +38,7 @@ if __name__ == '__main__':
 
 
 # Read the Excel file in a dataframe
-excel_path = r"C:\Users\DriesVerdoodtNordend\Downloads\[RSA] Geometrie is geldig_ geen opeenvolgende punten_20240813.xlsx"
+excel_path = r"C:\Users\DriesVerdoodtNordend\Downloads\[RSA] Geometrie is geldig_ geen opeenvolgende punten_20240814.xlsx"
 df_report0109 = pd.read_excel(excel_path, sheet_name='Resultaat', header=2)
 #print(df_report0109)
 
@@ -134,11 +134,11 @@ for item in list_OTLAssets:
 # Instantiate the converter
 converter = OtlmowConverter()
 
-os.makedirs('DA-2024-21600', exist_ok=True)
+os.makedirs('DA-2024-21766', exist_ok=True)
 # Export each type group to a separate file
 for type_name, items in type_groups.items():
     # Generate a unique file name for each type
-    filepath = Path(f'DA-2024-21600/{type_name}.geojson')
+    filepath = Path(f'DA-2024-21766/{type_name}.geojson')
 
     # Export to file
     converter.create_file_from_assets(filepath=filepath, list_of_objects=items)

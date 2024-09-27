@@ -34,7 +34,7 @@ import os
 ######################################################################
 ### Define variables
 ######################################################################
-filename = r"C:\Users\DriesVerdoodtNordend\Downloads\[RSA] Geometrie is consistent met GeometrieArtefact_20240801.xlsx"
+filename = r"C:\Users\DriesVerdoodtNordend\Downloads\[RSA] Geometrie is consistent met GeometrieArtefact_20240808.xlsx"
 feature_type = 'Resultaat'  # This is the layer name or the Excel sheet name
 
 ######################################################################
@@ -57,6 +57,15 @@ try:
 except FileNotFoundError as e:
     raise FileNotFoundError(f"The file {filepath} does not exist.") from e
 
+
+######################################################################
+### Filter alle assets waarvoor een opmerking werd toegevoegd in de kolom "opmerkingen"
+######################################################################
+original_size = df_input.size
+df_input = df_input[df_input['opmerkingen (blijvend)'].isna()]
+new_size = df_input.size
+aantal_opmerkingen = original_size - new_size
+print(f'{aantal_opmerkingen} records zijn niet opgenomen, omdat ze een opmerking bevatten in het rapport.')
 
 ######################################################################
 ### Group-by geometry-type and assettype
