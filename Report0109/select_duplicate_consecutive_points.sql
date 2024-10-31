@@ -28,12 +28,13 @@ WITH cte_geometrie_dubbele_punten AS (
         assetuuid,
         wkt_string,
         SUBSTRING("wkt_string" FROM '^[^ (]+') AS wkt_string_prefix,
-        geometry,
-        ST_geometrytype(geometry) as "st_geometrytype"
+        geometry
     FROM
         geometrie
     where
 	    -- geen missing geometriën of multi-geometriën
+    	ST_NumGeometries(geometry) = 1
+    	and
         st_geometrytype(geometry) in ('ST_LineString', 'ST_Polygon', 'ST_Point')
         and
         ST_NPoints(st_removerepeatedpoints(geometry)) <> ST_NPoints(geometry)
