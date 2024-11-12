@@ -34,7 +34,7 @@ import os
 ######################################################################
 ### Define variables
 ######################################################################
-filename = r"C:\Users\DriesVerdoodtNordend\Downloads\[RSA] Geometrie is consistent met GeometrieArtefact_20240808.xlsx"
+filename = r"C:\Users\DriesVerdoodtNordend\Downloads\[RSA] Geometrie is consistent met GeometrieArtefact_20241031.xlsx"
 feature_type = 'Resultaat'  # This is the layer name or the Excel sheet name
 
 ######################################################################
