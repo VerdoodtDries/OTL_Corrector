@@ -1,4 +1,4 @@
-def validate_ean(self):
+def validate_ean(ean: int) -> bool:
     """
     Controleer of een EAN-nummer geldig is.
     Returns True of False
@@ -21,19 +21,19 @@ def validate_ean(self):
     check = True
 
     # 1. Lengte
-    ean_lengte = len(str(self.ean))
+    ean_lengte = len(str(ean))
     if ean_lengte != 18:
-        print(f'EAN-nummer {self.ean} telt {ean_lengte} karakters en dit moeten er 18 zijn.')
+        print(f'EAN-nummer {ean} telt {ean_lengte} karakters en dit moeten er 18 zijn.')
         check = False
 
     # 2. Prefix
-    ean_prefix = str(self.ean)[:2]
+    ean_prefix = str(ean)[:2]
     if ean_prefix != '54':
-        print(f'EAN-nummer {self.ean} heeft prefix {ean_prefix} en dit moet 54 zijn.')
+        print(f'EAN-nummer {ean} heeft prefix {ean_prefix} en dit moet 54 zijn.')
         check = False
 
     # 3.
-    ean_17 = str(self.ean)[:17]
+    ean_17 = str(ean)[:17]
     print(f'EAN_17: {ean_17}')
 
     ean_som_even = 0
@@ -59,20 +59,19 @@ def validate_ean(self):
         f'Som van het drievoud van de even posities {ean_som_even_drievoud} en de oneven posities {ean_som_oneven} luidt: {ean_som_even_drievoud_som_oneven}')
 
     modulo = ean_som_even_drievoud_som_oneven % 10
-    if modulo == 0:
-        pass
-    else:
-        # 10 - de modulo. Dit is het cijfer dat je moet bijtellen om door 10 te delen zonder rest
-        ean_controlecijfer = 10 - modulo
-        print(f'ean controlecijfer: {ean_controlecijfer}')
+    ean_laatste_cijfer = int(str(ean)[-1])
 
-    ean_laatste_cijfer = str(self.ean)[-1]
-    if int(ean_controlecijfer) != int(ean_laatste_cijfer):
+    # 10 - de modulo. Dit is het cijfer dat je moet bijtellen om door 10 te delen zonder rest
+    ean_controlecijfer = 10 - modulo
+    if ean_controlecijfer == 10:
+        ean_controlecijfer = 0
+
+    if ean_controlecijfer == ean_laatste_cijfer:
+        print(f'EAN-nummer {ean} is correct')
+    else:
         print(
             f'EAN-controlecijfer {ean_controlecijfer} stemt niet overeen met het laatste cijfers {ean_laatste_cijfer}.')
         check = False
-    else:
-        print(f'EAN-nummer {self.ean} is correct')
 
     return check
 
@@ -86,9 +85,8 @@ if user_input.lower() == 'exit':
 else:
     # Otherwise, create an instance of Class EAN using the user input
     try:
-        myEAN = EAN(user_input)
         # Call the class functions and display the results
-        valid = myEAN.validate_ean()
+        valid = validate_ean(user_input)
         print(f"EAN-number {user_input} validity check: {valid}")
 
     except ValueError:
