@@ -27,6 +27,6 @@ requests==2.28.0
 tzlocal
 urllib3==1.26.9
 XlsxWriter
-otlmow_converter~=0.17
-otlmow_model~=2.12.3.0
+otlmow_converter~=1.4
+otlmow_model~=2.13.4.1
 shapely~=2.0.4
