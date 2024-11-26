@@ -1,0 +1,1770 @@
+[
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "011446ae-5eec-4959-a62e-40c36f65ee48-b25kZXJkZWVsI1ZlcmtlZXJzYm9yZHN0ZXVu"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Verkeersbordsteun"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "0217985c-56a6-4dd1-a05e-3cb24b8431ea-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "028382ef-687f-4711-a36d-97f6e6d6047a-b25kZXJkZWVsI1J1aWd0ZQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Ruigte"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "03a10589-30c2-4da1-83bf-8e592e1c8c84-b25kZXJkZWVsI1ZlcmxpY2h0aW5nc3RvZXN0ZWxMRUQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#VerlichtingstoestelLED"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "05ea1d5b-93b8-4588-9f3b-aa693838629e-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "070fc9a6-3406-4110-816c-63484ed0b86c-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "0765b265-2417-4946-a82a-2543066ef700-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "0d066776-e283-431f-a3a4-e7885c62e0f7-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "0fd623aa-e83d-497d-871f-4da0ddd57f5a-b25kZXJkZWVsI0ZpZXRzbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Fietslantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "11953dc8-271d-4a17-9ba5-00bbf32f680b-b25kZXJkZWVsI0ZpZXRzbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Fietslantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "1195c863-015a-49c0-af4a-557e8128f25e-b25kZXJkZWVsI1J1aWd0ZQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Ruigte"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "11c54ffe-d097-49b7-be2a-a4b48f81f1bd-b25kZXJkZWVsI1JlY2h0ZVN0ZXVu"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#RechteSteun"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "136c7aec-448c-48ab-a94c-eef96aeafad9-b25kZXJkZWVsI1ZlcmxpY2h0aW5nc3RvZXN0ZWxMRUQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#VerlichtingstoestelLED"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "149e153e-4db3-4ffc-9912-7dd3855c1f56-b25kZXJkZWVsI1ZlcmxpY2h0aW5nc3RvZXN0ZWxOYUhQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#VerlichtingstoestelNaHP"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "16af5225-5162-4885-ac65-94ef492fb10d-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "16d7d63b-2650-4842-906e-b27b53e7aee1-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "1a31c27c-51e4-49b5-823a-0dd1c3d09003-b25kZXJkZWVsI0RvbWluYW50R3Jhc2xhbmRmYXNlMg"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#DominantGraslandfase2"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "1ac688cf-c3b2-4d9a-8f7e-1d5fe00e4757-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "21b4eaf6-4951-4adc-9301-025ce17b62f0-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "2304ee77-81c0-4cfe-b4e9-3b8e488d077a-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "2a26238b-c9c8-4f78-9345-ce07996dfe2f-b25kZXJkZWVsI1J1aWd0ZQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Ruigte"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "2d42c416-c05e-4561-af1a-032a56fe0dbc-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "2da59445-ce36-40e3-8b1d-02fefbe19a29-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "3189e64f-40ff-4fb4-8c93-339d3927e061-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "319c3bf1-809d-4e47-b288-577bdffb8b46-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "430dfbf5-e339-4589-9cb5-0fff6430d2a9-b25kZXJkZWVsI1ZlcmxpY2h0aW5nc3RvZXN0ZWxMRUQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#VerlichtingstoestelLED"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "44ad01e8-a968-41fb-b783-b74fbd72e7d1-b25kZXJkZWVsI09uZGVyZG9vcmJvcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Onderdoorboring"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "4840f184-5636-4023-8e6f-07fdacafe361-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#OpgaandeHoutigeVegetatie"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "488d8d31-6b87-4f7c-8ef1-d3b182ac1ede-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "4cbe7ee8-f6c5-4eb3-8dc2-a15f8c39a019-b25kZXJkZWVsI0R3YXJzZU1hcmtlcmluZ1ZlcnNjaHVpbmQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#DwarseMarkeringVerschuind"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "4cd34356-e45b-4d02-bbaf-4824152fcfe9-b25kZXJkZWVsI0thYmVsbW9m"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Kabelmof"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "4dd10afd-4b9b-48d8-bb2a-4db5c9ab4b48-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#OpgaandeHoutigeVegetatie"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "50878a33-d99d-4f24-8b77-c20c0811435b-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "53b8c498-4e5e-4fa3-b4a5-7c9cef127f57-b25kZXJkZWVsI0dyYXNLcnVpZGVubWl4R3Jhc2xhbmRmYXNlMw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#GrasKruidenmixGraslandfase3"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "53c4a446-bea6-4173-a4c1-0eef62a720a8-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "5f0b3ee5-6e54-4812-a984-a41deb502957-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "5fe84665-7f70-40f4-9bbc-f3c7643354d9-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "613ecd3c-3b45-46ba-a1b7-a2c8efd0dff9-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "6190174d-e5a8-4cf1-991a-7ba19b4ca5ad-b25kZXJkZWVsI1ZlcmxpY2h0aW5nc3RvZXN0ZWxMRUQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#VerlichtingstoestelLED"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "6263e1f5-3474-409b-a3e6-9d1ba9b2dc16-b25kZXJkZWVsI0thYmVsbW9m"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Kabelmof"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "659d9433-9944-4fa2-b38b-d83be0af3d9c-b25kZXJkZWVsI0thYmVsbW9m"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Kabelmof"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "6a7dd1ae-3f40-44a9-9419-a15f1b37b8e0-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "6b00917e-a6ac-429f-8a04-e8d0dc31dd78-b25kZXJkZWVsI1ZlcmxpY2h0aW5nc3RvZXN0ZWxMRUQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#VerlichtingstoestelLED"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "6f4cce0a-c4c3-4600-9ed6-f5d4684f643d-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#OpgaandeHoutigeVegetatie"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "7084d32e-2bfa-4241-848a-0e25efb08b31-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "70afa5f1-4f0b-4140-a764-73f730467125-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "74eadee2-0ce9-4410-bd7a-6768522a2aea-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "78a64b16-707f-44a3-b34e-d6ee279eb467-b25kZXJkZWVsI0dyYXNtYXQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Grasmat"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "796ba4a9-9f3b-428d-9b3a-bc096c44867c-b25kZXJkZWVsI0dyYXNtYXQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Grasmat"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "7d3af518-9e9d-433d-b7b6-92f033c8a589-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "7de2e914-192a-4ba9-8309-f3769e835b80-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#OpgaandeHoutigeVegetatie"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "825a24b2-aee3-46d2-b9db-449338b61ab0-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#OpgaandeHoutigeVegetatie"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "83832183-912f-453a-9636-319a0a043350-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#OpgaandeHoutigeVegetatie"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "874bc6fc-5bf6-4c7e-b7ef-276d51eec051-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "89b5d4fc-1a10-4763-86b7-f2029e9e4e51-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "8ac60b23-d804-46b7-b01a-4fe96cc487fd-b25kZXJkZWVsI0dyYXNLcnVpZGVubWl4R3Jhc2xhbmRmYXNlMw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#GrasKruidenmixGraslandfase3"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "93015e27-f40d-451b-bd1e-bf184aa9ecd2-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "94be7ab0-1e41-40b4-91be-e9bf357a0024-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "9a5553e8-0a43-4c3f-9be1-44f7d97585fb-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "9f03025a-055c-45c8-8de9-bc79c538aa26-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#OpgaandeHoutigeVegetatie"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "a0bee032-4874-47d9-8ca6-6b2f07638ff4-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "a7abef25-86d8-4402-b5d7-7d84ec98845e-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "abbb0b2d-8155-418e-b3ff-72aec411ceca-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#OpgaandeHoutigeVegetatie"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "b2ab51ae-312c-4c45-88bb-91ad0491e933-b25kZXJkZWVsI1ZlcmxpY2h0aW5nc3RvZXN0ZWxMRUQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#VerlichtingstoestelLED"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "b3f9f912-5ffe-4e34-84fd-5ce797efdfaf-b25kZXJkZWVsI1ZvZWRpbmdza2FiZWw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voedingskabel"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "bd34ae88-7f5f-4265-a60f-7c593fc7f477-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "bd503b08-3844-41b3-86f6-db91f3bee73f-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "c3dff4dc-477b-475b-9181-9d2d2bea321a-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "c6898378-e89b-4767-a8f7-c86a684228eb-b25kZXJkZWVsI0RvbWluYW50R3Jhc2xhbmRmYXNlMg"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#DominantGraslandfase2"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "c8eddef6-f94f-4cb3-a13f-bd0f61949526-b25kZXJkZWVsI1ZvZWRpbmdza2FiZWw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voedingskabel"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "cfb0b77a-9eec-47b4-a8e6-b070bc627854-b25kZXJkZWVsI1ZvZWRpbmdza2FiZWw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voedingskabel"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "d002a003-d474-42f5-b94b-705e35c205db-b25kZXJkZWVsI1ZlcmxpY2h0aW5nc3RvZXN0ZWxMRUQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#VerlichtingstoestelLED"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "d102470a-8ffb-4ff9-915a-fcbc571be3be-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "d31e4908-9a44-4632-8ad4-81c6a214dc49-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "d33601bd-7adb-4905-958e-5bbbdabb35ca-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "d8448d46-a754-4cd2-9c29-0dde7de63696-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#OpgaandeHoutigeVegetatie"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "d94203e0-931a-4ea7-9a45-a1972d5a2f2d-b25kZXJkZWVsI0ZpZXRzbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Fietslantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "dac23137-4cc2-4a45-9c07-a94ff1099787-b25kZXJkZWVsI1ZlcmxpY2h0aW5nc3RvZXN0ZWxMRUQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#VerlichtingstoestelLED"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "dc45526f-0a1a-428f-92ba-eec39c0160ae-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "dfc102c9-43ab-4710-b5a7-f6ad521d92cd-b25kZXJkZWVsI1ZvZWRpbmdza2FiZWw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voedingskabel"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "e07f0af0-9d69-4ae8-b2e8-5e9331dccda9-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#OpgaandeHoutigeVegetatie"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "e132a5e5-c04c-4c17-ba27-27f4e8b8ba3c-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#OpgaandeHoutigeVegetatie"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "e15d8b95-12de-48af-8eec-a838c70917f5-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "e29c7f1e-07ae-4f55-9248-739dbc566247-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#OpgaandeHoutigeVegetatie"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "e4c00f74-4d69-46e9-aa9f-77e9eb7f0cdb-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "e55fa508-cda6-4e2d-a6e2-9f8c78e26261-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "e606ccbf-08a0-4938-a6c6-fc0e6a1d6d6b-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#OpgaandeHoutigeVegetatie"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "e714f33e-fe18-4a48-b7ac-32238214fa33-b25kZXJkZWVsI1ZlcmxpY2h0aW5nc3RvZXN0ZWxMRUQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#VerlichtingstoestelLED"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "e728f1e3-a82f-4c05-bf6c-c91438be9120-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "e7962309-42ff-445b-b4f4-e0c548e9d584-b25kZXJkZWVsI0thYmVsbW9m"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Kabelmof"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "ea0fdf10-52bf-4f9c-89b0-6474eafbb638-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#OpgaandeHoutigeVegetatie"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "ee6a50ad-37ba-408d-964e-f26653304fce-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "ef225a05-9a03-4541-a858-f260368f5e14-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "f0f738ff-ce9d-42e0-a1e7-f428a1625a51-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "f69cc35f-f14f-403a-948c-5aa3ec935121-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "f6ef798c-b0d7-4f7b-9d12-c4106647a67e-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "f8db2b37-0d61-4bc6-95e8-06ea3ebf7106-b25kZXJkZWVsI1ZvZWRpbmdza2FiZWw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voedingskabel"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "f92f5370-4cd0-4ea5-92f1-4c27bb3fb38d-b25kZXJkZWVsI09wZ2FhbmRlSG91dGlnZVZlZ2V0YXRpZQ"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#OpgaandeHoutigeVegetatie"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "f9372588-3d4e-484d-b206-216f2d3eab87-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "fb87ee34-f646-441b-8cdd-7d47f7017080-b25kZXJkZWVsI0ZpZ3VyYXRpZU1hcmtlcmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#FiguratieMarkering"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "00c989d1-e076-4a1a-9ab0-c13d825e8f22-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "01a68550-bf4d-4e3a-84ac-65563a7d75fe-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "03531bbc-a079-4622-9cda-77b6837c8b6a-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "04a0e356-e9a5-497c-bbb2-006e1c99c1c2-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "0a0b4902-1ccf-4d6c-851e-98afd87cb5ac-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "0bdf6c65-3060-488a-90e8-b98af7b27266-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "0f0add70-f8e2-4b4f-8bbf-59f717b370c8-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "11df3505-9c8d-42e8-aacc-f1a9dad4be19-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "16250447-a049-467e-a99d-c5e12db4d2b5-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "1e605aaa-bcae-486b-a86b-8e951c6ac151-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "1f53f72c-e182-472b-9a37-1dc9e10a29eb-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "26ecc56a-5418-4aa2-b7fb-db392055f9d6-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "27f31c37-2e3d-41b7-89c8-fb97615d1a77-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "2d0d480f-ae39-4f88-8aa9-bb25174dfdba-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "2ea5572d-4a29-401f-a00f-3aedf4cab1d2-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "2fee2f74-0b54-4879-8abd-bb1be851e5a1-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "34520350-5631-4e4d-9afb-2cb598fb5d53-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "37d00131-254b-4e41-b47d-2d471624c92c-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "381111c4-d199-4da0-a538-76efe61f7e78-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "3cdb85d9-e60a-4f21-b19e-dc5173195dd6-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "3de75e94-b600-4291-872a-4e0fcb2de9ee-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "41ed976b-5076-41cb-98a0-3468ab18d223-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "4535cae9-ad38-42a3-a956-8e69e1b7dd52-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "4bd3d83a-5568-4617-b0b0-da97455908ea-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "4c04fc17-78ba-40dc-85a7-bdd074c644e7-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "4e6eb226-7ee7-4b4d-9dd8-b26a91d39f60-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "4eb012d1-c579-4e67-8fb9-1ecbd3a0a798-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "52d75413-2c62-4d28-9674-944742a0018f-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "534709c4-541a-4fa0-bda5-69e975a17cf9-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "58003a6f-be69-44e9-972c-934e3709fdb1-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "588c1178-b99e-43fa-907f-ac0d64fd1d78-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "5912c3fe-336b-416c-aebb-6582356d3bd0-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "5a96cd5e-48b4-4c7b-8272-972d644dd8b9-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "5cecb935-f160-41e9-aa4e-a7d9217d55b3-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "5ea291f7-eac1-4908-9d57-901a6fb3ef35-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "6003e115-3723-4921-9737-8c075d52543c-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "670d7941-ca72-4830-84dc-da816583867a-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "69c3f368-a434-4a84-842e-665c545e3d6f-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "6de3ac33-cd72-4f4b-a12d-555fcc90a0c2-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "70706127-4a6c-48c9-8974-01c4b753245f-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "74b9aa1a-52db-4f5e-957c-507380bcf6ba-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "74c2dd6f-d824-4a24-8929-4ed21f90944f-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "7928f371-48dc-4e9b-88fd-91ea55648620-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "7b152411-1cde-4425-b20c-727c90a833b7-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "8013e321-1a1f-45a8-a031-606133b7565a-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "814cf03f-ce86-44b4-b39f-a8b0d18cd8b8-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "81605564-c1ce-4915-b21b-4f8a67c3ee9b-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "8579e918-40ae-4ead-a64a-cb24461b07f8-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "8614c4d6-b435-4f97-bdd8-03517d83d65d-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "8971f00a-5b71-4841-a898-1da693796189-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "8ad68078-82fe-46b8-8ab5-3382a0efdc32-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "8c573af4-95ab-4c6b-9789-5d11143cd369-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "8c9d06a2-bb01-4f30-8027-f9551a9fdd9f-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "8f32c13c-825d-4a4a-b69a-3cbf635c556a-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "8f504051-b786-478f-a3f3-4f662cddc665-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "9cfd203f-2f04-4c27-a9c5-86ca4b17bc7c-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "a2c3f646-ace7-4447-b930-04f500ec9e2b-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "a71f31f9-2b79-448d-8813-9c3ca5cddd30-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "a8abfab2-e466-4e9f-9917-3d0c9dff8d72-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "a8b72bbe-e7cd-41ce-84c2-fbb4cff5b13d-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "a9977586-ca7a-4d22-bc76-c4c58c0bed2f-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "af8a40f7-411c-4250-ae46-805c42e69e06-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "af8d7ae0-5a43-4326-a756-6ad369925d90-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "afc3bc89-2c16-447d-91ca-5c5b1b08cc4d-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "b03f353c-eff3-4ae6-98eb-86dcc642c727-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "b317325f-d860-4c09-be05-2f2b0f3ef603-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "b33fa2b4-70f0-43ab-bade-abf9d0d19d41-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "b76304cb-f1cc-4fbe-b929-3a6a10d3bac7-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "b7da9848-7d9f-407a-a5e9-4768810fefc6-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "b824f503-d5ab-4679-ab15-ef443eb3f39b-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "b88f7e1b-0f89-4194-af23-c0cb105df1ff-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "bc9a0491-e3f8-49bb-b47e-d9d3153be036-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "bdaeeaff-16ee-4cf5-a663-83369feae0e9-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "c30f4054-98cc-40d3-a5ed-607cc102ae2d-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "c789bd81-6c86-4703-886c-db8033618266-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "c79cee2d-1b87-4b7b-bc6d-fa13b60cda58-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "ca98cde3-bd31-4e72-92a6-460bfd0a3f60-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "d0cb8c0d-5e93-4bbe-a9bf-842e60794e91-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "d4e5c9d6-42a3-4323-b67c-b21d86b3076e-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "d5b9dca6-e781-4adb-883f-c6336ab12be0-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "d6e3001a-17c9-4871-9a77-e7f627f93196-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "d8754f6d-e21c-4dac-9cf1-0d8eff4b2c8f-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "dbed01e1-bc03-4c83-8c90-db959fdec086-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "dc96e545-0533-4b80-b629-1dcb9f38687b-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "ddae0a4b-2b5c-45a3-ae9a-b61028b7c097-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "dea6c44e-ddfa-46d2-99f8-31541bf33715-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "e19ba257-60b3-4910-b2d4-b64dd144a413-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "e59a4610-8ad4-4870-9c2d-14cd4aa0979d-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "e6047e46-674a-46f2-970a-0c730ae4e9ba-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "ec765bdf-3ab1-46d0-894d-158893e6214e-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "ef3398b6-67ca-4746-bd96-04ab248791b5-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "ef8b9d2e-9472-432d-a13c-f71dc3427fc0-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "f33ba784-2cbb-4653-8999-109cae020e61-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "f3736cd4-dd7a-4d6a-afb0-9fddff496efd-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "f470a824-ef68-4b3d-b980-275fd21cadbf-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "fa290af8-923b-4ccc-bfe8-f862c9b4b71e-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "faced839-bb37-4eef-ba50-8ca94d5e8f46-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "fb075d88-0ff1-4fb8-bcb2-beaf7a42844f-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "fc24ee4b-76c6-42f6-b9a7-a66db10973fc-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "fda64a37-fffc-4bfd-8ea0-5b69a8605291-b25kZXJkZWVsI1ZvZXJ0dWlnbGFudGFhcm4"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voertuiglantaarn"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "0c26a1e7-68c3-413b-a625-e8141861010c-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "290d742f-5c8a-4cbc-a562-8bcfe85d8b6d-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "29b0e1ef-df80-4a85-a879-70727ca982a0-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "3c268944-2d36-4b36-899c-9e7c6e40f035-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "49f0e0f3-b393-405e-9e82-cedfdc1ec17c-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "55003bc3-832c-4724-8066-8659b2cd8101-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "57d0bbe0-7a88-45fd-a0ab-34fc15f0ede1-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "8d9dcb5a-d1ad-4a80-b863-ebba1e604436-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "90dd9925-4e3e-4513-ab42-8216151a8b65-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "9225eb79-a519-45b1-989e-339c35117884-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "95ed9910-a979-4b15-97b7-2cf690c5467c-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "97788986-44d6-4af3-b5cb-1dfff95057ec-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "9f924469-19a6-4df8-b4a0-561909a691d5-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "a23f013d-f5b0-4024-972b-656b81eb4ae7-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "a37b33d3-48de-4f90-904c-e18da21bd813-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "a59bfb95-9ec0-40e8-8d07-58711a3a4d54-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "e764aff4-e12d-4887-890d-f4f52c8f9575-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "e8876c08-f32b-4fb4-aa91-280a2c78bdb8-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "eb26c518-1c11-41b8-b1fa-62b9a2ba3e44-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "ec32642a-ab3b-4a5e-8fb8-6118494a32bb-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    },
+    {
+        "geometry": "88888888",
+        "isActief": false,
+        "assetId": {
+            "identificator": "fcfa8a85-f315-4b98-a42b-924c65dfd773-b25kZXJkZWVsI1dWTGljaHRtYXN0"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#WVLichtmast"
+    }
+]
